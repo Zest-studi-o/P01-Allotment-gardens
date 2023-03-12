@@ -143,10 +143,15 @@ Font Awesome - To add icons to the website.
 Get feedback from mentor, peer review, test with developer tools.
 Create an execute use cases for testing.
 Make sure to match user goals with a test case.
-Use some tools for automated testing.
+Use some tools for automated testing such as the validators.
 
 ### W3C Validator
-The W3C validator used to validate html and css files.
+HTML - No errors were returned when passing through the official W3C validator.
+[W3C Validator](https://validator.w3.org/)
+
+### Jigsaw Validator
+CSS - No errors were found when passing through the official (Jigsaw) validator.
+[Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 ### Solved Bugs
 Document bugs found and how they were solved.
