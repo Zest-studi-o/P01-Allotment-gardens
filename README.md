@@ -1,4 +1,4 @@
-## CONTENTS
+# Table of contents
 
 * [User Experience (UX)](#User-Experience-(UX))
   * [Initial Discussion](#Initial-Discussion)
@@ -14,18 +14,21 @@
 
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+  * [Frameworks, Libraries & Programs Used](#Programs-Used)
 
 * [Deployment & Local Development](#Deployment-&-Local-Development)
 
 * [Testing](#Testing)
-
+  * [Jigsaw](#Jigsaw-Validator)
+  * [W3C Validator](#W3C-Validator)
+  
 * [Credits](#Credits)
   * [Content](#Content)
   * [Media](#Media)
   * [Acknowledgments](#Acknowledgments)
 
 - - -
+
 
 ## User Experience (UX)
 
@@ -119,7 +122,7 @@ It is important to have a website that is accessibility friendly, this objective
 
 HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used <a name="#Programs-Used"></a>
 
 Balsamiq - Used to create wireframes.
 
@@ -145,11 +148,11 @@ Create an execute use cases for testing.
 Make sure to match user goals with a test case.
 Use some tools for automated testing such as the validators.
 
-### W3C Validator
+### W3C Validator <a name="#W3C-Validator"></a>
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
 
-### Jigsaw Validator
+### Jigsaw Validator <a name="#Jigsaw-Validator"></a>
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
@@ -171,6 +174,10 @@ Document known bugs and explain why they were not fixed.
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
 * [Creating your first readme](https://www.youtube.com/watch?v=XbYJ4VlhSnY&ab_channel=CodeInstitute)
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
+* [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 
 #### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
+
+
+
