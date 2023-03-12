@@ -139,6 +139,23 @@ Font Awesome - To add icons to the website.
 
 - - -
 
+## Testing
+Get feedback from mentor, peer review, test with developer tools.
+Create an execute use cases for testing.
+Make sure to match user goals with a test case.
+Use some tools for automated testing.
+
+### W3C Validator
+The W3C validator used to validate html and css files.
+
+### Solved Bugs
+Document bugs found and how they were solved.
+
+### known Bugs
+Document known bugs and explain why they were not fixed.
+
+- - -
+
 ## Credits
 
 ### Content
