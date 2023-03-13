@@ -14,7 +14,7 @@
 
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Programs-Used)
+  * [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
 
 * [Deployment & Local Development](#Deployment-&-Local-Development)
 
@@ -70,7 +70,7 @@ They are free but to be able to join members need to be active in the community 
 
 #### Frequent Visitor Goals
 
-* I want to see the latest news from City Gardens
+* I want to see the latest news from City Gardens.
 
 - - -
 ## Design
@@ -95,7 +95,7 @@ The images are taken from the following royalty free sites:
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-[Home Page Wireframe](link to wireframe)
+![Home Page Wireframe](assets/images/p01wf-home.png)
 
 [Locations Wireframe](link to wireframe)
 
@@ -122,7 +122,7 @@ It is important to have a website that is accessibility friendly, this objective
 
 HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used <a name="#Programs-Used"></a>
+### Frameworks, Libraries & Programs Used 
 
 Balsamiq - Used to create wireframes.
 
