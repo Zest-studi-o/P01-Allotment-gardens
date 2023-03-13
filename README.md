@@ -99,7 +99,7 @@ Wireframes for desktop, tablet and mobile versions as follows:
 
 [Locations Wireframe](assets/images/readme-images/p01wf-locations.png)
 
-[Contact Us Wireframe](link to wireframe)
+[Contact Us Wireframe](assets/images/readme-images/p01wf-contact-us.png)
 
 ### Features
 
