@@ -95,7 +95,7 @@ The images are taken from the following royalty free sites:
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-[Home Page Wireframe](assets/images/p01wf-home.png)
+[Home Page Wireframe](assets/images/readme-images/p01wf-home.png)
 
 [Locations Wireframe](link to wireframe)
 
