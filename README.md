@@ -1,3 +1,14 @@
+# CITY GARDENS
+
+City Gardens website is a website designed to connect potential and active users of the community garden allotments available in Dublin city and how to take the best use of them once taking part.
+
+Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes.
+
+Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site. 
+
+Add optional [shields.io](https://shields.io) badges to README.
+
+
 # Table of contents
 
 * [User Experience (UX)](#User-Experience-(UX))
@@ -94,7 +105,7 @@ Typography used, google fonts and font awsome.
 
 ### Imagery
 
-The images are taken from the following royalty free sites:
+The images are taken from the royalty free sites credited [here](#Credits):
 * Royalty Free site 1
 * Royalty Free site 2
 
