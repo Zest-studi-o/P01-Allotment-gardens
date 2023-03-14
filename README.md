@@ -90,7 +90,7 @@ They are free but to be able to join members need to be active in the community 
 
 ![Eggplant palette](assets/images/readme-images/palette-eggplant.png)
 
-The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement there is the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used gainst dark background colours and vice versa. 
+The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used gainst dark background colours and vice versa. 
 The final colour palette was created using the [Coolors](https://coolors.co/) website. 
 Some other alternatives and shades based on the selected palette were:
 [Tomato vine palette](assets/images/readme-images/palette-tomato-vine.png)
@@ -119,11 +119,31 @@ Wireframes for desktop, tablet and mobile versions as follows:
 
 ### Features
 
-### Existing Features
-Some existing features.
+#### Existing Features
+This website has three pages that can be accessed from the navigation menu (home page, locations page, and contact us page). 
+
+* All pages have:
+ * A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
+ * A footer with links to social media.
+
+* Home Page.
+  * Hero section. 
+  This shows images of some members of City Gardens with the produce.
+  * About us section.
+  This explains briefly to the user what is City Gardens, about the markets selling the produce and where can they be found.
+  * Video section.
+  This links to videos on relevant content such as latest news on the local markets in which the produce is sold, how to join City Gardens, or members working on them.
+
+* Locations page.
+  * Images of the locations. 
+  * Caption with address and contact details. 
+  
+* Contact us page.
+  * Form. 
+  This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
 ### Features Left to Implement
-Some feature ideas not implemented
+Some feature ideas not implemented.
 
 ### Accessibility
 It is important to have a website that is accessibility friendly, this objective was achivieved by:
@@ -191,6 +211,7 @@ Document known bugs and explain why they were not fixed.
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 * [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
+* [kera Cudmore readme template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
 * [Creating your first readme](https://www.youtube.com/watch?v=XbYJ4VlhSnY&ab_channel=CodeInstitute)
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 * [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
