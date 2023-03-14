@@ -1,6 +1,6 @@
 # CITY GARDENS
 
-City Gardens website is a website designed to connect potential and active users of the community garden allotments available in Dublin city and how to take the best use of them once taking part.
+City Gardens is a website designed to connect potential and active users of the community garden allotments available in Dublin city and how to take the best use of them once taking part.
 
 Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes.
 
@@ -105,9 +105,7 @@ Typography used, google fonts and font awsome.
 
 ### Imagery
 
-The images are taken from the royalty free sites credited [here](#Credits):
-* Royalty Free site 1
-* Royalty Free site 2
+The images are taken from the royalty free sites credited [here](#Credits).
 
 ### Wireframes
 
@@ -186,7 +184,10 @@ Document known bugs and explain why they were not fixed.
 
 ### Content
 
-#### Tutorials
+### Imagery, vectors & videos
+* [Freepik](https://www.freepik.com/)
+
+### Tutorials
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 * [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
@@ -194,7 +195,7 @@ Document known bugs and explain why they were not fixed.
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 * [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 
-#### Acknowledgments
+### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
 
 
