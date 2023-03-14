@@ -42,7 +42,7 @@ They are free but to be able to join members need to be active in the community 
 
 * What is City Gardens and what does it offer.
 * What is currently going on in the community garden.
-* How to take part in the inicitative and become a member.
+* How to take part in the inititative and become a member.
 * A way of contacting City Gardens and enquire or provide suggestions.
 * Where to find the locations for the allotment.
 
@@ -77,9 +77,16 @@ They are free but to be able to join members need to be active in the community 
 
 ### Colour Scheme
 
-![City Gardens Colour Palette](link to my colour palette)
+![Eggplant palette](assets/images/readme-images/palette-eggplant.png)
 
-Description of color palette planned and used for the website. The colour palette was created using the [Coolors](https://coolors.co/) website. (or other website. link here)
+The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement there is the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used gainst dark background colours and vice versa. 
+The final colour palette was created using the [Coolors](https://coolors.co/) website. 
+Some other alternatives and shades based on the selected palette were:
+[Tomato vine palette](assets/images/readme-images/palette-tomato-vine.png)
+[Violet field palette](assets/images/readme-images/palette-violet-field.png)
+
+
+There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
 
 ### Typography
 
@@ -148,11 +155,11 @@ Create an execute use cases for testing.
 Make sure to match user goals with a test case.
 Use some tools for automated testing such as the validators.
 
-### W3C Validator <a name="#W3C-Validator"></a>
+### W3C Validator 
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
 
-### Jigsaw Validator <a name="#Jigsaw-Validator"></a>
+### Jigsaw Validator
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
