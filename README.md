@@ -11,7 +11,7 @@ Add optional [shields.io](https://shields.io) badges to README.
 
 # Table of contents
 
-* [User Experience (UX)](#User-Experience-(UX))
+* [User Experience (UX)](#User-Experience-UX)
   * [Initial Discussion](#Initial-Discussion)
   * [User Stories](#User-Stories)
 
@@ -45,9 +45,13 @@ Add optional [shields.io](https://shields.io) badges to README.
 
 ### Initial Discussion
 
-City Gardens is a community garden allotment group. People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the iniciative.
+City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particuraly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into alotments which can be used by members of the public.
 
-They are free but to be able to join members need to be active in the community and produce some fruit and veg, 10% of this produce is sold at local markets so the community garden can have further social events, core funding is provided by Dublin City Hall. When first signing up people recieve a free starter pack including gardening and hoticulture book to make the best use of the land.
+People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
+
+They are free but to be able to join members need to be active in the community and produce some fruit and veg, 10% of this produce is sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall. When first signing up people recieve a free starter pack including a gardening and horticulture book to make the best use of the land.
+
+The websites purpose is to highlight the avilability of the service, where the alotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The alotments are available for people of all ages and skillsets.
 
 #### Key information for the site
 
@@ -59,29 +63,29 @@ They are free but to be able to join members need to be active in the community 
 
 ### User Stories
 
-#### Client Goals
+#### User Goals
 
-* To have the site displayed clearly in different devices.
-* To find information on what is City Gardens and how to participate
-* To show exactly where the gardens are located.
-* To be able to contact City Gardens with any queries or suggestions.
+* As a user I want to have the site displayed clearly in different devices.
+* As a user I want to find information on what is City Gardens and how to participate
+* As a user I want to show exactly where the gardens are located.
+* As a user I want to be able to contact City Gardens with any queries or suggestions.
 
 #### First Time Visitor Goals
 
-* I want to know what City Gardens is and how to participate.
-* I want to find the locations of the allotments.
-* I want to be able to find their contact details.
-* I want to navigate the site easily on all my devices.
-* I want to see the results of the produce with videos and photos.
+* As a fisrt time visitor I want to know what City Gardens is and how to participate.
+* As a fisrt time visitor I want to find the locations of the allotments.
+* As a fisrt time visitor I want to be able to find their contact details.
+* As a fisrt time visitor I want to navigate the site easily on all my devices.
+* As a fisrt time visitor I want to see the results of the produce with videos and photos.
 
 #### Returning Visitor Goals
 
-* I want to find out about the events for members and where are the local markets that sell our produce.
-* I want to be able to easily contact the book club with questions I might have.
+* As a returning visitor I want to find out about the events for members and where are the local markets that sell our produce.
+* As a returning visitor I want to be able to easily contact the book club with questions I might have.
 
 #### Frequent Visitor Goals
 
-* I want to see the latest news from City Gardens.
+* As a frequent visitor I want to see the latest news from City Gardens.
 
 - - -
 ## Design
