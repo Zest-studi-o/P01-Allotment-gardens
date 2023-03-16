@@ -92,13 +92,13 @@ The websites purpose is to highlight the avilability of the service, where the a
 
 ### Colour Scheme
 
-![Eggplant palette](assets/images/readme-images/palette-eggplant.png)
+![Eggplant palette](docs/palette-eggplant.png)
 
 The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used gainst dark background colours and vice versa. 
 The final colour palette was created using the [Coolors](https://coolors.co/) website. 
 Some other alternatives and shades based on the selected palette were:
-[Tomato vine palette](assets/images/readme-images/palette-tomato-vine.png)
-[Violet field palette](assets/images/readme-images/palette-violet-field.png)
+[Tomato vine palette](docs/palette-tomato-vine.png)
+[Violet field palette](docs/palette-violet-field.png)
 
 
 There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
@@ -115,11 +115,11 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-[Home Page Wireframe](assets/images/readme-images/p01wf-home.png)
+[Home Page Wireframe](docs/p01wf-home.png)
 
-[Locations Wireframe](assets/images/readme-images/p01wf-locations.png)
+[Locations Wireframe](docs/p01wf-locations.png)
 
-[Contact Us Wireframe](assets/images/readme-images/p01wf-contact-us.png)
+[Contact Us Wireframe](docs/p01wf-contact-us.png)
 
 ### Features
 
