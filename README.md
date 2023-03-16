@@ -119,7 +119,7 @@ Wireframes for desktop, tablet and mobile versions as follows:
 
 [Locations Wireframe](docs/p01wf-locations.png)
 
-[Contact Us Wireframe](docs/p01wf-contact-us.png)
+[Contact Us Wireframe](docs/contact.gif)
 
 ### Features
 
