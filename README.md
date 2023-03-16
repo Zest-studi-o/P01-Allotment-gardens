@@ -115,9 +115,9 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-[Home Page Wireframe](docs/p01wf-home.png)
+[Home Page Wireframe](docs/home.gif)
 
-[Locations Wireframe](docs/p01wf-locations.png)
+[Locations Wireframe](docs/locations.gif)
 
 [Contact Us Wireframe](docs/contact.gif)
 
