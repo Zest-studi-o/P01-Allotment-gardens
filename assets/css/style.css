@@ -6,6 +6,11 @@
     border: none;
 }
 
+header {
+    display: grid;
+    background-color: #fbfbfa;
+}
+
 
 body {
     margin:0;
@@ -49,9 +54,6 @@ body {
     color: #c2e812;
 }
 
-body{
-    background-color: pink;
-}
 
 /*footer*/
 
