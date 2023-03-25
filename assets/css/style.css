@@ -106,6 +106,33 @@ p {
     
 }
 
+/*videos*/
+#videos {
+    height: 400px;
+    text-align: center;
+}
+
+#left-video {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: pink;
+}
+
+#right-video {
+    padding-top: 30px;
+    width: 33%;
+    float: right; 
+    background-color: aqua;
+}
+
+#center-video {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;  
+    background-color: red;
+}
+
 /*footer*/
 
 footer {
