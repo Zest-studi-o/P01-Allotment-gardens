@@ -210,8 +210,9 @@ Document known bugs and explain why they were not fixed.
 
 ### Imagery, vectors & videos
 * [Freepik](https://www.freepik.com/)
+* [Pexels](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
 
-### Tutorials
+### Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 * [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
@@ -220,6 +221,8 @@ Document known bugs and explain why they were not fixed.
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 * [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 * [Responsive iframe](https://techstacker.com/how-to-responsive-youtube-videos/)
+* [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
+* [W3 schools](https://www.w3schools.com/)
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.

@@ -72,7 +72,8 @@ body {
 #hero-image{
     height: 600px;
     width: 100%;
-    background: url("../images/tomates-1200-500.gif") no-repeat center center;
+    background: url("../images/female-in-blue-1600x500.gif") no-repeat center center;
+    background-size: cover;
 }
 
 /*footer*/
