@@ -228,6 +228,7 @@ Document known bugs and explain why they were not fixed.
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 * [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 * [Responsive iframe](https://techstacker.com/how-to-responsive-youtube-videos/)
+* [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 * [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
 * [W3 schools](https://www.w3schools.com/)
 

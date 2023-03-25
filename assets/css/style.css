@@ -111,22 +111,21 @@ p {
 }
 
 /*iframe*/
-iframe {
+ /*fiframe {
 width:"300";
 height:"200";
-background: url("https://www.youtube.com/embed/uga8GWzdv3c") no-repeat center center;
 
- /*frameborder="0"
+
+rameborder="0"
  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
- allowfullscreen*/
-}
+ allowfullscreen
+}*/
 
 #left-video-container {
     padding-top: 30px;
     width: 33%;
     float: left;
     background-color: pink;
-    background-size: cover;
 }
 
 #right-video-container {
