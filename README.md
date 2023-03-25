@@ -45,7 +45,7 @@ Add optional [shields.io](https://shields.io) badges to README.
 
 ### Initial Discussion
 
-City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particuraly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into alotments which can be used by members of the public.
+City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particuraly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
 
 People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
