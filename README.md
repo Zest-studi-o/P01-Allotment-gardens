@@ -105,7 +105,13 @@ There was some colour exploration using [Adobe Colour Wheel](https://color.adobe
 
 ### Typography
 
-Typography used, google fonts and font awsome.
+The fonts were used from Google Fonts:
+
+*  Karla is used for headings and subheadings on the site. It is a serif font that combines well with the body copy font, which is sans-serif, serif and sans-serif fonts offer good contrast.
+
+*  Monstserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web.  
+
+*  Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awsome and combined with this font.
 
 ### Imagery
 
@@ -178,7 +184,7 @@ Font Awesome - To add icons to the website.
 
 [Tiny PNG](https://tinypng.com/) To quickly compress imagery.
 
-[Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize and crop to size imagery.
+[Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize, crop to size and web optimise imagery.
 
 - - -
 
