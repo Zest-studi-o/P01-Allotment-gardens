@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nunito:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Lobster&family=Montserrat&display=swap');
 
 *{
     margin: 0;
@@ -12,11 +12,8 @@ body {
     font-family: "Montserrat", sans-serif;
  }
 
-/* logo 
+/* logo */
 
-#logo i{
-    color: #c2e812;
-}*/
 #logo {
     float: left;
     font-size: 270%;
@@ -76,6 +73,20 @@ header {
     width: 100%;
     background: url("../images/woman-in-blue-2600x1000.gif") no-repeat center center;
     background-size: cover;
+}
+
+/*about us section*/
+#about-us {
+text-align: center;
+background-color: #c2e812;
+}
+
+h2 {
+    font-family: "Karla", serif;
+    letter-spacing: 4px;
+    font-size: 220%;
+    color: black;
+
 }
 
 /*footer*/
