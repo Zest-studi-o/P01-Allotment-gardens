@@ -79,14 +79,22 @@ header {
 #about-us {
 text-align: center;
 background-color: #c2e812;
+height: 170px;
+padding: 20px 180px;
 }
 
 h2 {
     font-family: "Karla", serif;
     letter-spacing: 4px;
     font-size: 220%;
-    color: black;
+    color: #171219;
+    margin-bottom: 15px;
+}
 
+p {
+    color:#2f2932;;
+    font-size: 100%;
+    
 }
 
 /*footer*/
