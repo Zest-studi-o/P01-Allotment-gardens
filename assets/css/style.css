@@ -23,7 +23,6 @@ body {
     color: #c2e812;
 }
 
-
 /* navigation links */
 
 header {
@@ -97,14 +96,13 @@ h3 {
     font-size: 120%;
     letter-spacing: 2px;
     margin-bottom: 3px;
-
 }
 
 p {
     color:#2f2932;;
-    font-size: 100%;
-    
+    font-size: 100%;   
 }
+
 
 /*videos*/
 #videos {
@@ -112,26 +110,59 @@ p {
     text-align: center;
 }
 
-#left-video {
+/*iframe*/
+iframe {
+width:"300";
+height:"200";
+background: url("https://www.youtube.com/embed/uga8GWzdv3c") no-repeat center center;
+
+ /*frameborder="0"
+ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+ allowfullscreen*/
+}
+
+#left-video-container {
     padding-top: 30px;
     width: 33%;
     float: left;
     background-color: pink;
+    background-size: cover;
 }
 
-#right-video {
+#right-video-container {
     padding-top: 30px;
     width: 33%;
     float: right; 
     background-color: aqua;
 }
 
-#center-video {
+#center-video-container {
     padding-top: 30px;
     width: 33%;
     margin: 0 auto;  
     background-color: red;
 }
+
+/*video container styles for media queries
+#left-video-container{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  #left-video-container::after {
+    display: block;
+    content: "";
+    padding-top: 56.25%;
+  }
+  
+  #left-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }*/
 
 /*footer*/
 

@@ -105,7 +105,7 @@ There was some colour exploration using [Adobe Colour Wheel](https://color.adobe
 
 ### Typography
 
-The fonts were used from Google Fonts:
+The fonts were taken from Google Fonts:
 
 *  Karla is used for headings and subheadings on the site. It is a serif font that combines well with the body copy font, which is sans-serif, serif and sans-serif fonts offer good contrast.
 
