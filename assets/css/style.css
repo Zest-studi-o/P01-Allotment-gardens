@@ -83,12 +83,21 @@ height: 170px;
 padding: 20px 180px;
 }
 
-h2 {
+h2, h3 {
     font-family: "Karla", serif;
-    letter-spacing: 4px;
-    font-size: 220%;
     color: #171219;
+}
+
+h2 {
+    font-size: 220%;
+    letter-spacing: 4px;
     margin-bottom: 15px;
+}
+h3 {
+    font-size: 120%;
+    letter-spacing: 2px;
+    margin-bottom: 3px;
+
 }
 
 p {
