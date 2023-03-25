@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nunito:ital,wght@1,500&display=swap');
 
 *{
     margin: 0;
@@ -8,31 +8,35 @@
 
 header {
     display: grid;
-    background-color: #fbfbfa;
+    background-color:  #c2e812;
 }
 
 
 body {
     margin:0;
     padding:0;
-    font-family: "Roboto" , sans-serif;
+    font-family: "Montserrat", sans-serif;
  }
 
 /* logo */
 
-
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 270%;
     margin-left: 30px;
+    font-family: "Lobster", cursive;
+    text-shadow: 2px 2px 4px #0d4139;
+    color: #fbfbfa;
 }
 
 
 /* navigation links */
 
 #menu {
-    font-size: 110%;
+    font-size: 100%;
+    font-weight: 800;
     letter-spacing: 4px;
+    
 }
 
 #menu, #logo {
