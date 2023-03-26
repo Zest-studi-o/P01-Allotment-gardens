@@ -234,7 +234,7 @@ Document known bugs and explain why they were not fixed.
 * [Responsive iframe](https://techstacker.com/how-to-responsive-youtube-videos/)
 * [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 * [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
-* [Ultimate Guide to Hero Images ](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
+* [Ultimate Guide to Hero Images](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
 * [W3 schools](https://www.w3schools.com/)
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 
