@@ -105,8 +105,12 @@ p {
 
 
 /*videos*/
+iframe{
+    border-radius: 10px;
+}
+
 #videos {
-    height: 250px;
+    height: 339px;
     text-align: center;  
 }
 
@@ -138,6 +142,10 @@ p {
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools)*/
 @media screen and (max-width: 1200px) {
+
+iframe{
+    border-radius: 0px;
+}
     
 #left-video-container{
     position: relative;
