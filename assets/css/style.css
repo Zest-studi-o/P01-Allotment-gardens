@@ -138,7 +138,7 @@ iframe{
 @media screen and (max-width: 1300px) {
     
 #left-video-container,
-#rigth-video-container,
+#right-video-container,
 #center-video-container {
     position: relative;
     overflow: hidden;
@@ -146,7 +146,7 @@ iframe{
   }
   
 #left-video-container::after, 
-#rigth-video-container::after,
+#right-video-container::after,
 #center-video-container::after {
     display: block;
     content: "";
@@ -154,7 +154,7 @@ iframe{
   }
   
 #left-video-container iframe,
-#rigth-video-container iframe,
+#right-video-container iframe,
 #center-video-container iframe {
     position: absolute;
     top: 0;
