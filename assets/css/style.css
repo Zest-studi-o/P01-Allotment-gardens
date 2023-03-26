@@ -24,12 +24,10 @@ body {
 }
 
 /* navigation links */
-
 header {
     height: 80px;
     background-color: #6d8a96;
     }
-
 
 #menu {
     font-size: 100%;
@@ -169,9 +167,12 @@ iframe{
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
 @media screen and (max-width: 1200px) {
- 
-       }
-
+    #about-us{
+        padding: 40px 70px;
+        margin: 0;
+    }
+    }
+    
 /* For medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
 
@@ -182,6 +183,17 @@ iframe{
         margin-bottom: 50px;
         line-height: 25px;
         background-color: #2f2932;
+    }
+
+    #about-us{
+        font-size: 90%;
+        padding-bottom: 25%;
+        margin: 0;
+    }
+
+    #cover-image{
+        margin: 0;
+        float: right;
     }
 }
 
