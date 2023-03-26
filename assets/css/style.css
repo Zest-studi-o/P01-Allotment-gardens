@@ -123,14 +123,14 @@ iframe{
 }
 
 #right-video-container {
-    padding-top: 30px;
+    padding: 30px 0px 20px 0px;
     width: 33%;
     float: right; 
     background-color: aqua;
 }
 
 #center-video-container {
-    padding-top: 30px;
+    padding: 30px 0px 20px 0px;
     width: 33%;
     margin: 0 auto;  
     background-color: red;
@@ -142,10 +142,6 @@ iframe{
 
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
-
-iframe{
-    
-}
     
 #left-video-container,
 #rigth-video-container,
@@ -171,6 +167,7 @@ iframe{
     left: 0;
     width: 100%;
     height: 100%;
+    border-radius: ;
   }
 }
 
