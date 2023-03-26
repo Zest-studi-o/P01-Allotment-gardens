@@ -65,34 +65,50 @@ header {
 }
 
 /*about us section*/
+
 #about-us {
-text-align: center;
 background-color: #c2e812;
-height: 170px;
-padding: 20px 180px;
+padding: 20px 50px;
+}
+
+#intro-about{
+font-size: 120%;
+font-weight: 600;
+line-height: 1.5;
+margin-bottom: 30px;
+}
+
+#reasons{
+    line-height: 1.4; 
+    padding-left: 10px;
 }
 
 h2, h3 {
     font-family: "Karla", serif;
     color: #171219;
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 220%;
     letter-spacing: 4px;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 h3 {
-    font-size: 120%;
+    font-size: 150%;
     letter-spacing: 2px;
-    margin-bottom: 3px;
+    margin-bottom: 3px; 
 }
 
+
 p {
-    color:#2f2932;;
-    font-size: 100%;   
+    color:#2f2932;
+    font-size: 100%; 
+    margin-bottom: 10px;
 }
+
+
 
 /*videos*/
 iframe{
@@ -184,6 +200,7 @@ iframe{
         font-size: 90%;
         padding-bottom: 25%;
         margin: 0;
+        height: 700px;
     }
     #hero-image{
         background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
@@ -193,13 +210,13 @@ iframe{
 }
 
 /*small screen ipad mini*/ 
-@media screen and (max-width: 850px) { 
+@media screen and (max-width: 745px) { 
     #hero-image{
-        background: url("../images/woman-in-blue-800x1200.gif") no-repeat center center;
-        height: 750px;
+        background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
+        height: 700px;
         background-size: cover;
     }
-}
+} 
 
 /*footer*/    
 .social-networks{
