@@ -218,6 +218,7 @@ Document known bugs and explain why they were not fixed.
 * [Freepik](https://www.freepik.com/)
 * [Pexels - Andrea Piacquadio](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
 * [Pexels - Mariam Antadze](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
+* [Youtube - Emma's Allotment Diaries](https://www.youtube.com/watch?v=lpnJFx2o2UA)
 
 ### Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
