@@ -234,6 +234,7 @@ Document known bugs and explain why they were not fixed.
 * [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 * [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
 * [W3 schools](https://www.w3schools.com/)
+* [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
