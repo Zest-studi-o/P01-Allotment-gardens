@@ -200,8 +200,12 @@ iframe{
 /*footer*/
 
 footer {
-    height: 150px;
-    background-color: #6d8a96
+background-color: #6d8a96;
+width: 100%;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 10.5rem;            /* Footer height */
 }
     
 .social-networks{
@@ -220,5 +224,11 @@ footer {
 }
 
 #page-container {
-    min-height:95vh;
+  position: relative;
+  min-height: 95vh;
 }
+
+#content-wrap {
+  padding-bottom: 10.5rem;    /* Footer height */
+}
+
