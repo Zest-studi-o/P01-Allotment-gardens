@@ -213,6 +213,7 @@ Document known bugs and explain why they were not fixed.
 ## Credits
 
 ### Content
+* [Freepik](https://www.sdcc.ie/en/services/sport-and-recreation/allotments/#:~:text=The%20annual%20rent%20ranges%20from,on%20the%20size%20of%20plot.)
 
 ### Imagery, vectors & videos
 * [Freepik](https://www.freepik.com/)

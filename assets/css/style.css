@@ -56,20 +56,12 @@ header {
 }
 
 /* hero image */
-
-#hero-outer{
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-
-    position: relative;
-}
-
 #hero-image{
     height: 600px;
     width: 100%;
     background: url("../images/woman-in-blue-2600x1000.gif") no-repeat center center;
     background-size: cover;
+    line-height: 0px; /* removes the white gap */
 }
 
 /*about us section*/
@@ -182,32 +174,20 @@ iframe{
         margin-left: 25px;
         margin-bottom: 50px;
         line-height: 25px;
-        background-color: #2f2932;
     }
+
+    header {
+        height: 120px; /* Expands the grey box*/
+        }
 
     #about-us{
         font-size: 90%;
         padding-bottom: 25%;
         margin: 0;
     }
-
-    #cover-image{
-        margin: 0;
-        float: right;
-    }
 }
 
-/*footer*/
-
-footer {
-background-color: #6d8a96;
-width: 100%;
-position: absolute;
-bottom: 0;
-width: 100%;
-height: 10.5rem;            /* Footer height */
-}
-    
+/*footer*/    
 .social-networks{
     text-align: center;
  }
@@ -224,11 +204,20 @@ height: 10.5rem;            /* Footer height */
 }
 
 #page-container {
-  position: relative;
-  min-height: 95vh;
+min-height: 100vh;
+position: relative;
 }
 
 #content-wrap {
-  padding-bottom: 10.5rem;    /* Footer height */
-}
+    padding-bottom: 10.5rem;    /* Footer height */
+  }
 
+footer {
+    background-color: #6d8a96;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 10.5rem;            /* Footer height */
+    position: absolute;
+      /*position: fixed;*/
+    }
