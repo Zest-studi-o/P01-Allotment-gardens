@@ -186,6 +186,15 @@ iframe{
         margin: 0;
     }
     #hero-image{
+        background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
+        height: 1400px;/*add same image height so it will be centered*/ 
+        background-size: cover;
+    }
+}
+
+/*small screen ipad mini*/ 
+@media screen and (max-width: 850px) { 
+    #hero-image{
         background: url("../images/woman-in-blue-800x1200.gif") no-repeat center center;
         height: 750px;
         background-size: cover;
