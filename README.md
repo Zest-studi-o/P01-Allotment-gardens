@@ -219,6 +219,8 @@ Document known bugs and explain why they were not fixed.
 * [Pexels - Andrea Piacquadio](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
 * [Pexels - Mariam Antadze](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
 * [Youtube - Growing My Own Fruit and Veg - A Visit to my Allotment](https://www.youtube.com/watch?v=Aku-AGbwejw)
+* [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
+* [July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
 
 ### Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)

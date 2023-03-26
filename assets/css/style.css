@@ -140,26 +140,32 @@ iframe{
 
 /* Media queries */
 
-/*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools)*/
-@media screen and (max-width: 1200px) {
+/*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
+@media screen and (max-width: 1300px) {
 
 iframe{
-    border-radius: 0px;
+    
 }
     
-#left-video-container{
+#left-video-container,
+#rigth-video-container,
+#center-video-container {
     position: relative;
     overflow: hidden;
     width: 100%;
   }
   
-  #left-video-container::after {
+#left-video-container::after, 
+#rigth-video-container::after,
+#center-video-container::after {
     display: block;
     content: "";
     padding-top: 56.25%;
   }
   
-  #left-video-container iframe {
+#left-video-container iframe,
+#rigth-video-container iframe,
+#center-video-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -167,24 +173,25 @@ iframe{
     height: 100%;
   }
 }
+
 /*footer*/
 
 footer {
     height: 150px;
     background-color: #6d8a96
-    }
+}
     
-    .social-networks{
+.social-networks{
     text-align: center;
-    }
+ }
     
-    .social-networks > li{
+.social-networks > li{
         display: inline; /*makes the icons display horizontaly*/
-    }
+}
     
-    .social-networks i{ /*targets the icons themselves*/
+.social-networks i{ /*targets the icons themselves*/
         font-size: 160%;
         margin: 1px;
         padding: 5%;
         color: #fbfbfa;
-    }
+}
