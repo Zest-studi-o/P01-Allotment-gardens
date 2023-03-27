@@ -12,9 +12,6 @@ body {
     font-family: "Montserrat", sans-serif;
  }
 
- html, body{
-    height:100%;
- }
 /* logo */
 
 #logo {
@@ -70,7 +67,7 @@ header {
 /*about us section*/
 
 #about-us {
-background-color: pink;
+background-color: #c2e812;
 padding: 20px 50px;
 }
 
@@ -119,6 +116,7 @@ iframe{
 }
 
 #videos {
+    height: 339px;
     text-align: center;  
 }
 
@@ -174,11 +172,6 @@ iframe{
     border-radius: 0%;
   }
 }
-
-/*#content-wrap {
-    position:relative;
-    height: 1800px;
-}*/
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
 @media screen and (max-width: 1200px) {
@@ -250,7 +243,7 @@ position: relative;
     padding-bottom: 10.5rem;    /* Footer height */
     position: relative;
      /*height: 1800px;*/
-  }
+}
 
 footer {
     background-color: #6d8a96;
@@ -258,6 +251,6 @@ footer {
     bottom: 0;
     width: 100%;
     height: 10.5rem;            /* Footer height */
-   position: absolute;
+    position: absolute;
       /*position: fixed;*/
     }
