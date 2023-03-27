@@ -282,6 +282,7 @@ Document known bugs and explain why they were not fixed.
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
+* Tutor support at Code Institute.
 
 
 
