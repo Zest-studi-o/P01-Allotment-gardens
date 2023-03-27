@@ -276,6 +276,9 @@ Document known bugs and explain why they were not fixed.
 * [Ultimate Guide to Hero Images](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
 * [W3 schools](https://www.w3schools.com/)
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
+* [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
+
+
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
