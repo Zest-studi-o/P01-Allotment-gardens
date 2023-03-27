@@ -28,6 +28,10 @@ Add optional [shields.io](https://shields.io) badges to README.
   * [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
 
 * [Deployment & Local Development](#Deployment-&-Local-Development)
+  * [Deployment](#Deployment)
+  * [Local Development](#Local-Development)
+    * [How to Fork](#How-to-Fork)
+    * [How to Clone](#How-to-Clone)
 
 * [Testing](#Testing)
   * [Jigsaw](#Jigsaw-Validator)
@@ -185,6 +189,41 @@ Font Awesome - To add icons to the website.
 [Tiny PNG](https://tinypng.com/) To quickly compress imagery.
 
 [Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize, crop to size and web optimise imagery.
+
+- - -
+
+## Deployment & Local Development
+
+### Deployment
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+1. Log in (or sign up) to Github.
+2. Find the repository for this project, Bully-Book-Club.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+
+#### How to Fork
+
+To fork the P01-Allotment-gardens repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, Zest-studi-o/P01-Allotment-gardens.
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the P01-Allotment-gardens repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, Zest-studi-o/P01-Allotment-gardens.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
 - - -
 
