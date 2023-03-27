@@ -241,6 +241,8 @@ position: relative;
 
 #content-wrap {
     padding-bottom: 10.5rem;    /* Footer height */
+    position: relative;
+     /*height: 1800px;*/
   }
 
 footer {
