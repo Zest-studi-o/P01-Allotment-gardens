@@ -211,8 +211,43 @@ label {
   .form-section hr {
     padding:1.8%
   }
+/*footer*/    
+.social-networks{
+    text-align: center;
+ }
+    
+.social-networks > li{
+    display: inline; /*makes the icons display horizontaly*/
+}
+    
+.social-networks i{ /*targets the icons themselves*/
+        font-size: 160%;
+        margin: 1px;
+        padding: 5%;
+        color: #fbfbfa;
+}
 
-  
+#page-container {
+min-height: 95vh;
+position: relative;
+}
+
+#content-wrap {
+    padding-bottom: 10.5rem;    /* kept Footer height */
+
+   /* min-height: 100vh;*/
+
+  }
+
+footer {
+    background-color: #6d8a96;
+    left: 0;
+   /* bottom: 0;*/
+    width: 100%;
+             /*Deleted Footer height */
+    position: absolute;
+      /*position: fixed;*/
+    }
 
 /*video container styles for media queries*/
 
@@ -345,42 +380,8 @@ label {
     h2 {
     font-size: 170%;
     }
+
+    #menu {
+        margin-left: 1.1rem;
+        }
 } 
-
-/*footer*/    
-.social-networks{
-    text-align: center;
- }
-    
-.social-networks > li{
-    display: inline; /*makes the icons display horizontaly*/
-}
-    
-.social-networks i{ /*targets the icons themselves*/
-        font-size: 160%;
-        margin: 1px;
-        padding: 5%;
-        color: #fbfbfa;
-}
-
-#page-container {
-min-height: 95vh;
-position: relative;
-}
-
-#content-wrap {
-    padding-bottom: 10.5rem;    /* kept Footer height */
-
-   /* min-height: 100vh;*/
-
-  }
-
-footer {
-    background-color: #6d8a96;
-    left: 0;
-   /* bottom: 0;*/
-    width: 100%;
-             /*Deleted Footer height */
-    position: absolute;
-      /*position: fixed;*/
-    }
