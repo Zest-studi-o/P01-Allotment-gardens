@@ -281,9 +281,9 @@ footer {
 
 .enquiry-form {
     margin:5%;
-    color: #fbfbfa;
+    color:  #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
-     background-color: rgb(109,138,150,0.8);
+     background-color: rgb(109,138,150,.9);
     /*background-color: rgb(109,67,90,0.9);*/
     max-width:700px;
     position: absolute;
@@ -306,6 +306,10 @@ footer {
     margin:5px 0 20px 0;
     border: 1px solid #fbfbfa;
     border-radius:2px;
+}
+
+label {
+    color: #fbfbfa;
 }
 
 .text-input:hover{
@@ -332,7 +336,11 @@ footer {
 }
 
 ::placeholder {
-    color: #fafafa;
+    color: #ece2e2;
     font-size: 90%;
     padding-left: 1%;
+  }
+
+  .form-section hr {
+    padding:1.8%
   }
