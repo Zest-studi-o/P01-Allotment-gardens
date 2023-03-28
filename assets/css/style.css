@@ -170,9 +170,13 @@ iframe{
   }
 }
 
-footer {
-    padding-bottom: 0.8rem; /*checked on macbook pro 14 inches*/
+
+/*For macbook pro 14 inches and bellow*/
+ @media screen and (max-width: 1344px) {
+        footer {
+    padding-bottom: 0.8rem; 
 }
+    }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
 @media screen and (max-width: 1200px) {
@@ -263,7 +267,7 @@ position: relative;
 footer {
     background-color: #6d8a96;
     left: 0;
-    bottom: 0;
+   /* bottom: 0;*/
     width: 100%;
              /*Deleted Footer height */
     position: absolute;
