@@ -202,7 +202,6 @@ iframe{
         clear: left;
         float: left;
         margin-left: 25px;
-        margin-bottom: 50px;
         line-height: 25px;
     }
 
@@ -221,6 +220,11 @@ iframe{
         height: 1400px;/*add same image height so it will be centered*/ 
         background-size: cover;
     }
+
+    .enquiry-form {
+        width: 100%;
+        margin-bottom: 0;
+    }
 }
 
 /*small screen ipad mini*/ 
@@ -234,6 +238,16 @@ iframe{
     footer {
         padding-bottom: 6.5rem;
  }
+} 
+
+/*small screen */ 
+@media screen and (max-width: 300px) { 
+    header{
+        
+        height: 140px;
+      
+    }
+
 } 
 
 /*footer*/    
@@ -280,7 +294,10 @@ footer {
     background: url("../images/top-view-veggies-with-eggplant.jpg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+ 
+
+    display:flex;
+    justify-content: center;
 }
 
 .enquiry-form {
@@ -288,11 +305,10 @@ footer {
     color:  #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
      background-color: rgb(109,138,150,.9);
-    /*background-color: rgb(109,67,90,0.9);*/
     max-width:700px;
-    position: absolute;
-    left: 18%;
     padding:30px;
+
+    
 }
 
 .enquiry-form h2 {
@@ -348,3 +364,4 @@ label {
   .form-section hr {
     padding:1.8%
   }
+

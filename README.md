@@ -280,7 +280,9 @@ Document known bugs and explain why they were not fixed.
 
 * [Color hexa](https://www.colorhexa.com/)
 
-https://www.samanthaming.com/tidbits/57-styling-css-placeholder/
+* [Styling Placeholder Text with CSS](https://www.samanthaming.com/tidbits/57-styling-css-placeholder/)
+
+* [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)
 
 
 
