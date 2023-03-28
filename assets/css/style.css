@@ -68,7 +68,6 @@ header {
 }
 
 /*about us section*/
-
 #about-us {
 background-color: #c2e812;;
 padding: 5%;
@@ -270,3 +269,13 @@ footer {
     position: absolute;
       /*position: fixed;*/
     }
+
+/* Form */
+
+.form-section {
+    clear: left;
+    background: url("../images/top-view-veggies-with-eggplant.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
