@@ -192,7 +192,6 @@ iframe{
     footer {
             padding-bottom: 4rem;
      }
-    
     }
     
 /* For medium screen sizes from 950px wide and down*/
@@ -241,13 +240,11 @@ iframe{
 } 
 
 /*small screen */ 
-@media screen and (max-width: 300px) { 
+@media screen and (max-width: 415px) { 
     header{
         
         height: 140px;
-      
     }
-
 } 
 
 /*footer*/    
