@@ -284,6 +284,9 @@ Document known bugs and explain why they were not fixed.
 
 * [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)
 
+https://www.w3schools.com/howto/howto_css_cards.asp
+https://www.w3schools.com/howto/howto_css_column_cards.asp
+
 
 
 ### Acknowledgments
