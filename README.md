@@ -278,6 +278,10 @@ Document known bugs and explain why they were not fixed.
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 * [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
 
+* [Color hexa](https://www.colorhexa.com/)
+
+https://www.samanthaming.com/tidbits/57-styling-css-placeholder/
+
 
 
 ### Acknowledgments
