@@ -212,6 +212,8 @@ label {
     padding:1.8%
   }
 
+  
+
 /*video container styles for media queries*/
 
 /* Media queries */
@@ -324,8 +326,24 @@ label {
 /*small screen */ 
 @media screen and (max-width: 415px) { 
     header{
-        
         height: 140px;
+    }
+
+    .enquiry-form{
+        margin: 0%;
+       /* background-color: (47,41,50, 0.5);*/  
+    }
+
+    .text-input{
+        margin: 0.6%;
+        font-size: 80%;
+    }
+    .text-input > textarea{
+        height: 60%;
+    }
+
+    h2 {
+    font-size: 170%;
     }
 } 
 
