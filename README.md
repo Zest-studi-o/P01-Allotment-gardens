@@ -157,7 +157,7 @@ This website has three pages that can be accessed from the navigation menu (home
   This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
 ### Features Left to Implement
-Some feature ideas not implemented.
+Add extra pages such a galery page.
 
 ### Accessibility
 It is important to have a website that is accessibility friendly, this objective was achivieved by:

@@ -53,7 +53,7 @@ header {
     color: #fbfbfa;
 }
 
-#menu a:hover {
+#menu a:hover, .active { /* active not working, check later*/
     color: #c2e812;
     text-decoration: underline;
 }
@@ -140,7 +140,6 @@ iframe{
 
 /* Media queries */
 
-
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
     
@@ -173,7 +172,7 @@ iframe{
 }
 
 footer {
-    padding-bottom: 0.5rem; /*checked on macbook pro 14 inches*/
+    padding-bottom: 0.8rem; /*checked on macbook pro 14 inches*/
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
