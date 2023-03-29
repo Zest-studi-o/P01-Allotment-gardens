@@ -273,8 +273,8 @@ footer {
 /* Float columns side by side */
 .column {
     float: left;
-    width: 25%;
-    margin: 2rem;
+    width: 31.4%;
+    margin: 0.3%;
     padding: 0 10px;
   }
   
