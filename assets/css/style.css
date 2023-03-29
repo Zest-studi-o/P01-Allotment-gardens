@@ -196,8 +196,7 @@ label {
 
 .send-button:hover {
     background-color:#fafafa;
-    color: #0d4139;
-    
+    color: #0d4139;   
 }
 
 ::placeholder {
@@ -291,6 +290,13 @@ footer {
     text-align: center;
     background-color: #f1f1f1;
   }
+
+  #flex-box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    gap: 1rem;
+    }
   
 /*video container styles for media queries*/
 
@@ -385,6 +391,7 @@ footer {
     .form-section {
         height: 1120px;
     }
+
 #flex-box{
     grid-template-columns: 1fr 1fr;
 }
@@ -404,14 +411,6 @@ footer {
  }
 } 
 
-  /* Responsive columns (locations page)- one column layout (vertical) on small screens */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
 
 /*small screen */ 
 @media screen and (max-width: 415px) { 
@@ -441,23 +440,3 @@ footer {
         }
 } 
 
-
-/*try mentor solution
-@media screen and (max-width:1485px) {
-    .column {
-        text-align: center;
-        left: 5%;
-        position: relative;
-        display: inline-block;
-        margin-left: 3px;
-        width: 45%;
-        padding: 0px;
-      }
-}
-*/
-
-#flex-box{
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-gap: 1rem;
-}

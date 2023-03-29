@@ -268,6 +268,7 @@ Tablet
 ID:10 - Issue when reducing the screen to achieve 2 rows centered.
 Phone
 ID:11 - Issue when reducing the screen to center the content and not crop it.
+ID:12 - Class B- Active link not working
 
 
 ### known Bugs
@@ -288,7 +289,7 @@ Document known bugs and explain why they were not fixed.
 * [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
 * [July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
 
-### Tutorials & articles
+### Reference material. Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 * [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
@@ -310,7 +311,7 @@ Document known bugs and explain why they were not fixed.
 * [Column cards](https://www.w3schools.com/howto/howto_css_column_cards.asp)
 * [Flexbox](https://flexbox.malven.co/)
 * [Grids](https://grid.malven.co/)
-* [CSS Grids](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
+* [Get started with grid WITHOUT being overwhelmed](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
