@@ -385,8 +385,9 @@ footer {
     .form-section {
         height: 1120px;
     }
-
-
+#flex-box{
+    grid-template-columns: 1fr 1fr;
+}
 }
 
 

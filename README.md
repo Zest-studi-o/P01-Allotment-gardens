@@ -305,15 +305,18 @@ Document known bugs and explain why they were not fixed.
 * [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
 * [Color hexa](https://www.colorhexa.com/)
 * [Styling Placeholder Text with CSS](https://www.samanthaming.com/tidbits/57-styling-css-placeholder/)
-* [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)¡
+* [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)
 * [CSS cards](https://www.w3schools.com/howto/howto_css_cards.asp)
 * [Column cards](https://www.w3schools.com/howto/howto_css_column_cards.asp)
-https://grid.malven.co/
-
+* [Flexbox](https://flexbox.malven.co/)
+* [Grids](https://grid.malven.co/)
+* [CSS Grids](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
 * Tutor support at Code Institute.
+* Alan, course facilitator, for the advice.
+* Jarek Bonk, cohort colleague, for his help with the grid when I ran out of tutor hours.
 
 
 
