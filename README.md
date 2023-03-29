@@ -242,7 +242,33 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
 ### Solved Bugs
-Document bugs found and how they were solved.
+Several issues with media queries, header and footer alignment.
+
+Big screens:
+
+ID:1 - Footer not sticking to the bottom. FIXED
+ID:2- Issue aligning correctly the 3 videos with some more extra spacing in the center. NOT FIXED
+
+Medium and small screens:
+
+ID:3- Issue with media queries; the right video does not accept the style. fixed. it was a typo on "right"  FIXED
+ID:4- Issue with the nav bar background not taking the grey background colour and floating on a white gap. FIXED
+ID:5- Issue with hero image not centered when reducing screen size. FIXED
+
+OPEN BUGS
+------ Contact ------
+ID:6 - Class A- ID: 1 Small screens. Issue with the footer.
+------ Home page ------
+ID:2 - Class C- ID: 2 Issue aligning correctly the 3 videos with some more extra spacing in the center.
+ID:8 - Class C- ID: 2 Issue with the alignment of the bulleted list in about us section.
+------- Locations page -----
+ID:9 - Class C- Issue centering exactly for big screens achiveved measuring by eye with percentages.
+Class A-
+Tablet
+ID:10 - Issue when reducing the screen to achieve 2 rows centered.
+Phone
+ID:11 - Issue when reducing the screen to center the content and not crop it.
+
 
 ### known Bugs
 Document known bugs and explain why they were not fixed.
@@ -277,16 +303,11 @@ Document known bugs and explain why they were not fixed.
 * [W3 schools](https://www.w3schools.com/)
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 * [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
-
 * [Color hexa](https://www.colorhexa.com/)
-
 * [Styling Placeholder Text with CSS](https://www.samanthaming.com/tidbits/57-styling-css-placeholder/)
-
-* [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)
-
-https://www.w3schools.com/howto/howto_css_cards.asp
-https://www.w3schools.com/howto/howto_css_column_cards.asp
-
+* [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)¡
+* [CSS cards](https://www.w3schools.com/howto/howto_css_cards.asp)
+* [Column cards](https://www.w3schools.com/howto/howto_css_column_cards.asp)
 
 
 ### Acknowledgments

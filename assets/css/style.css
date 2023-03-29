@@ -151,7 +151,7 @@ iframe{
     margin:5%;
     color:  #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
-     background-color: rgb(109,138,150,.9);
+    background-color: rgb(109,138,150,.9);
     max-width:700px;
     padding:30px;
 }
@@ -159,7 +159,7 @@ iframe{
 .enquiry-form h2 {
     color: #c2e812;
     margin-bottom: 20px;
-     text-shadow: 2px 2px 4px #0d4139;
+    text-shadow: 2px 2px 4px #0d4139;
 }
 
 
@@ -384,7 +384,9 @@ footer {
 
     .form-section {
         height: 1120px;
-}
+    }
+
+
 }
 
 
