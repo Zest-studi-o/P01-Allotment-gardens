@@ -154,8 +154,6 @@ iframe{
      background-color: rgb(109,138,150,.9);
     max-width:700px;
     padding:30px;
-
-    
 }
 
 .enquiry-form h2 {
@@ -252,8 +250,6 @@ footer {
 #locations-intro{
     /*margin: 1rem 5rem;*/
     text-align: center;
-   
-    
 }
 
 .card:hover {
@@ -296,15 +292,6 @@ footer {
     background-color: #f1f1f1;
   }
   
-  /* Responsive columns - one column layout (vertical) on small screens */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
-
 /*video container styles for media queries*/
 
 /* Media queries */
@@ -414,6 +401,15 @@ footer {
  }
 } 
 
+  /* Responsive columns (locations page)- one column layout (vertical) on small screens */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
 /*small screen */ 
 @media screen and (max-width: 415px) { 
     header{
@@ -441,3 +437,5 @@ footer {
         margin-left: 1.1rem;
         }
 } 
+
+
