@@ -282,16 +282,17 @@ footer {
     display: table;
     clear: both;
   }
+
   
-  /* Style the counter cards */
-  .card {
+/* Card styles */
+.card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
     background-color: #f1f1f1;
   }
 
-  #flex-box{
+#flex-box{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     
@@ -416,6 +417,7 @@ footer {
 @media screen and (max-width: 415px) { 
     header{
         height: 140px;
+        padding: 0em 0em 1em 0.7em;
     }
 
     .enquiry-form{
@@ -436,7 +438,7 @@ footer {
     }
 
     #menu {
-        margin-left: 1.1rem;
+        display: inline-grid;
         }
 } 
 
