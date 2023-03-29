@@ -151,17 +151,15 @@ iframe{
     margin:5%;
     color:  #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
-     background-color: rgb(109,138,150,.9);
+    background-color: rgb(109,138,150,.9);
     max-width:700px;
     padding:30px;
-
-    
 }
 
 .enquiry-form h2 {
     color: #c2e812;
     margin-bottom: 20px;
-     text-shadow: 2px 2px 4px #0d4139;
+    text-shadow: 2px 2px 4px #0d4139;
 }
 
 
@@ -252,8 +250,6 @@ footer {
 #locations-intro{
     /*margin: 1rem 5rem;*/
     text-align: center;
-   
-    
 }
 
 .card:hover {
@@ -296,15 +292,6 @@ footer {
     background-color: #f1f1f1;
   }
   
-  /* Responsive columns - one column layout (vertical) on small screens */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-  }
-
 /*video container styles for media queries*/
 
 /* Media queries */
@@ -397,7 +384,9 @@ footer {
 
     .form-section {
         height: 1120px;
-}
+    }
+
+
 }
 
 
@@ -413,6 +402,15 @@ footer {
         padding-bottom: 6.5rem;
  }
 } 
+
+  /* Responsive columns (locations page)- one column layout (vertical) on small screens */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
 
 /*small screen */ 
 @media screen and (max-width: 415px) { 
@@ -441,3 +439,18 @@ footer {
         margin-left: 1.1rem;
         }
 } 
+
+
+/*try mentor solution
+@media screen and (max-width:1485px) {
+    .column {
+        text-align: center;
+        left: 5%;
+        position: relative;
+        display: inline-block;
+        margin-left: 3px;
+        width: 45%;
+        padding: 0px;
+      }
+}
+*/
