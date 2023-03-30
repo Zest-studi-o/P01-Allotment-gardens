@@ -1,20 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&family=Lobster&family=Montserrat&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: none;
 }
 
 body {
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     font-family: "Montserrat", sans-serif;
- }
+}
 
- html, body{
-    height:100%;
- }
+html,
+body {
+    height: 100%;
+}
+
 /* logo */
 
 #logo {
@@ -30,22 +32,23 @@ body {
 header {
     height: 80px;
     background-color: #6d8a96;
-    }
+}
 
 #menu {
     font-size: 100%;
     font-weight: 800;
-    letter-spacing: 4px;  
+    letter-spacing: 4px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px; 
+    margin-right: 30px;
 }
 
 #menu a {
@@ -53,39 +56,44 @@ header {
     color: #fbfbfa;
 }
 
-#menu a:hover, .active { /* active not working, check later*/
+#menu a:hover,
+.active {
+    /* active not working, check later*/
     color: #c2e812;
     text-decoration: underline;
 }
 
 /* hero image */
-#hero-image{
+#hero-image {
     height: 650px;
     width: 100%;
     background: url("../images/woman-in-blue-2600x1000.gif") no-repeat center center;
     background-size: cover;
-    line-height: 0px; /* removes the white gap */
+    line-height: 0px;
+    /* removes the white gap */
 }
 
 /*about us section*/
 #about-us {
-background-color: #c2e812;;
-padding: 5%;
+    background-color: #c2e812;
+    ;
+    padding: 5%;
 }
 
-#intro-about{
-font-size: 120%;
-font-weight: 600;
-line-height: 1.5;
-margin-bottom: 30px;
+#intro-about {
+    font-size: 120%;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 30px;
 }
 
-#reasons{
-    line-height: 1.4; 
+#reasons {
+    line-height: 1.4;
     padding-left: 1.5%;
 }
 
-h2, h3 {
+h2,
+h3 {
     font-family: "Karla", serif;
     color: #171219;
 }
@@ -99,22 +107,22 @@ h2 {
 h3 {
     font-size: 150%;
     letter-spacing: 2px;
-    margin-bottom: 3px; 
+    margin-bottom: 3px;
 }
 
 p {
-    color:#2f2932;
-    font-size: 100%; 
+    color: #2f2932;
+    font-size: 100%;
     margin-bottom: 10px;
 }
 
 /*videos*/
-iframe{
+iframe {
     border-radius: 10px;
 }
 
 #videos {
-    text-align: center;  
+    text-align: center;
 }
 
 #left-video-container {
@@ -126,13 +134,13 @@ iframe{
 #right-video-container {
     padding: 30px 0px 20px 0px;
     width: 33%;
-    float: right; 
+    float: right;
 }
 
 #center-video-container {
     padding: 30px 0px 20px 0px;
     width: 33%;
-    margin: 0 auto;  
+    margin: 0 auto;
 }
 
 /* Form */
@@ -141,19 +149,19 @@ iframe{
     background: url("../images/top-view-veggies-with-eggplant.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
- 
 
-    display:flex;
+
+    display: flex;
     justify-content: center;
 }
 
 .enquiry-form {
-    margin:5%;
-    color:  #fbfbfa;
+    margin: 5%;
+    color: #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
-    background-color: rgb(109,138,150,.9);
-    max-width:700px;
-    padding:30px;
+    background-color: rgb(109, 138, 150, .9);
+    max-width: 700px;
+    padding: 30px;
 }
 
 .enquiry-form h2 {
@@ -164,20 +172,20 @@ iframe{
 
 
 .text-input {
-    background:transparent;
-    color:#fbfbfa;
-    width:100%;
-    height:25px;
-    margin:5px 0 20px 0;
+    background: transparent;
+    color: #fbfbfa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
     border: 1px solid #fbfbfa;
-    border-radius:2px;
+    border-radius: 2px;
 }
 
 label {
     color: #fbfbfa;
 }
 
-.text-input:hover{
+.text-input:hover {
     border-color: #c2e812;
 }
 
@@ -186,82 +194,87 @@ label {
     border-radius: 2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    font-size:100%;
-    background-color:#c2e812;;
-    color:#0d4139;
-    display:block;
+    font-size: 100%;
+    background-color: #c2e812;
+    ;
+    color: #0d4139;
+    display: block;
     font-weight: bold;
     box-shadow: 5px 10px #0d4139;
 }
 
 .send-button:hover {
-    background-color:#fafafa;
-    color: #0d4139;   
+    background-color: #fafafa;
+    color: #0d4139;
 }
 
 ::placeholder {
     color: #ece2e2;
     font-size: 90%;
     padding-left: 1%;
-  }
-
-  .form-section hr {
-    padding:1.8%
-  }
-/*footer*/    
-.social-networks{
-    text-align: center;
- }
-    
-.social-networks > li{
-    display: inline; /*makes the icons display horizontaly*/
 }
-    
-.social-networks i{ /*targets the icons themselves*/
-        font-size: 160%;
-        margin: 1px;
-        padding: 5%;
-        color: #fbfbfa;
+
+.form-section hr {
+    padding: 1.8%
+}
+
+/*footer*/
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+    /*makes the icons display horizontaly*/
+}
+
+.social-networks i {
+    /*targets the icons themselves*/
+    font-size: 160%;
+    margin: 1px;
+    padding: 5%;
+    color: #fbfbfa;
 }
 
 #page-container {
-min-height: 95vh;
-position: relative;
+    min-height: 95vh;
+    position: relative;
 }
 
 #content-wrap {
-    padding-bottom: 10.5rem;    /* kept Footer height */
+    padding-bottom: 10.5rem;
+    /* kept Footer height */
 
-   /* min-height: 100vh;*/
+    /* min-height: 100vh;*/
 
-  }
+}
 
 footer {
     background-color: #6d8a96;
     left: 0;
-   /* bottom: 0;*/
+    /* bottom: 0;*/
     width: 100%;
-             /*Deleted Footer height */
+    /*Deleted Footer height */
     position: absolute;
-      /*position: fixed;*/
-    }
+    /*position: fixed;*/
+}
 
-#locations-intro{
+#locations-intro {
     /*margin: 1rem 5rem;*/
     text-align: center;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-img {
-  border-radius: 5px 5px 0 0;
-  width: 100%;
+    border-radius: 5px 5px 0 0;
+    width: 100%;
 }
 
 .container {
-  padding: 2px 16px;
+    padding: 2px 16px;
 }
 
 
@@ -271,93 +284,96 @@ footer {
     width: 31.4%;
     margin: 0.3%;
     padding: 0 10px;
-  }
-  
-  /* Remove extra left and right margins, due to padding in columns */
-  .row {margin: 0 -5px;}
-  
-  /* Clear floats after the columns */
-  .row:after {
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {
+    margin: 0 -5px;
+}
+
+/* Clear floats after the columns */
+.row:after {
     content: "";
     display: table;
     clear: both;
-  }
+}
 
-  
+
 /* Card styles */
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* this adds the "card" effect */
     padding: 16px;
     text-align: center;
     background-color: #f1f1f1;
-  }
+}
 
-#flex-box{
+#flex-box {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    
+
     gap: 1rem;
-    }
-  
+}
+
 /*video container styles for media queries*/
 
 /* Media queries */
 
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
-    
-#left-video-container,
-#right-video-container,
-#center-video-container {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-  }
-  
-#left-video-container::after, 
-#right-video-container::after,
-#center-video-container::after {
-    display: block;
-    content: "";
-    padding-top: 56.25%;
-  }
-  
-#left-video-container iframe,
-#right-video-container iframe,
-#center-video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 0%;
-  }
+
+    #left-video-container,
+    #right-video-container,
+    #center-video-container {
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    #left-video-container::after,
+    #right-video-container::after,
+    #center-video-container::after {
+        display: block;
+        content: "";
+        padding-top: 56.25%;
+    }
+
+    #left-video-container iframe,
+    #right-video-container iframe,
+    #center-video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 0%;
+    }
 }
 
 
 /*For macbook pro 14 inches and bellow*/
- @media screen and (max-width: 1344px) {
-        footer {
-    padding-bottom: 0.8rem; 
-}
+@media screen and (max-width: 1344px) {
+    footer {
+        padding-bottom: 0.8rem;
     }
+}
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
 @media screen and (max-width: 1200px) {
-    #about-us{
+    #about-us {
         padding: 40px 70px;
         margin: 0;
     }
-    }
+}
 
 /*For medium screens size from 1085px wide and down (checked reducing the screen with the developer tools), for white gap in the footer*/
 @media screen and (max-width: 1085px) {
 
     footer {
-            padding-bottom: 4rem;
-     }
+        padding-bottom: 4rem;
     }
-    
+}
+
 /* For medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
 
@@ -369,39 +385,42 @@ footer {
     }
 
     header {
-        height: 120px; /* Expands the grey box*/
-        }
+        height: 120px;
+        /* Expands the grey box*/
+    }
 
-    #about-us{
+    #about-us {
         font-size: 90%;
         padding-bottom: 10%;
         margin: 0;
-        
+
     }
-    #hero-image{
+
+    #hero-image {
         background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
-        height: 1400px;/*add same image height so it will be centered*/ 
+        height: 1400px;
+        /*add same image height so it will be centered*/
         background-size: cover;
     }
 
     .enquiry-form {
         width: 100%;
-        margin:15%
+        margin: 15%
     }
 
     .form-section {
         height: 1120px;
     }
 
-    #flex-box{
-    grid-template-columns: 1fr 1fr;
+    #flex-box {
+        grid-template-columns: 1fr 1fr;
     }
 }
 
 
-/*small screen ipad mini*/ 
-@media screen and (max-width: 745px) { 
-    #hero-image{
+/*small screen ipad mini*/
+@media screen and (max-width: 745px) {
+    #hero-image {
         background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
         height: 700px;
         background-size: cover;
@@ -409,36 +428,40 @@ footer {
 
     footer {
         padding-bottom: 6.5rem;
- }
-} 
+    }
+}
 
 
-/*small screen */ 
-@media screen and (max-width: 415px) { 
-    header{
+/*small screen */
+@media screen and (max-width: 415px) {
+    header {
         height: 140px;
         padding: 0em 0em 1em 0.7em;
     }
 
-    .enquiry-form{
+    .enquiry-form {
         margin: 0%;
-       /* background-color: (47,41,50, 0.5);*/  
+        /* background-color: (47,41,50, 0.5);*/
     }
 
-    .text-input{
+    .text-input {
         margin: 0.6%;
         font-size: 80%;
     }
-    .text-input > textarea{
+
+    .text-input>textarea {
         height: 60%;
     }
 
     h2 {
-    font-size: 170%;
+        font-size: 170%;
     }
 
     #menu {
         display: inline-grid;
-        }
-} 
+    }
 
+    #flex-box {
+        display: block;
+    }
+}
