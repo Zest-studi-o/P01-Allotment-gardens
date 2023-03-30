@@ -422,8 +422,9 @@ footer {
 @media screen and (max-width: 745px) {
     #hero-image {
         background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
-        height: 700px;
+        height: 800px;
         background-size: cover;
+        aspect-ratio: 1 / 1;
     }
 
     footer {
@@ -441,7 +442,12 @@ footer {
 
     .enquiry-form {
         margin: 0%;
-        /* background-color: (47,41,50, 0.5);*/
+        background-color: (47, 41, 50, 0.5);
+
+    }
+
+    #hero-image {
+        height: 600px;
     }
 
     .text-input {
@@ -463,5 +469,16 @@ footer {
 
     #grid-box {
         display: block;
+    }
+}
+
+@media screen and (max-width: 280px) {
+
+    #menu {
+        font-size: 90%;
+    }
+
+    #logo {
+        font-size: 180%;
     }
 }
