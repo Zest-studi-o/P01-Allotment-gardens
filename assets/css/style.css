@@ -308,7 +308,7 @@ footer {
     background-color: #f1f1f1;
 }
 
-#flex-box {
+#grid-box {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 
@@ -412,7 +412,7 @@ footer {
         height: 1120px;
     }
 
-    #flex-box {
+    #grid-box {
         grid-template-columns: 1fr 1fr;
     }
 }
@@ -461,7 +461,7 @@ footer {
         display: inline-grid;
     }
 
-    #flex-box {
+    #grid-box {
         display: block;
     }
 }
