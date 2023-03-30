@@ -228,10 +228,8 @@ To clone the P01-Allotment-gardens repository:
 - - -
 
 ## Testing
-Get feedback from mentor, peer review, test with developer tools.
-Create an execute use cases for testing.
-Make sure to match user goals with a test case.
-Use some tools for automated testing such as the validators.
+Manual testing was carried as soon as the project started and a list of bugs were identified to tackle.
+Automated testing was carried at a later stage using validators.
 
 ### W3C Validator 
 HTML - No errors were returned when passing through the official W3C validator.
@@ -241,34 +239,22 @@ HTML - No errors were returned when passing through the official W3C validator.
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
-### Solved Bugs
-Several issues with media queries, header and footer alignment.
+### Bugs
 
-Big screens:
-
-ID:1 - Footer not sticking to the bottom. FIXED
-ID:2- Issue aligning correctly the 3 videos with some more extra spacing in the center. NOT FIXED
-
-Medium and small screens:
-
-ID:3- Issue with media queries; the right video does not accept the style. fixed. it was a typo on "right"  FIXED
-ID:4- Issue with the nav bar background not taking the grey background colour and floating on a white gap. FIXED
-ID:5- Issue with hero image not centered when reducing screen size. FIXED
-
-OPEN BUGS
------- Contact ------
-ID:6 - Class A- ID: 1 Small screens. Issue with the footer.
------- Home page ------
-ID:2 - Class C- ID: 2 Issue aligning correctly the 3 videos with some more extra spacing in the center.
-ID:8 - Class C- ID: 2 Issue with the alignment of the bulleted list in about us section.
-------- Locations page -----
-ID:9 - Class C- Issue centering exactly for big screens achiveved measuring by eye with percentages.
-Class A-
-Tablet
-ID:10 - Issue when reducing the screen to achieve 2 rows centered.
-Phone
-ID:11 - Issue when reducing the screen to center the content and not crop it.
-ID:12 - Class B- Active link not working
+|  ID |  CLASS |  FEATURE |  DESCRIPTION | STEPS TO REPRODUCE  | ACTUAL RESULT |  EXPECTED RESULT | ACTION  | STATUS  |
+|---|---|---|---|---|---|---|---|---|
+|  1 | A  | Footer  | Footer not aligning at the bottom  |  Go to the website > click on home> Observe the issue with the white space in the footer |  Footer correctly positioned | Position absolute and work with padding bottom  | Position absolute and work with padding bottom  | FIXED  |
+|  2 |  B |  Video section | Videos not correctly aligned  | The videos have more extra spacing in the center  | Go to the website> click on home> Observe the issue in the videos whitespacing  | Videos evently distributed and centered  |  n/a | NOT FIXED  |
+|  3 |  A |  Video section | Issue with media queries; the right video does not accept the style.  | Go to the website > click on home> Scroll to the video section> Observe the issue with video right not being responsive  |  All videos fully respnsive | Video on the right not responsive  |  Fixed the typo on "right"  | FIXED  |
+|  4 |  A | Nav bar  | Nav bar background not taking the grey background colour and floating on a white gap  |   |   |   |   |  FIXED |
+|  5 |  A | Hero image  | Issue with hero image not centered when reducing screen size  |   |   |   |   | FIXED  |
+|  6 |  B |  Footer | Footer after a long gap for small screens  |   |   |   |   |   |
+|  7 |  A |   |   |   |   |   |   |   |
+|  8 |  C | About us section  | Misalignment of the bulleted list in about us section  |   |   |   |   | NOT FIXED  |
+|  9 |  C |  Locations  |  Slight misalignment of the cards in location page |   |   |   |   | FIXED  |
+|  10 |  A |   | Issue when reducing the screen to achieve 2 rows centered in locations tab  |   |   |   |   |   |
+|  11 |  A |  Contact form| When reducing the screen the content is not centered or it is cropped  |   |   |   |   |   |
+|  12 |  B |  Active link on the nav menu not working |   |   |   |   |   |  NOT FIXED |
 
 
 ### known Bugs
@@ -312,6 +298,8 @@ Document known bugs and explain why they were not fixed.
 * [Flexbox](https://flexbox.malven.co/)
 * [Grids](https://grid.malven.co/)
 * [Get started with grid WITHOUT being overwhelmed](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
+* [Get started with grid WITHOUT being overwhelmed](https://www.tablesgenerator.com/markdown_tables#)
+
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
