@@ -393,9 +393,9 @@ footer {
         height: 1120px;
     }
 
-#flex-box{
+    #flex-box{
     grid-template-columns: 1fr 1fr;
-}
+    }
 }
 
 

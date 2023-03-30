@@ -252,7 +252,7 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 |  7 |  A |   |   |   |   |   |   |   |
 |  8 |  C | About us section  | Misalignment of the bulleted list in about us section  |   |   |   |   | NOT FIXED  |
 |  9 |  C |  Locations  |  Slight misalignment of the cards in location page |   |   |   |   | FIXED  |
-|  10 |  A |   | Issue when reducing the screen to achieve 2 rows centered in locations tab  |   |   |   |   |   |
+|  10 |  A |   | Issue when reducing the screen to achieve 2 rows centered in locations tab  |   |   |   |   | FIXED  |
 |  11 |  A |  Contact form| When reducing the screen the content is not centered or it is cropped  |   |   |   |   |   |
 |  12 |  B |  Active link on the nav menu not working |   |   |   |   |   |  NOT FIXED |
 
