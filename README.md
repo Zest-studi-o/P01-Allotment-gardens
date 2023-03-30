@@ -199,7 +199,7 @@ Font Awesome - To add icons to the website.
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 1. Log in (or sign up) to Github.
-2. Find the repository for this project, Bully-Book-Club.
+2. Find the repository for this project, P01-Allotment-garden.
 3. Click on the Settings link.
 4. Click on the Pages link in the left hand side navigation bar.
 5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
@@ -245,13 +245,13 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 |---|---|---|---|---|---|---|---|---|
 |  1 | A  | Footer  | Footer not aligning at the bottom  |  Go to the website > click on home> Observe the issue with the white space in the footer |  Footer correctly positioned | Position absolute and work with padding bottom  | Position absolute and work with padding bottom  | FIXED  |
 |  2 |  B |  Video section | Videos not correctly aligned  | The videos have more extra spacing in the center  | Go to the website> click on home> Observe the issue in the videos whitespacing  | Videos evently distributed and centered  |  n/a | NOT FIXED  |
-|  3 |  A |  Video section | Issue with media queries; the right video does not accept the style.  | Go to the website > click on home> Scroll to the video section> Observe the issue with video right not being responsive  |  All videos fully respnsive | Video on the right not responsive  |  Fixed the typo on "right"  | FIXED  |
-|  4 |  A | Nav bar  | Nav bar background not taking the grey background colour and floating on a white gap  |   |   |   |   |  FIXED |
+|  3 |  A |  Video section | Issue with media queries; the right video does not accept the style.  | Go to the website > click on home> Scroll to the video section> Observe the issue with video right not being responsive  |  All videos fully responsive | Video on the right not responsive  |  Fixed the typo on "right"  | FIXED  |
+|  4 |  A | Nav bar  | Nav bar background not taking the grey background colour and floating on a white gap  |  The nav bar does not display correctly and some content is cropped or with a white gap in certain screen sizes | The nav bar does not display correctly and some content is cropped or with a white gap in certain screen sizes  |The nav bar displays correctly   | Fixed by adjusting specified heights, margin and padding on the header element  |  FIXED |
 |  5 |  A | Hero image  | Issue with hero image not centered when reducing screen size  | Go to the website > click on home> Open dev tools> Select a small screen eg. IPhone12 Pro> Observe the issue with the hero image alignment  | The hero image is not aligned  | The hero image should be correctly aligned for all screen sizes  | Edit image size and add adjusted ones with media queries  | FIXED  |
 |  6 |  B |  Footer | Footer after a long gap for small screens  |  Go to the website > click on contact> Open dev tools> Select a small screen eg. IPhone12 Pro> Observe the issue with the gap not filled with content after the submit button | Some negative spacing after the submit button  | All the content is centered with no extra negative spacing at the bottom  | n/a  | NOT FIXED  |
 |  8 |  C | About us section  | Misalignment of the bulleted list in about us section  | Go to the website > click on home> Swap to different screen sizes with dev tools> Observe the issue with the bulleted list misalligned   | The list is not correctly aligned for certain screen sizes | The list is correctly aligned for all screen sizes | n/a  | NOT FIXED  |
-|  9 |  C |  Locations  |  Slight misalignment of the cards group in location page | The cards are not correctly aligned for destop screen size  | The cards are slighly misaligned  | The cards appear aligned and centered  | Use of the row css property  | FIXED  |
-|  10 |  A | Locations  | Issue when reducing the screen to achieve 2 rows centered in locations tab  |   |   |   | Use of the row css property  | FIXED  |
+|  9 |  C |  Locations  |  Slight misalignment of the cards group in location page |   | The cards are not correctly aligned for destop screen sizes  | The cards appear aligned and centered  | Use of the row css property  | FIXED  |
+|  10 |  A | Locations  | Issue when reducing the screen to achieve 2 rows centered in locations tab  | Go to the website > click on locations> Open dev tools and select a tablet size> Observe the issue with one of the cards floating down and leaving a white space instead | Three column cards for desktop, two column cards for tablet, one column card for phone   | Use of the row css property   | Use of the row css property  | FIXED  |
 |  11 |  B |  Nav bar | Active link on the nav menu not working  | Go to the website > click on any page eg. home> Observe the issue with the active style not taking effect  | The active page is not highlighted  | The active page is higlighted to indicate the user what page are they on  | n/a  |  NOT FIXED |
 |  12 |  A |   |   |   |   |   |   |   |
 
