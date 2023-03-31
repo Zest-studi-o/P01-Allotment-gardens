@@ -256,14 +256,16 @@ label {
 #phone,
 #fname,
 #lname,
-#email {
+#email,
+textarea {
     outline: 0;
 }
 
 #phone:valid,
 #fname:valid,
 #lname:valid,
-#email:valid {
+#email:valid,
+textarea {
     border-color: #c2e812;
     background: transparent;
 
@@ -272,10 +274,10 @@ label {
 #phone:focus:invalid,
 #fname:focus:invalid,
 #lname:focus:invalid,
-#email:focus:invalid {
+#email:focus:invalid,
+textarea:invalid {
     border-color: red;
 }
-
 
 /*footer*/
 .social-networks {
