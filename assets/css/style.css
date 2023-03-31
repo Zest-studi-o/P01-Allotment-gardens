@@ -94,8 +94,16 @@ header {
 
 #reasons-list {
     line-height: 1.4;
-    padding-left: 1.5%;
+    padding-left: 0.5%;
+    list-style-type: none;
 }
+
+#reasons-list li::before {
+    content: "\f00c";
+    font-family: "FontAwesome";
+    padding: 0 10px 0 0;
+}
+
 
 h2,
 h3 {
@@ -121,14 +129,12 @@ p {
     margin-bottom: 10px;
 }
 
-.highlight-green,
-.highlight-white {
+.highlight-green {
 
     position: relative;
 }
 
-.highlight-green:before,
-.highlight-white:before {
+.highlight-green:before {
     content: "";
     background-color: #c2e812;
     width: 100%;
@@ -551,7 +557,7 @@ footer {
 
 #checkmark {
     color: #c2e812;
-    font-size: 5rem;
+    font-size: 10rem;
 }
 
 .thank-you-content {
