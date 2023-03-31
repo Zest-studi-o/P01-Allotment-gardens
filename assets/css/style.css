@@ -76,7 +76,6 @@ header {
 /*about us section*/
 #about-us {
     background-color: #c2e812;
-    ;
     padding: 5%;
 }
 
@@ -149,7 +148,6 @@ iframe {
     background: url("../images/top-view-veggies-with-eggplant.jpg") no-repeat center center;
     background-size: cover;
     background-position: center;
-
 
     display: flex;
     justify-content: center;
@@ -255,7 +253,6 @@ footer {
     width: 100%;
     /*Deleted Footer height */
     position: absolute;
-    /*position: fixed;*/
 }
 
 #locations-intro {
@@ -312,6 +309,7 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
 
     gap: 1rem;
+    margin: 1rem;
 }
 
 /*video container styles for media queries*/
