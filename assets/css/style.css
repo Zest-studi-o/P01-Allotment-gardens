@@ -79,8 +79,6 @@ header {
     padding: 5%;
 }
 
-
-
 #intro-about {
     font-size: 120%;
     font-weight: 600;
@@ -103,7 +101,6 @@ header {
     font-family: "FontAwesome";
     padding: 0 10px 0 0;
 }
-
 
 h2,
 h3 {
@@ -259,29 +256,17 @@ label {
     padding: 1.8%
 }
 
-#phone,
-#fname,
-#lname,
-#email,
-textarea {
+.text-input {
     outline: 0;
 }
 
-#phone:valid,
-#fname:valid,
-#lname:valid,
-#email:valid,
-textarea {
+.text-input:valid {
     border-color: #c2e812;
     background: transparent;
 
 }
 
-#phone:focus:invalid,
-#fname:focus:invalid,
-#lname:focus:invalid,
-#email:focus:invalid,
-textarea:invalid {
+.text-input:focus:invalid {
     border-color: red;
 }
 
