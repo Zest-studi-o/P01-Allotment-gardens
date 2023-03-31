@@ -543,3 +543,19 @@ footer {
         font-size: 180%;
     }
 }
+
+.thank-you-title {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+#checkmark {
+    color: #c2e812;
+    font-size: 5rem;
+}
+
+.thank-you-content {
+    text-align: center;
+    padding: 17rem 0 17rem 0;
+    background-color: #f1f1f1;
+}
