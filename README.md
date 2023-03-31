@@ -267,12 +267,18 @@ Document known bugs and explain why they were not fixed.
 * [Sdcc](https://www.sdcc.ie/en/services/sport-and-recreation/allotments/#:~:text=The%20annual%20rent%20ranges%20from,on%20the%20size%20of%20plot.)
 
 ### Imagery, vectors & videos
-* [Freepik](https://www.freepik.com/)
-* [Pexels - Andrea Piacquadio](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
+* [Pexels - Andrea Piacquadio - woman in blue planting veg](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
+* [Pexels - Andrea Piacquadio - woman in blue and wheelbarrow](https://www.pexels.com/es-es/foto/foto-de-mujer-sosteniendo-carretilla-1023404/)
+* [Freepik - Cookie Studio](https://www.freepik.com/free-photo/rural-morning-close-up-beautiful-bearded-caucasian-male-farmer-blue-t-shirt-black-pants-smiling-working-farm-picking-crop-doing-favorite-job_9696954.htm#from_view=detail_alsolike)
+* [Freepik - Prostooleh - Woman working in the garden](https://www.freepik.com/free-photo/woman-hat-working-garden_9659554.htm)
+* [Freepik - Prostooleh - Senior holding veg basket](https://www.freepik.com/free-photo/close-up-old-farmer-holding-basket-vegetables-man-is-standing-garden-senior-black-apron_10065490.htm)
+* [Freepik - Couple working in the garden](https://www.freepik.com/free-photo/overhead-view-male-female-gardener-working-vegetable-garden_4636256.htm)
+* [Unsplash - Elias Morr - Purple and green veg](https://unsplash.com/es/fotos/0bA5dqPyLgg)
+* [Freepik - Veggies with eggplant](https://www.freepik.com/free-photo/top-view-veggies-with-eggplant_9402961.htm)
 * [Pexels - Mariam Antadze](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
 * [Youtube - Growing My Own Fruit and Veg - A Visit to my Allotment](https://www.youtube.com/watch?v=Aku-AGbwejw)
 * [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
-* [July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
+* [Pexels - July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
 
 ### Reference material. Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
@@ -281,11 +287,13 @@ Document known bugs and explain why they were not fixed.
 * [kera Cudmore readme template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
 * [Creating your first readme](https://www.youtube.com/watch?v=XbYJ4VlhSnY&ab_channel=CodeInstitute)
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
+* [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#)
 * [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
 * [Responsive iframe](https://techstacker.com/how-to-responsive-youtube-videos/)
 * [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 * [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
 * [Ultimate Guide to Hero Images](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
+* [Best image size for website](hhttps://tiny-img.com/blog/best-image-size-for-website/)
 * [W3 schools](https://www.w3schools.com/)
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 * [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
@@ -297,8 +305,6 @@ Document known bugs and explain why they were not fixed.
 * [Flexbox](https://flexbox.malven.co/)
 * [Grids](https://grid.malven.co/)
 * [Get started with grid WITHOUT being overwhelmed](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
-* [Get started with grid WITHOUT being overwhelmed](https://www.tablesgenerator.com/markdown_tables#)
-
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
