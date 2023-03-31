@@ -30,7 +30,7 @@
                             <a href="locations.html">Locations</a>
                         </li>
                         <li>
-                            <a href="index.html" class="active">Home </a>
+                            <a href="index.html" class="active">Home</a>
                         </li>
                     </ul>
                 </nav>
@@ -40,29 +40,31 @@
                 <div id="hero-image"></div>
             </section>
 
-            <section id="about-us">
-                <h2>Know more about City Gardens</h2>
-                <p id="intro-about">City Gardens is an initiative created in conjunction with local communities and
-                    Dublin City Council,
-                    the aim of this initiative is to encourage people who live in the inner city,
-                    particuraly in apartment and flat complexes to spend some time outside gardening
-                    and socialising using public lands divided into allotments which can be used by members of the
-                    public.
-                </p>
-                <hr>
-                <h3>Why have an allotment?</h3>
-                <p>An allotment can provide:</p>
-                <ul id="reasons">
-                    <li>A good source of affordable food you know the origins of.</li>
-                    <li>You can grow your own fresh fruit, vegetables and flowers.</li>
-                    <li>Working an allotment is a healthy physical recreation for all age groups.</li>
-                    <li>Social outlet – People from all age groups and a wide variety of social backgrounds use the
-                        allotments.</li>
-                    <li>All the people can learn from each other through gardening together.</li>
-                    <li>Allotments have an educational value – a number of schools and educational groups have
-                        allotments.</li>
-                </ul>
-
+            <section>
+                <div class="about-us">
+                    <h2><span class="highlight-white">know more about City Gardens</span></h2>
+                    <p id="intro-about">City Gardens is an initiative created in conjunction with local communities and
+                        Dublin City Council,
+                        the aim of this initiative is to encourage people who live in the inner city,
+                        particuraly in apartment and flat complexes to spend some time outside gardening
+                        and socialising using public lands divided into allotments which can be used by members of the
+                        public.
+                    </p>
+                    <hr>
+                    <h3><span class="highlight-green"> Why have an allotment?</span></h3>
+                    <div class="reasons"></div>
+                    <p><span class="realistic-marker-highlight">An allotment can provide:</span></p>
+                    <ul id="reasons-list">
+                        <li>A good source of affordable food you know the origins of.</li>
+                        <li>You can grow your own fresh fruit, vegetables and flowers.</li>
+                        <li>Working an allotment is a healthy physical recreation for all age groups.</li>
+                        <li>Social outlet – People from all age groups and a wide variety of social backgrounds use the
+                            allotments.</li>
+                        <li>All the people can learn from each other through gardening together.</li>
+                        <li>Allotments have an educational value – a number of schools and educational groups have
+                            allotments.</li>
+                    </ul>
+                </div>
             </section>
 
             <section id="videos">
@@ -125,6 +127,16 @@
     </div> <!-- Closes page-container -->
     <!-- Font Awsome Script -->
     <script src="https://kit.fontawesome.com/af51085c1b.js" crossorigin="anonymous"></script>
+
+    <svg xmlns="//www.w3.org/2000/svg" version="1.1" class="svg-filters" style="display:none;">
+        <defs>
+            <filter id="marker-shape">
+                <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp" />
+                <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp" />
+            </filter>
+        </defs>
+    </svg>
+
 </body> <!-- end body -->
 
 </html>

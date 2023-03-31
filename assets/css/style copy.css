@@ -75,11 +75,23 @@ header {
 
 /*about us section*/
 .about-us {
-    background: #c2e812;
+    background-color: #c2e812;
     padding: 5%;
 }
 
+.about-us h2,
+.about-us h3 {
+    display: inline;
+    padding: .25em 0;
+    background: #171219;
+    color: #c2e812;
+    padding: 0.5rem;
+    font-weight: 600;
+}
 
+.about-us h3 {
+    margin: 30px 0;
+}
 
 #intro-about {
     font-size: 120%;
@@ -119,40 +131,6 @@ p {
     color: #2f2932;
     font-size: 100%;
     margin-bottom: 10px;
-}
-
-.highlight-green,
-.highlight-white {
-
-    position: relative;
-}
-
-.highlight-green:before,
-.highlight-white:before {
-    content: "";
-    background-color: #c2e812;
-    width: 100%;
-    height: 1em;
-    position: absolute;
-    z-index: -1;
-    filter: url(#marker-shape);
-    left: -0.25em;
-    top: 0.1em;
-    padding: 0 0.25em;
-}
-
-.highlight-green:before {
-    background-color: #c2e812;
-}
-
-.highlight-black:before {
-    background-color: #171219;
-    background-color: #c2e812;
-}
-
-.highlight-white:before {
-    background-color: white;
-
 }
 
 /*videos*/
@@ -206,6 +184,7 @@ iframe {
     margin-bottom: 20px;
     text-shadow: 2px 2px 4px #0d4139;
 }
+
 
 .text-input {
     background: transparent;
@@ -517,3 +496,47 @@ footer {
         font-size: 180%;
     }
 }
+
+.highlight-green,
+.highlight-black {
+    /* display: inline;
+    padding: .25em 0;
+    background: #c2e812;
+    color: #171219;
+    box-shadow: .5em 0 0 #c2e812, -.5em 0 0 #c2e812;
+    font-weight: 600;*/
+    position: relative;
+}
+
+.highlight-green:before,
+.highlight-black:before {
+    content: "";
+    background-color: #c2e812;
+    width: 100%;
+    height: 1em;
+    position: absolute;
+    z-index: -1;
+    filter: url(#marker-shape);
+    left: -0.25em;
+    top: 0.1em;
+    padding: 0 0.25em;
+}
+
+.highlight-green:before {
+    background-color: #c2e812;
+}
+
+.highlight-black:before {
+    background-color: #171219;
+}
+
+
+/*
+.highlight-black {
+    display: inline;
+    padding: 1rem;
+    margin-bottom: 3rem;
+    background: #171219;
+    color: #c2e812;
+    font-weight: 600;
+}*/

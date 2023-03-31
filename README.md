@@ -305,6 +305,8 @@ Document known bugs and explain why they were not fixed.
 * [Flexbox](https://flexbox.malven.co/)
 * [Grids](https://grid.malven.co/)
 * [Get started with grid WITHOUT being overwhelmed](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
+* [How to hightligh text in CSS](https://alvarotrigo.com/blog/css-highlight-text/)
+* [Highlight Text CSS: 7 Cool CSS Highlight Text Effects](https://www.coding-dude.com/wp/css/highlight-text-css/)
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
