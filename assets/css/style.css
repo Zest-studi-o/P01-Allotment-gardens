@@ -253,6 +253,30 @@ label {
     padding: 1.8%
 }
 
+#phone,
+#fname,
+#lname,
+#email {
+    outline: 0;
+}
+
+#phone:valid,
+#fname:valid,
+#lname:valid,
+#email:valid {
+    border-color: #c2e812;
+    background: transparent;
+
+}
+
+#phone:focus:invalid,
+#fname:focus:invalid,
+#lname:focus:invalid,
+#email:focus:invalid {
+    border-color: red;
+}
+
+
 /*footer*/
 .social-networks {
     text-align: center;
