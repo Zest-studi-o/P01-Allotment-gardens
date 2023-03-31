@@ -540,9 +540,10 @@ footer {
     text-transform: uppercase;
 }
 
-#checkmark {
+#plane {
     color: #c2e812;
-    font-size: 10rem;
+    font-size: 8rem;
+    padding: 2rem;
 }
 
 .thank-you-content {
