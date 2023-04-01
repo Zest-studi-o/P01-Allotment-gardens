@@ -280,6 +280,7 @@ Document known bugs and explain why they were not fixed.
 * [Youtube - Growing My Own Fruit and Veg - A Visit to my Allotment](https://www.youtube.com/watch?v=Aku-AGbwejw)
 * [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
 * [Pexels - July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
+* [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
 
 ### Reference material. Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
@@ -312,6 +313,8 @@ Document known bugs and explain why they were not fixed.
 * [Regex: Validate an Irish mobile phone number](https://stackoverflow.com/questions/33061964/validate-an-irish-mobile-phone-number)
 * [Bullet points using font awsome](https://hollypryce.com/font-awesome-bullet-points/)
 * [Stackoverflow - Font awsome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
+* [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
+
 
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
