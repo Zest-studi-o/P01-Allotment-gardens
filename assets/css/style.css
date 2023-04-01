@@ -67,7 +67,7 @@ header {
 #hero-image {
     height: 650px;
     width: 100%;
-    background: url("../images/woman-in-blue-2600x1000.gif") no-repeat center center;
+    background: url("../images/woman-in-blue-2600x1000.png") no-repeat center center;
     background-size: cover;
     line-height: 0px;
     /* removes the white gap */
@@ -461,7 +461,7 @@ footer {
     }
 
     #hero-image {
-        background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
+        background: url("../images/woman-in-blue-900x1400.png") no-repeat center center;
         height: 1400px;
         /*add same image height so it will be centered*/
         background-size: cover;
@@ -496,7 +496,7 @@ footer {
 /*small screen*/
 @media screen and (max-width: 745px) {
     #hero-image {
-        background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
+        background: url("../images/woman-in-blue-900x1400.png") no-repeat center center;
         height: 800px;
         background-size: cover;
         aspect-ratio: 1 / 1;
