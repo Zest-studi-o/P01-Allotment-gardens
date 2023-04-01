@@ -253,7 +253,8 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 |  9 |  C |  Locations  |  Slight misalignment of the cards group in location page |   | The cards are not correctly aligned for destop screen sizes  | The cards appear aligned and centered  | Use of the row css property  | FIXED  |
 |  10 |  A | Locations  | Issue when reducing the screen to achieve 2 rows centered in locations tab  | Go to the website > click on locations> Open dev tools and select a tablet size> Observe the issue with one of the cards floating down and leaving a white space instead | Three column cards for desktop, two column cards for tablet, one column card for phone   | Use of the row css property   | Use of the row css property  | FIXED  |
 |  11 |  B |  Nav bar | Active link on the nav menu not working  | Go to the website > click on any page eg. home> Observe the issue with the active style not taking effect  | The active page is not highlighted  | The active page is higlighted to indicate the user what page are they on  | n/a  |  NOT FIXED |
-|  12 |  A |   |   |   |   |   |   |   |
+|  12 |  A |  Nav bar |  Wrong order of the listed items when seeing the page in small screens | Go to the webise> Click on dev tools and select a small mobile screen size> Observe the issue with the listed items in the nav bar being in the wrong order  | The nav bar displays the items in a not user friendly manner contact, locations, home  |  The nav bar will display home, locations and contact | n/a  | NOT FIXED  |
+|  13 |  A |   |   |   |   |   |   |   |
 
 
 ### known Bugs
@@ -309,8 +310,9 @@ Document known bugs and explain why they were not fixed.
 * [Highlight Text CSS: 7 Cool CSS Highlight Text Effects](https://www.coding-dude.com/wp/css/highlight-text-css/)
 * [How to Add Phone Number Validation in HTML: The Essential Guide](https://www.youtube.com/watch?v=fb4QcrpQKUM)
 * [Regex: Validate an Irish mobile phone number](https://stackoverflow.com/questions/33061964/validate-an-irish-mobile-phone-number)
-https://hollypryce.com/font-awesome-bullet-points/
-https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element
+* [Bullet points using font awsome](https://hollypryce.com/font-awesome-bullet-points/)
+* [Stackoverflow - Font awsome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
+
 ### Acknowledgments
 * [Derek MCAuley](https://github.com/derekmcauley7), my Code Institute Mentor.
 * Tutor support at Code Institute.
