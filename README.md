@@ -125,11 +125,11 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-![Home Page Wireframe](docs/home.gif)
+![Home Page Wireframe](docs/home.png)
 
-![Locations Wireframe](docs/locations.gif)
+![Locations Wireframe](docs/locations.png)
 
-![Contact Us Wireframe](docs/contact.gif)
+![Contact Us Wireframe](docs/contact.png)
 
 ### Features
 
@@ -294,7 +294,7 @@ Document known bugs and explain why they were not fixed.
 * [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 * [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
 * [Ultimate Guide to Hero Images](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
-* [Best image size for website](hhttps://tiny-img.com/blog/best-image-size-for-website/)
+* [Best image size for website](https://tiny-img.com/blog/best-image-size-for-website/)
 * [W3 schools](https://www.w3schools.com/)
 * [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 * [Remove white space from footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
@@ -305,7 +305,7 @@ Document known bugs and explain why they were not fixed.
 * [Column cards](https://www.w3schools.com/howto/howto_css_column_cards.asp)
 * [Flexbox](https://flexbox.malven.co/)
 * [Grids](https://grid.malven.co/)
-* [Get started with grid WITHOUT being overwhelmed](hhttps://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
+* [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
 * [How to hightligh text in CSS](https://alvarotrigo.com/blog/css-highlight-text/)
 * [Highlight Text CSS: 7 Cool CSS Highlight Text Effects](https://www.coding-dude.com/wp/css/highlight-text-css/)
 * [How to Add Phone Number Validation in HTML: The Essential Guide](https://www.youtube.com/watch?v=fb4QcrpQKUM)
