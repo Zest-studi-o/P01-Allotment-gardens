@@ -73,6 +73,30 @@ header {
     /* removes the white gap */
 }
 
+#cover-text {
+    font-size: 130%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(248, 235, 235, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #fff;
+}
+
 /*about us section*/
 .about-us {
     background: #c2e812;
