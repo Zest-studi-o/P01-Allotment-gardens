@@ -4,7 +4,7 @@ City Gardens is a website designed to connect potential and active users of the 
 
 Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes.
 
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site. 
+Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 
 Add optional [shields.io](https://shields.io) badges to README.
 
@@ -125,11 +125,11 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-[Home Page Wireframe](docs/home.gif)
+![Home Page Wireframe](docs/home.gif)
 
-[Locations Wireframe](docs/locations.gif)
+![Locations Wireframe](docs/locations.gif)
 
-[Contact Us Wireframe](docs/contact.gif)
+![Contact Us Wireframe](docs/contact.gif)
 
 ### Features
 
