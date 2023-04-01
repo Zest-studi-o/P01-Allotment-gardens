@@ -495,8 +495,15 @@ footer {
     }
 }
 
-
 /*small screen ipad mini*/
+@media screen and (max-width: 768px) {
+
+    .thank-you-content {
+        padding: 12em 2rem;
+    }
+}
+
+/*small screen*/
 @media screen and (max-width: 745px) {
     #hero-image {
         background: url("../images/woman-in-blue-900x1400.gif") no-repeat center center;
@@ -507,6 +514,10 @@ footer {
 
     footer {
         padding-bottom: 6.5rem;
+    }
+
+    .thank-you-content {
+        padding: 4rem 2rem;
     }
 }
 
@@ -549,7 +560,7 @@ footer {
     }
 
     .thank-you-content {
-        padding: 4rem 2rem;
+        padding: 5rem 2rem;
     }
 }
 
