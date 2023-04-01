@@ -510,7 +510,6 @@ footer {
     }
 }
 
-
 /*small screen */
 @media screen and (max-width: 415px) {
     header {
@@ -547,6 +546,10 @@ footer {
 
     #grid-box {
         display: block;
+    }
+
+    .thank-you-content {
+        padding: 4rem 2rem;
     }
 }
 
