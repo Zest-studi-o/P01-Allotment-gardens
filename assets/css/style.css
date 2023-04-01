@@ -127,7 +127,6 @@ p {
 }
 
 .highlight-green {
-
     position: relative;
 }
 
@@ -146,16 +145,6 @@ p {
 
 .highlight-green:before {
     background-color: #c2e812;
-}
-
-.highlight-black:before {
-    background-color: #171219;
-    background-color: #c2e812;
-}
-
-.highlight-white:before {
-    background-color: white;
-
 }
 
 /*videos*/
@@ -531,7 +520,7 @@ footer {
 
     .enquiry-form {
         margin: 0%;
-        background-color: (47, 41, 50, 0.5);
+        background-color: rgb (47, 41, 50, 0.5);
 
     }
 
