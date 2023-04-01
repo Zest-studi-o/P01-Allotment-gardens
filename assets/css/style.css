@@ -367,6 +367,28 @@ footer {
     margin: 1rem;
 }
 
+/* Thank you page */
+.thank-you-title {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+#plane {
+    color: #c2e812;
+    font-size: 8rem;
+    padding: 2rem;
+}
+
+.thank-you-content {
+    text-align: center;
+    padding: 12rem 2rem;
+    background-color: #f1f1f1;
+}
+
+.thank-you-p {
+    padding-top: 1em;
+}
+
 /*video container styles for media queries*/
 
 /* Media queries */
@@ -467,6 +489,10 @@ footer {
     #grid-box {
         grid-template-columns: 1fr 1fr;
     }
+
+    .thank-you-content {
+        padding: 22rem 2rem;
+    }
 }
 
 
@@ -533,25 +559,4 @@ footer {
     #logo {
         font-size: 180%;
     }
-}
-
-.thank-you-title {
-    font-size: 1.8rem;
-    text-transform: uppercase;
-}
-
-#plane {
-    color: #c2e812;
-    font-size: 8rem;
-    padding: 2rem;
-}
-
-.thank-you-content {
-    text-align: center;
-    padding: 12rem 2rem;
-    background-color: #f1f1f1;
-}
-
-.thank-you-p {
-    padding-top: 1em;
 }
