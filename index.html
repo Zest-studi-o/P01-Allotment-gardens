@@ -88,7 +88,7 @@
                             title="YouTube video player"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
-                        <h3>Left Video</h3>
+                        <h2><span class="highlight-green">Left video</span></h2>
                         <hr>
                         <p>Left video description</p>
                     </div>
@@ -97,7 +97,7 @@
                             title="YouTube video player"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
-                        <h3>Right video</h3>
+                        <h2><span class="highlight-green">Right video</span></h2>
                         <hr>
                         <p> Right video description</p>
                     </div>
@@ -107,7 +107,7 @@
                             title="YouTube video player"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
-                        <h3>Center video</h3>
+                        <h2><span class="highlight-green">Center video</span></h2>
                         <hr>
                         <p> Center video description</p>
                     </div>
@@ -146,6 +146,14 @@
     </div> <!-- Closes page-container -->
     <!-- Font Awsome Script -->
     <script src="https://kit.fontawesome.com/af51085c1b.js" crossorigin="anonymous"></script>
+    <svg version="1.1" class="svg-filters" style="display:none;">
+        <defs>
+            <filter id="marker-shape">
+                <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp" />
+                <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp" />
+            </filter>
+        </defs>
+    </svg>
 
 </body> <!-- end body -->
 
