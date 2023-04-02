@@ -207,9 +207,6 @@ iframe {
     text-align: center;
 }
 
-#videos p {
-    padding-bottom: 2px;
-}
 
 #left-video-container {
     padding: 30px 0px 20px 0px;
@@ -607,9 +604,13 @@ footer {
         display: block;
     }
 
-    .thank-you-content {
-        padding: 5rem 2rem;
+    .card {
+        margin: 1em;
     }
+}
+
+.thank-you-content {
+    padding: 5rem 2rem;
 }
 
 @media screen and (max-width: 280px) {
