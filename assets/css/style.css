@@ -330,6 +330,10 @@ label {
     color: #fbfbfa;
 }
 
+.social-networks a {
+    text-decoration: none;
+}
+
 #page-container {
     min-height: 95vh;
     position: relative;
@@ -541,7 +545,7 @@ footer {
 
 }
 
-/*small screen ipad mini*/
+/*medium-small screen ipad mini*/
 @media screen and (max-width: 768px) {
 
     .thank-you-content {
@@ -549,7 +553,7 @@ footer {
     }
 }
 
-/*small screen*/
+/*medium-small screen*/
 @media screen and (max-width: 745px) {
     #hero-image {
         background: url("../images/woman-in-blue-900x1400.png") no-repeat center center;
@@ -574,6 +578,10 @@ footer {
         padding: 0em 0em 1em 0.7em;
     }
 
+    #menu {
+        display: inline-grid;
+    }
+
     .enquiry-form {
         margin: 0%;
         background-color: rgb (47, 41, 50, 0.5);
@@ -596,9 +604,6 @@ footer {
         font-size: 170%;
     }
 
-    #menu {
-        display: inline-grid;
-    }
 
     #grid-box {
         display: block;
@@ -607,19 +612,19 @@ footer {
     .card {
         margin: 1em;
     }
-}
 
-.thank-you-content {
-    padding: 5rem 2rem;
-}
+    #cover-text {
+        bottom: 1.5rem;
+        left: 5rem;
+        right: 0rem;
+        width: 200px;
+        padding: 1em;
+    }
 
-/*
-#cover-text {
-    bottom: 0rem;
-    left: 5rem;
-    right: 0rem;
-    width: 200px;
-}*/
+    .thank-you-content {
+        padding: 5rem 2rem;
+    }
+}
 
 @media screen and (max-width: 280px) {
 
