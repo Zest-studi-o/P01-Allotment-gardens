@@ -513,7 +513,6 @@ footer {
         font-size: 90%;
         padding-bottom: 10%;
         margin: 0;
-
     }
 
     #hero-image {
@@ -578,7 +577,6 @@ footer {
     .enquiry-form {
         margin: 0%;
         background-color: rgb (47, 41, 50, 0.5);
-
     }
 
     #hero-image {
@@ -614,6 +612,14 @@ footer {
 .thank-you-content {
     padding: 5rem 2rem;
 }
+
+/*
+#cover-text {
+    bottom: 0rem;
+    left: 5rem;
+    right: 0rem;
+    width: 200px;
+}*/
 
 @media screen and (max-width: 280px) {
 
