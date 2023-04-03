@@ -9,20 +9,64 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
 
 * [AUTOMATED TESTING](#AUTOMATED-TESTING)
   * [W3C Validator](#W3C-Validator)
-  * [JavaScript Validator](#JavaScript-Validator)
   * [Lighthouse](#Lighthouse)
 * [MANUAL TESTING](#MANUAL-TESTING)
   * [Testing User Stories](#Testing-User-Stories)
   * [Full Testing](#Full-Testing)
-  
+
 Manual testing was carried as soon as the project started and a list of bugs were identified to tackle using exploratory testing techniques.
 At the same time of building each page those were tested in different screen sizes using the developer tools to better adjust the design and make sure the website is responsive in all screensizes.
 Automated testing was carried at a later stage using validators and all errors were fixed.
 
+- - -
+
+## AUTOMATED TESTING
+
 ### W3C Validator 
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
+* [index.html]() - Passed.
+* [locations.html]() - Passed.
+* [contact-us.html]() - Passed.
+* [thank-you.html]() - Passed.
+
+* [style.css]() - Passed
 
 ### Jigsaw Validator
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+
+- - -
+
+### Lighthouse
+
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+
+### Desktop Results
+### Mobile Results
+
+- - -
+
+## MANUAL TESTING
+`First Time Visitors`
+
+| Goals | How are they achieved? |
+| :--- | :--- |
+| abc | abc |
+
+### Full Testing
+Full testing was performed on the following devices:
+* Destop:
+  * Custom Gaming computer with 2 screens set-up 24 inches.
+* Laptop:
+  * Macbook Pro 2023 14 inch screen
+* Mobile Devices:
+  * iPhone 13 pro.
+ 
+Each device tested the site using the following browsers:
+
+* Google Chrome
+* Safari
+* Firefox
+
+Add here a table with test cases
