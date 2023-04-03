@@ -230,17 +230,7 @@ To clone the P01-Allotment-gardens repository:
 - - -
 
 ## Testing
-Manual testing was carried as soon as the project started and a list of bugs were identified to tackle using exploratory testing techniques.
-At the same time of building each page those were tested in different screen sizes using the developer tools to better adjust the design and make sure the website is responsive in all screensizes.
-Automated testing was carried at a later stage using validators and all errors were fixed.
-
-### W3C Validator 
-HTML - No errors were returned when passing through the official W3C validator.
-[W3C Validator](https://validator.w3.org/)
-
-### Jigsaw Validator
-CSS - No errors were found when passing through the official (Jigsaw) validator.
-[Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 
 ### Bugs
 
@@ -290,6 +280,7 @@ Document known bugs and explain why they were not fixed.
 * [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 * [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
 * [kera Cudmore readme template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
+* [kera Cudmore - The Quiz Arms](https://github.com/kera-cudmore/TheQuizArms)
 * [Creating your first readme](https://www.youtube.com/watch?v=XbYJ4VlhSnY&ab_channel=CodeInstitute)
 * [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 * [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#)
