@@ -60,7 +60,7 @@ header {
 .active {
     /* active not working, check later*/
     color: #c2e812;
-    text-decoration: underline;
+    border-bottom: 1px solid #c2e812;
 }
 
 /* hero image */
@@ -122,8 +122,6 @@ header {
 #cover-text h2 {
     text-shadow: 2px 2px 4px #0d4139;
 }
-
-
 
 /*about us section*/
 .about-us {
@@ -207,7 +205,6 @@ iframe {
 #videos {
     text-align: center;
 }
-
 
 #left-video-container {
     padding: 30px 0px 20px 0px;
@@ -305,7 +302,6 @@ label {
 .text-input:valid {
     border-color: #c2e812;
     background: transparent;
-
 }
 
 .text-input:focus:invalid {
@@ -559,7 +555,6 @@ footer {
         background: url("../images/woman-in-blue-900x1400.png") no-repeat center center;
         height: 800px;
         background-size: cover;
-        aspect-ratio: 1 / 1;
     }
 
     footer {
@@ -604,7 +599,6 @@ footer {
         font-size: 170%;
     }
 
-
     #grid-box {
         display: block;
     }
@@ -620,6 +614,23 @@ footer {
         width: 200px;
         padding: 1em;
     }
+
+    #videos h2 {
+        font-size: 120%;
+    }
+
+    #videos p {
+        font-size: 85%;
+    }
+
+    #videos iframe {
+        padding-top: 5rem;
+    }
+
+    .social-networks {
+        padding-top: 3.2em;
+    }
+
 
     .thank-you-content {
         padding: 5rem 2rem;
