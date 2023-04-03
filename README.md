@@ -231,7 +231,8 @@ To clone the P01-Allotment-gardens repository:
 
 ## Testing
 Manual testing was carried as soon as the project started and a list of bugs were identified to tackle using exploratory testing techniques.
-Automated testing was carried at a later stage using validators.
+At the same time of building each page those were tested in different screen sizes using the developer tools to better adjust the design and make sure the website is responsive in all screensizes.
+Automated testing was carried at a later stage using validators and all errors were fixed.
 
 ### W3C Validator 
 HTML - No errors were returned when passing through the official W3C validator.

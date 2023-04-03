@@ -470,7 +470,6 @@ footer {
         height: 100%;
         border-radius: 0%;
         padding-top: 6.5rem;
-        /* padding-top: 5.2rem;*/
         /*spacing inbetween videos*/
     }
 }
@@ -513,8 +512,8 @@ footer {
     }
 
     #hero-image {
-        background: url("assets/images/woman-in-blue-900x1400.png") no-repeat center center;
-        height: 1400px;
+        background: url("../images/woman-in-blue-800x700px.png") no-repeat center center;
+        height: 800px;
         /*add same image height so it will be centered*/
         background-size: cover;
     }
