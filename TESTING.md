@@ -103,8 +103,10 @@ Each device tested the site using the following browsers:
 
 
 `Contact us page`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | Form | abc | abc | abc | Pass |
 
 `Thank you page`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | Message to the user | abc | abc | abc | Pass |
 

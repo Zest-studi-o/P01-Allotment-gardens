@@ -268,6 +268,7 @@ Document known bugs and explain why they were not fixed.
 
 ### Content
 * [Sdcc](https://www.sdcc.ie/en/services/sport-and-recreation/allotments/#:~:text=The%20annual%20rent%20ranges%20from,on%20the%20size%20of%20plot.)
+* [Dublin City Council](https://www.dublincity.ie/residential/improving-my-community/allotments-and-community-gardens)
 
 ### Imagery, vectors & videos
 * [Pexels - Andrea Piacquadio - woman in blue planting veg](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
