@@ -1,6 +1,6 @@
 # City Gardens -  Testing
 
-![City Gardens shown on a variety of screen sizes](assets/images/the-quiz-arms.png)
+![City Gardens shown on a variety of screen sizes](docs/city-gardens-mockup-test.png)
 
 Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Allotment-gardens/)
 - - -
@@ -69,4 +69,9 @@ Each device tested the site using the following browsers:
 * Safari
 * Firefox
 
-Add here a table with test cases
+## Test Cases
+
+`Home Page`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
