@@ -50,11 +50,25 @@ This test was run torough different devices which returned different results.
 - - -
 
 ## MANUAL TESTING
-`First Time Visitors`
 
+`First Time Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| abc | abc |
+| As a user I want to have the site displayed clearly in different devices | abc |
+| As a user I want to find information on what is City Gardens and how to participate | abc |
+| As a user I want to show exactly where the gardens are located | abc |
+| As a user I want to be able to contact City Gardens with any queries or suggestions | abc |
+
+`Returning Visitors`
+| Goals | How are they achieved? |
+| :--- | :--- |
+| As a returning visitor I want to find images and videos of the allotments | abc |
+| As a returning visitor I want to be able to easily contact City Gardens with further questions I might have | abc |
+
+`Frequent Visitors`
+| Goals | How are they achieved? |
+| :--- | :--- |
+| As a frequent visitor I want to see images of the people that participate in City Gardens| abc |
 
 ### Full Testing
 Full testing was performed on the following devices:

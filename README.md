@@ -137,7 +137,7 @@ Wireframes for desktop, tablet and mobile versions as follows:
 ### Features
 
 #### Existing Features
-This website has three pages that can be accessed from the navigation menu (home page, locations page, and contact us page). 
+This website has three pages that can be accessed from the navigation menu (home page, locations page, and contact us page) it also has a thank you page that can be accessed when sending a form. 
 
 * All pages have:
  * A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
@@ -153,19 +153,25 @@ This website has three pages that can be accessed from the navigation menu (home
 
 * Locations page.
   * Images of the locations. 
-  * Caption with address and contact details. 
+  * Information with address and contact details. 
   
 * Contact us page.
   * Form. 
   This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
+
+* Thank you page.
+  * Once the form is succesfully submited the page thanks and redirects the user to the home page in 10s
 
 ### Features Left to Implement
 Add extra pages such a galery page.
 
 ### Accessibility
 It is important to have a website that is accessibility friendly, this objective was achivieved by:
-* Ensuring that images have an alt atribute 
-* Using aria labels
+* Ensuring that images have an alt atribute.
+* Using aria labels.
+* Using semantic html.
+* Making sure that background and foreground colours have high contracts, after an error returned in the nav bar by the lighthouse validator the darkness background colour was inscreased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
+* Using a sans serif font recommended for web which are easy to read
 
 - - -
 
