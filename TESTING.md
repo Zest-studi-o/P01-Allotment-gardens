@@ -14,7 +14,7 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
   * [Testing User Stories](#Testing-User-Stories)
   * [Full Testing](#Full-Testing)
 
-Manual testing was carried as soon as the project started and a list of bugs were identified to tackle using exploratory testing techniques.
+Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and place in a table to tackle.
 At the same time of building each page those were tested in different screen sizes using the developer tools to better adjust the design and make sure the website is responsive in all screensizes.
 Automated testing was carried at a later stage using validators and all errors were fixed.
 
@@ -41,7 +41,7 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
-This test was run torough different devices which returned different results.
+This test was run thorough different devices which returned different results.
 
 ### Desktop Results
 
@@ -87,7 +87,24 @@ Each device tested the site using the following browsers:
 
 ## Test Cases
 
-`Home Page`
+`Home page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| The Sites title | Link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| The Sites title | Clicking on the logo link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Hero section | abc | abc | abc | Pass |
+| About us section | abc | abc | abc | Pass |
+| Video section | abc | abc | abc | Pass |
+
+`Locations page`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Imaages of the locations | abc | abc | abc | Pass |
+| Map and address | abc | abc | abc | Pass |
+
+
+`Contact us page`
+| Form | abc | abc | abc | Pass |
+
+`Thank you page`
+| Message to the user | abc | abc | abc | Pass |
+

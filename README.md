@@ -144,16 +144,18 @@ This website has three pages that can be accessed from the navigation menu (home
  * A footer with links to social media.
 
 * Home Page.
+  * The Sites title. 
+  This redirects the user to the home page by clicking on the logo.
   * Hero section. 
-  This shows images of some members of City Gardens with the produce.
+  This shows an image of a member of City Gardens in the allotments.
   * About us section.
-  This explains briefly to the user what is City Gardens, about the markets selling the produce and where can they be found.
+  This explains briefly to the user what is City Gardens, and the reasons to have an allotment
   * Video section.
-  This links to videos on relevant content such as latest news on the local markets in which the produce is sold, how to join City Gardens, or members working on them.
+  This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
 
 * Locations page.
-  * Images of the locations. 
-  * Information with address and contact details. 
+  * Cards with images of the locations. 
+  * Information with address and contact details and link to a map.
   
 * Contact us page.
   * Form. 
