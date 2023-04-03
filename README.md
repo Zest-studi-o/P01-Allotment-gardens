@@ -2,7 +2,9 @@
 
 City Gardens is a website designed to connect potential and active users of the community garden allotments available in Dublin city and how to take the best use of them once taking part.
 
-Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes.
+Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes. Test: (update with finihed site)
+
+![Mockup](docs/city-gardens-mockup-test.png)
 
 Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 
