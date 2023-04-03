@@ -391,7 +391,6 @@ footer {
     clear: both;
 }
 
-
 /* Card styles */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -434,6 +433,12 @@ footer {
 /*video container styles for media queries*/
 
 /* Media queries */
+/*For macbook pro 14 inches and bellow*/
+@media screen and (max-width: 1344px) {
+    footer {
+        padding-bottom: 0.8rem;
+    }
+}
 
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
@@ -467,15 +472,6 @@ footer {
         /* padding-top: 5.2rem;*/
         /*spacing inbetween videos*/
     }
-}
-
-
-/*For macbook pro 14 inches and bellow*/
-@media screen and (max-width: 1344px) {
-    footer {
-        padding-bottom: 0.8rem;
-    }
-
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
@@ -574,7 +570,17 @@ footer {
     }
 
     #menu {
-        display: inline-grid;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #menu ul {
+        display: flex;
+    }
+
+    #menu li {
+        align-items: flex-start;
+        flex-direction: row-reverse;
     }
 
     .enquiry-form {
