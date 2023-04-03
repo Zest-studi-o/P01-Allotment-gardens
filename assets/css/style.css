@@ -75,7 +75,7 @@ header {
 #hero-image {
     height: 650px;
     width: 100%;
-    background: url("../images/woman-in-blue-2600x1000.webp") no-repeat center center;
+    background: url("../images/woman-in-blue-2600x1000.png") no-repeat center center;
     background-size: cover;
     line-height: 0px;
     /* removes the white gap */
@@ -88,7 +88,7 @@ header {
 
     padding: 2rem;
 
-    background-color: rgb(109, 138, 150, .7);
+    background-color: rgb(66, 100, 115 .7);
 
     bottom: 15rem;
     right: 8rem;
@@ -239,7 +239,7 @@ iframe {
     margin: 5%;
     color: #fbfbfa;
     text-shadow: 2px 2px 4px #0d4139;
-    background-color: rgb(109, 138, 150, .9);
+    background-color: rgb(66, 100, 115, .9);
     max-width: 700px;
     padding: 30px;
 }
