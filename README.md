@@ -4,7 +4,7 @@ City Gardens is a website designed to connect potential and active users of the 
 
 Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes. Test: (update with finihed site)
 
-![Mockup](docs/city-gardens-mockup-test.png)
+![City Gardens](docs/city-gardens-mockup-test.png)
 
 Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 
@@ -36,8 +36,8 @@ Add optional [shields.io](https://shields.io) badges to README.
     * [How to Clone](#How-to-Clone)
 
 * [Testing](#Testing)
-  * [Jigsaw](#Jigsaw-Validator)
-  * [W3C Validator](#W3C-Validator)
+  * [Bugs](#Bugs)
+  * [Known Bugs](#known-Bugs)
   
 * [Credits](#Credits)
   * [Content](#Content)
@@ -230,7 +230,7 @@ To clone the P01-Allotment-gardens repository:
 - - -
 
 ## Testing
-Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
+Please refer to [TESTING.md](testing/TESTING.md) file for all testing carried out.
 
 ### Bugs
 

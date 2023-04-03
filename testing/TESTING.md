@@ -25,10 +25,10 @@ Automated testing was carried at a later stage using validators and all errors w
 ### W3C Validator 
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
-* [index.html]() - Passed.
-* [locations.html]() - Passed.
-* [contact-us.html]() - Passed.
-* [thank-you.html]() - Passed.
+* [index.html]() - Passed
+* [locations.html]() - Passed
+* [contact-us.html]() - Passed
+* [thank-you.html]() - Passed
 
 * [style.css]() - Passed
 
@@ -57,7 +57,7 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 ### Full Testing
 Full testing was performed on the following devices:
 * Destop:
-  * Custom Gaming computer with 2 screens set-up 24 inches.
+  * Custom Gaming computer with 2 screens set-up 24 inches
 * Laptop:
   * Macbook Pro 2023 14 inch screen
 * Mobile Devices:
