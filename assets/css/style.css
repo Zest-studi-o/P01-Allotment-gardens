@@ -31,7 +31,7 @@ body {
 /* navigation links */
 header {
     height: 80px;
-    background-color: #6d8a96;
+    background-color: #426473;
 }
 
 #menu {
@@ -75,7 +75,7 @@ header {
 #hero-image {
     height: 650px;
     width: 100%;
-    background: url("../images/woman-in-blue-2600x1000.png") no-repeat center center;
+    background: url("../images/woman-in-blue-2600x1000.webp") no-repeat center center;
     background-size: cover;
     line-height: 0px;
     /* removes the white gap */
@@ -227,7 +227,7 @@ iframe {
 
 /* Form */
 .form-section {
-    background: url("../images/top-view-veggies-with-eggplant.jpg") no-repeat center center;
+    background: url("../images/top-view-veggies-with-eggplant.webp") no-repeat center center;
     background-size: cover;
     background-position: center;
 
@@ -340,14 +340,11 @@ label {
     padding-bottom: 10.5rem;
     /* kept Footer height */
 
-    /* min-height: 100vh;*/
-
 }
 
 footer {
-    background-color: #6d8a96;
+    background-color: #426473;
     left: 0;
-    /* bottom: 0;*/
     width: 100%;
     /*Deleted Footer height */
     position: absolute;
@@ -512,7 +509,7 @@ footer {
     }
 
     #hero-image {
-        background: url("../images/woman-in-blue-800x700px.png") no-repeat center center;
+        background: url("../images/woman-in-blue-800x700px.webp") no-repeat center center;
         height: 800px;
         /*add same image height so it will be centered*/
         background-size: cover;
@@ -548,7 +545,7 @@ footer {
 /*medium-small screen*/
 @media screen and (max-width: 745px) {
     #hero-image {
-        background: url("../images/woman-in-blue-900x1400.png") no-repeat center center;
+        background: url("../images/woman-in-blue-900x1400.webp") no-repeat center center;
         height: 800px;
         background-size: cover;
     }

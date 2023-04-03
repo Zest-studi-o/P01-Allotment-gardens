@@ -308,6 +308,7 @@ Document known bugs and explain why they were not fixed.
 * [Bullet points using font awsome](https://hollypryce.com/font-awesome-bullet-points/)
 * [Stackoverflow - Font awsome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 * [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
+https://www.birme.net/?auto_height=true&image_format=webp
 
 
 ### Acknowledgments
