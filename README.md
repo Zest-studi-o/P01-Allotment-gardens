@@ -72,7 +72,7 @@ The websites purpose is to highlight the avilability of the service, where the a
 #### User Goals
 
 * As a user I want to have the site displayed clearly in different devices.
-* As a user I want to find information on what is City Gardens and how to participate
+* As a user I want to find information on what is City Gardens and how to participate.
 * As a user I want to show exactly where the gardens are located.
 * As a user I want to be able to contact City Gardens with any queries or suggestions.
 
@@ -86,12 +86,12 @@ The websites purpose is to highlight the avilability of the service, where the a
 
 #### Returning Visitor Goals
 
-* As a returning visitor I want to find out about the events for members and where are the local markets that sell our produce.
-* As a returning visitor I want to be able to easily contact the book club with questions I might have.
+* As a returning visitor I want to find images and videos of the allotments.
+* As a returning visitor I want to be able to easily contact City Gardens with further questions I might have.
 
 #### Frequent Visitor Goals
 
-* As a frequent visitor I want to see the latest news from City Gardens.
+* As a frequent visitor I want to see images of the people that participate in City Gardens.
 
 - - -
 ## Design
@@ -106,6 +106,7 @@ Some other alternatives and shades based on the selected palette were:
 [Tomato vine palette](docs/palette-tomato-vine.png)
 [Violet field palette](docs/palette-violet-field.png)
 
+The final colour palette was slighly altered after testing validator suggestions of improving the contrast and changed the header and footer for a slighly darker hue colour.
 
 There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
 
@@ -163,8 +164,8 @@ Add extra pages such a galery page.
 
 ### Accessibility
 It is important to have a website that is accessibility friendly, this objective was achivieved by:
-* Accesibility 1 (eg. using alt atributes) 
-* Accesibility 2 (eg. information for screen readers) 
+* Ensuring that images have an alt atribute 
+* Using aria labels
 
 - - -
 
@@ -230,7 +231,7 @@ To clone the P01-Allotment-gardens repository:
 - - -
 
 ## Testing
-Please refer to [TESTING.md](testing/TESTING.md) file for all testing carried out.
+Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 
 ### Bugs
 

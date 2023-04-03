@@ -41,8 +41,10 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+This test was run torough different devices which returned different results.
 
 ### Desktop Results
+
 ### Mobile Results
 
 - - -
