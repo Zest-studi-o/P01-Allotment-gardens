@@ -369,6 +369,10 @@ footer {
     padding: 2px 16px;
 }
 
+.container iframe {
+    width: 100%;
+}
+
 
 /* Float columns side by side */
 .column {
