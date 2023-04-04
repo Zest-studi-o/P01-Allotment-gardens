@@ -57,12 +57,13 @@ header {
     color: #fbfbfa;
 }
 
+
 #menu a:hover,
 .active {
-    /* active not working, check later*/
-    color: #c2e812;
+    color: #c2e812 !important;
     border-bottom: 1px solid #c2e812;
 }
+
 
 /* hero image */
 #hero-outer {
@@ -705,6 +706,9 @@ footer {
         height: 656px;
     }
 
+    .container a {
+        font-size: 70%;
+    }
 
 
 }
