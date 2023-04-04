@@ -549,9 +549,12 @@ footer {
         display: block;
     }
 
-}
+    #cover-text {
+        right: 5%;
+        top: 5%;
+    }
 
-@media screen and (max-width: 830px) {}
+}
 
 /*medium-small screen ipad mini*/
 @media screen and (max-width: 768px) {
@@ -560,15 +563,13 @@ footer {
         padding: 12em 2rem;
     }
 
-    /* #grid-box {
-        display: block;
-
-
-            #grid-box {
-        grid-template-columns: 1fr;
+    #cover-text {
+        top: 70%;
+        right: 0%;
+        left: 0%;
+        width: 100%;
+        padding: 0;
     }
-    }*/
-
 
 }
 
@@ -587,6 +588,8 @@ footer {
     .thank-you-content {
         padding: 4rem 2rem;
     }
+
+
 }
 
 /*small screen */
@@ -635,14 +638,6 @@ footer {
         margin: 1em;
     }
 
-    #cover-text {
-        bottom: 1.5rem;
-        left: 5rem;
-        right: 0rem;
-        width: 200px;
-        padding: 1em;
-    }
-
     #videos h2 {
         font-size: 120%;
     }
@@ -687,4 +682,29 @@ footer {
     #logo {
         font-size: 180%;
     }
+
+    #locations-intro h2 {
+        font-size: 120%;
+    }
+
+    #locations-intro p,
+    .about-us {
+        font-size: 80%;
+    }
+
+    .about-us {
+        padding: 5em 3em;
+    }
+
+    #cover-text {
+        top: 67%;
+    }
+
+    #hero-image {
+        background: url("../images/woman-in-blue-280x656px.png") no-repeat center center;
+        height: 656px;
+    }
+
+
+
 }
