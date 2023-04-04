@@ -480,6 +480,10 @@ footer {
         padding-top: 6.5rem;
         /*spacing inbetween videos*/
     }
+
+    #grid-box {
+        grid-template-columns: 1fr 1fr;
+    }
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
@@ -488,6 +492,8 @@ footer {
         padding: 40px 70px;
         margin: 0;
     }
+
+
 }
 
 /*For medium screens size from 1085px wide and down (checked reducing the screen with the developer tools), for white gap in the footer*/
@@ -535,15 +541,17 @@ footer {
         height: 1120px;
     }
 
-    #grid-box {
-        grid-template-columns: 1fr 1fr;
-    }
-
     .thank-you-content {
         padding: 22rem 2rem;
     }
 
+    #grid-box {
+        display: block;
+    }
+
 }
+
+@media screen and (max-width: 830px) {}
 
 /*medium-small screen ipad mini*/
 @media screen and (max-width: 768px) {
@@ -553,8 +561,15 @@ footer {
     }
 
     /* #grid-box {
+        display: block;
+
+
+            #grid-box {
         grid-template-columns: 1fr;
+    }
     }*/
+
+
 }
 
 /*medium-small screen*/
@@ -614,10 +629,6 @@ footer {
 
     h2 {
         font-size: 170%;
-    }
-
-    #grid-box {
-        display: block;
     }
 
     .card {
