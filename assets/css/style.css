@@ -283,6 +283,14 @@ label {
     box-shadow: 5px 10px #0d4139;
 }
 
+#radio-buttons {
+    padding-top: 1em;
+}
+
+#radio-buttons input {
+    margin: 0em 1.5em 1em 0em;
+}
+
 .send-button:hover {
     background-color: #fafafa;
     color: #0d4139;
@@ -537,11 +545,6 @@ footer {
         width: 100%;
         margin: 15%
     }
-
-    /*.form-section {
-        height: 1120px;
-    }*/
-
 
     .thank-you-content {
         padding: 22rem 2rem;
