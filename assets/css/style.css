@@ -538,9 +538,10 @@ footer {
         margin: 15%
     }
 
-    .form-section {
+    /*.form-section {
         height: 1120px;
-    }
+    }*/
+
 
     .thank-you-content {
         padding: 22rem 2rem;
@@ -684,12 +685,14 @@ footer {
         font-size: 180%;
     }
 
-    #locations-intro h2 {
+    #locations-intro h2,
+    .form-section h2 {
         font-size: 120%;
     }
 
     #locations-intro p,
-    .about-us {
+    .about-us,
+    .form-section label {
         font-size: 80%;
     }
 
