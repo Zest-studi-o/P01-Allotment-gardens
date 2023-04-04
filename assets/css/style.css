@@ -371,6 +371,7 @@ footer {
 
 .container iframe {
     width: 100%;
+    padding-top: 3em;
 }
 
 
@@ -545,6 +546,10 @@ footer {
     .thank-you-content {
         padding: 12em 2rem;
     }
+
+    /* #grid-box {
+        grid-template-columns: 1fr;
+    }*/
 }
 
 /*medium-small screen*/
@@ -638,9 +643,22 @@ footer {
         padding-top: 3.2em;
     }
 
-
     .thank-you-content {
         padding: 5rem 2rem;
+    }
+
+    .container h3 {
+        font-size: 120%;
+    }
+
+    .container a {
+        font-size: 80%;
+    }
+
+    .container iframe {
+        width: 100%;
+        padding-top: 1em;
+        height: 50%;
     }
 }
 
