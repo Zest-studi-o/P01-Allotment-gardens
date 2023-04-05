@@ -613,6 +613,10 @@ footer {
     right: 5%;
     top: 5%;
   }
+
+  .radio-block {
+    display: block;
+  }
 }
 
 /*medium-small screen ipad mini*/
@@ -742,10 +746,6 @@ footer {
 
   #radio-buttons input {
     margin: 0.3em;
-  }
-
-  .radio-block {
-    display: block;
   }
 }
 
