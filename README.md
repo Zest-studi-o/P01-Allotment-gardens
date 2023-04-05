@@ -199,6 +199,8 @@ Font Awesome - To add icons to the website.
 
 [Tiny PNG](https://tinypng.com/) To quickly compress imagery.
 
+[Convertio]https://convertio.co/ To convert to webp format.
+
 [Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize, crop to size and web optimise imagery.
 
 - - -
@@ -319,6 +321,7 @@ Document known bugs and explain why they were not fixed.
 * [Stackoverflow - Font awsome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 * [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
 https://www.birme.net/?auto_height=true&image_format=webp
+* [Grid Gallery - Free code camp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 
 ### Acknowledgments
