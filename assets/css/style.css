@@ -292,6 +292,7 @@ label {
     margin: 0em 1.5em 1em 0em;
 }
 
+
 .send-button:hover {
     background-color: #fafafa;
     color: #0d4139;
@@ -369,7 +370,7 @@ footer {
 .container a {
     text-decoration: none;
     color: inherit;
-    /* deltes colour from the hyperlinks */
+    /* deletes colour from the hyperlinks */
 }
 
 .card:hover {
@@ -752,6 +753,10 @@ footer {
 
     #radio-buttons input {
         margin: 0.3em;
+    }
+
+    .radio-block {
+        display: block;
     }
 }
 
