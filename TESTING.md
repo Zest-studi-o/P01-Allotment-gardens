@@ -84,11 +84,11 @@ For this project I focused on achieving 100% in accesibility as instructed. This
 Full testing was performed on the following devices:
 
 - Destop:
-  - Custom Gaming computer with 2 screens set-up 24 inches
+  - Custom Gaming computer with 2 screens set-up 24 inches and Windows OS
 - Laptop:
   - Macbook Pro 2023 14 inch screen
 - Mobile Devices:
-  - iPhone 13 pro.
+  - Samsung Galaxy
 
 Each device tested the site using the following browsers:
 
