@@ -28,7 +28,7 @@ Automated testing was carried at a later stage using validators and all errors w
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
 
-- [index.html]() - Passed
+- ![index.html](testing/html-validator-home.png) - Passed
 - [locations.html]() - Passed
 - [contact-us.html]() - Passed
 - [thank-you.html]() - Passed
