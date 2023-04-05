@@ -48,11 +48,11 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 This test was run thorough different devices which returned different results.
 For this project I focused on achieving 100% in accesibility as instructed. This is achieved in all pages.
 
+### Desktop Results
+
 ![Home Page](testing/Lighthouse-home.png)
 ![Locations Page](testing/Lighthouse-locations.png)
 ![Contact Page](testing/Lighthouse-contact.png)
-
-### Desktop Results
 
 ### Mobile Results
 
