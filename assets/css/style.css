@@ -600,7 +600,8 @@ footer {
 /*small screen */
 @media screen and (max-width: 415px) {
     header {
-        height: 190px;
+        /* height: 190px; remove this after adding another page*/
+        height: 15em;
         padding: 0em 0em 1em 0.7em;
     }
 
