@@ -62,6 +62,7 @@ header {
 .active {
     color: #c2e812 !important;
     border-bottom: 1px solid #c2e812;
+    text-shadow: 2px 2px 4px #0d4139;
 }
 
 
