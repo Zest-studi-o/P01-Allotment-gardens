@@ -1434,7 +1434,7 @@ footer {
   #hero-image {
     background: url("../images/woman-in-blue-900x1400.webp") no-repeat center
       center;
-    height: 800px;
+    height: 1100px;
     background-size: cover;
   }
 
@@ -1454,7 +1454,7 @@ footer {
 }
 
 /*small screen */
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 533px) {
   header {
     /* height: 190px; remove this after adding another page*/
     height: 15em;
@@ -1480,7 +1480,7 @@ footer {
   }
 
   #hero-image {
-    height: 600px;
+    height: 800px;
   }
 
   .text-input {
@@ -1540,6 +1540,21 @@ footer {
   }
 }
 
+@media screen and (max-width: 296px) {
+  header {
+    height: 15em;
+  }
+
+  #menu {
+    font-size: 90%;
+  }
+
+  #logo {
+    line-height: 2.5rem;
+    font-size: 160%;
+  }
+}
+
 @media screen and (max-width: 280px) {
   #menu {
     font-size: 90%;
@@ -1581,7 +1596,7 @@ footer {
 
 @media screen and (max-width: 210px) {
   header {
-    height: 20em;
+    height: 17em;
   }
 
   #menu {
