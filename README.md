@@ -286,12 +286,10 @@ Document known bugs and explain why they were not fixed.
 * [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
 * [Pexels - July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
 * [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
+* [Allotment garden](https://pixabay.com/photos/allotment-garden-garden-flower-beds-1059/)
+* [Organic Aubergines](https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais)
 
-* [A Complete Guide to CSS Grid](https://pixabay.com/photos/allotment-garden-garden-flower-beds-1059/)
 
-https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais
-
-https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ### Reference material. Tutorials & articles
 * [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
@@ -328,6 +326,7 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 * [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
 https://www.birme.net/?auto_height=true&image_format=webp
 * [Grid Gallery - Free code camp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+* [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 ### Acknowledgments
