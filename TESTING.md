@@ -25,15 +25,15 @@ Automated testing was carried at a later stage using validators and all errors w
 
 ### W3C Validator
 
-HTML - No errors were returned when passing through the official W3C validator.
+HTML - No errors were returned when passing through the official W3C validator on the deployed site. All tests passed.
 [W3C Validator](https://validator.w3.org/)
 
-- ![index.html](testing/html-validator-home.png) - Passed
-- [locations.html]() - Passed
-- [contact-us.html]() - Passed
-- [thank-you.html]() - Passed
+![index.html](testing/html-validator-home.png) 
+![locations.html]() 
+![contact-us.html]()
+![thank-you.html]() 
 
-- [style.css]() - Passed
+! [style.css]() 
 
 ### Jigsaw Validator
 
