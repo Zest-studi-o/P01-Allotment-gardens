@@ -1,53 +1,62 @@
-# City Gardens -  Testing
+# City Gardens - Testing
 
 ![City Gardens shown on a variety of screen sizes](docs/city-gardens-mockup-test.png)
 
 Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Allotment-gardens/)
-- - -
+
+---
 
 ## CONTENTS
 
-* [AUTOMATED TESTING](#AUTOMATED-TESTING)
-  * [W3C Validator](#W3C-Validator)
-  * [Lighthouse](#Lighthouse)
-* [MANUAL TESTING](#MANUAL-TESTING)
-  * [Testing User Stories](#Testing-User-Stories)
-  * [Full Testing](#Full-Testing)
+- [AUTOMATED TESTING](#AUTOMATED-TESTING)
+  - [W3C Validator](#W3C-Validator)
+  - [Lighthouse](#Lighthouse)
+- [MANUAL TESTING](#MANUAL-TESTING)
+  - [Testing User Stories](#Testing-User-Stories)
+  - [Full Testing](#Full-Testing)
 
 Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and place in a table to tackle.
 At the same time of building each page those were tested in different screen sizes using the developer tools to better adjust the design and make sure the website is responsive in all screensizes.
 Automated testing was carried at a later stage using validators and all errors were fixed.
 
-- - -
+---
 
 ## AUTOMATED TESTING
 
-### W3C Validator 
+### W3C Validator
+
 HTML - No errors were returned when passing through the official W3C validator.
 [W3C Validator](https://validator.w3.org/)
-* [index.html]() - Passed
-* [locations.html]() - Passed
-* [contact-us.html]() - Passed
-* [thank-you.html]() - Passed
 
-* [style.css]() - Passed
+- [index.html]() - Passed
+- [locations.html]() - Passed
+- [contact-us.html]() - Passed
+- [thank-you.html]() - Passed
+
+- [style.css]() - Passed
 
 ### Jigsaw Validator
+
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
-- - -
+---
 
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 This test was run thorough different devices which returned different results.
+For this project I focused on achieving 100% in accesibility as instructed. This is achieved in all pages.
+
+![Home Page](testing/Lighthouse-home.png)
+![Locations Page](testing/Lighthouse-locations.png)
+![Contact Page](testing/Lighthouse-contact.png)
 
 ### Desktop Results
 
 ### Mobile Results
 
-- - -
+---
 
 ## MANUAL TESTING
 
@@ -71,19 +80,21 @@ This test was run thorough different devices which returned different results.
 | As a frequent visitor I want to see images of the people that participate in City Gardens| abc |
 
 ### Full Testing
+
 Full testing was performed on the following devices:
-* Destop:
-  * Custom Gaming computer with 2 screens set-up 24 inches
-* Laptop:
-  * Macbook Pro 2023 14 inch screen
-* Mobile Devices:
-  * iPhone 13 pro.
- 
+
+- Destop:
+  - Custom Gaming computer with 2 screens set-up 24 inches
+- Laptop:
+  - Macbook Pro 2023 14 inch screen
+- Mobile Devices:
+  - iPhone 13 pro.
+
 Each device tested the site using the following browsers:
 
-* Google Chrome
-* Safari
-* Firefox
+- Google Chrome
+- Safari
+- Firefox
 
 ## Test Cases
 
@@ -101,14 +112,12 @@ Each device tested the site using the following browsers:
 | Imaages of the locations | abc | abc | abc | Pass |
 | Map and address | abc | abc | abc | Pass |
 
-
 `Contact us page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
- --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 | Form | abc | abc | abc | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
- --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 | Mesage to the user | abc | abc | abc | Pass |
-
