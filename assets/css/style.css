@@ -645,6 +645,7 @@ footer {
 
     #videos h2 {
         font-size: 120%;
+        text-transform: uppercase;
     }
 
     #videos p {
@@ -675,6 +676,10 @@ footer {
         width: 100%;
         padding-top: 1em;
         height: 50%;
+    }
+
+    #radio-buttons input {
+        margin: 0.3em;
     }
 }
 
