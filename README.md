@@ -160,8 +160,12 @@ This website has three pages that can be accessed from the navigation menu (home
 - Locations page.
   - Cards with images of the locations.
   - Information with address and contact details and link to a map.
-- Contact us page.
 
+- Gallery.
+  - Image gallery.
+    This section has a gallery of images from participants and the allotments themselves.
+
+- Contact us page.
   - Form.
     This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
@@ -170,7 +174,7 @@ This website has three pages that can be accessed from the navigation menu (home
 
 ### Features Left to Implement
 
-Add extra pages such a galery page.
+Add some animations.
 
 ### Accessibility
 
@@ -180,7 +184,8 @@ It is important to have a website that is accessibility friendly, this objective
 - Using aria labels.
 - Using semantic html.
 - Making sure that background and foreground colours have high contracts, after an error returned in the nav bar by the lighthouse validator the darkness background colour was inscreased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
-- Using a sans serif font recommended for web which are easy to read
+- Using a sans serif font recommended for web which are easy to read.
+- Adding titles to iframes.
 
 ---
 
