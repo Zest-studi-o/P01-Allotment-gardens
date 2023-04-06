@@ -175,6 +175,20 @@ p {
     margin-bottom: 10px;
 }
 
+.info,
+#text {
+    padding-top: 1em;
+}
+
+#text {
+    line-height: 1.5em;
+}
+
+#text a {
+    color: inherit;
+}
+
+
 .highlight-green {
     position: relative;
 }
@@ -360,10 +374,11 @@ footer {
     text-align: center;
 }
 
-.container a {
-    text-decoration: none;
-    color: inherit;
-    /* deletes colour from the hyperlinks */
+.container a,
+{
+text-decoration: none;
+color: inherit;
+/* deletes colour from the hyperlinks */
 }
 
 .card:hover {
