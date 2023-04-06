@@ -555,13 +555,16 @@ footer {
         left: 0;
         width: 100%;
         height: 100%;
-        border-radius: 0%;
         padding-top: 6.5rem;
         /*spacing inbetween videos*/
     }
 
     #grid-box {
         grid-template-columns: 1fr 1fr;
+    }
+
+    #videos  {
+        border-radius: 10px !important; 
     }
 }
 
@@ -1340,13 +1343,17 @@ footer {
         left: 0;
         width: 100%;
         height: 100%;
-        border-radius: 0%;
         padding-top: 6.5rem;
         /*spacing inbetween videos*/
     }
 
     #grid-box {
         grid-template-columns: 1fr 1fr;
+    }
+
+    #videos {
+        padding: 2em;  /*spacing arround the videos themselves*/
+       
     }
 }
 
@@ -1363,6 +1370,20 @@ footer {
     footer {
         padding-bottom: 4rem;
     }
+
+    .gallery-container {
+        width: 80%;
+        margin: 1rem auto;
+    }
+    
+    .gallery {
+        display: block;
+    }
+
+    .gallery__img {
+     padding: 1em;
+    }
+   
 }
 
 /* For medium screen sizes from 950px wide and down*/
