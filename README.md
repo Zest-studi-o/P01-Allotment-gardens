@@ -270,7 +270,7 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 
 ### known Bugs
 
-Document known bugs and explain why they were not fixed.
+There are no remaining known bugs, all of them have been fixed.
 
 ---
 

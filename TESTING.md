@@ -33,12 +33,12 @@ HTML - No errors were returned when passing through the official W3C validator o
 ![contact-us.html]()
 ![thank-you.html]() 
 
-! [style.css]() 
-
 ### Jigsaw Validator
 
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
+
+![style.css](testing/CSS-Jigsaw-validator.png) 
 
 ---
 
