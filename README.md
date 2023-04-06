@@ -4,7 +4,7 @@ City Gardens is a website designed to connect potential and active users of the 
 
 Add an image of the finished site here [amiresponsive](https://ui.dev/amiresponsive) on all device sizes. Test: (update with finihed site)
 
-![City Gardens](docs/city-gardens-mockup-test.png)
+![City Gardens](docs/mockup-white.png)
 
 Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 

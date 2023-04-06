@@ -1,6 +1,6 @@
 # City Gardens - Testing
 
-![City Gardens shown on a variety of screen sizes](docs/city-gardens-mockup-test.png)
+![City Gardens shown on a variety of screen sizes](docs/mockup-white.png)
 
 Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Allotment-gardens/)
 
