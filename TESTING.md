@@ -63,21 +63,21 @@ For this project I focused on achieving 100% in accesibility as instructed. This
 `First Time Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a user I want to have the site displayed clearly in different devices | abc |
-| As a user I want to find information on what is City Gardens and how to participate | abc |
-| As a user I want to show exactly where the gardens are located | abc |
-| As a user I want to be able to contact City Gardens with any queries or suggestions | abc |
+| As a user I want to have the site displayed clearly in different devices | I have developed this site to be fully responsive in all device sizes |
+| As a user I want to find information on what is City Gardens and how to participate | The information is clearly displayed in the home page and a link to the contact form is provided to easy access to more information |
+| As a user I want to show exactly where the gardens are located | I have created a locations page in which the allotmets are shown with their name and image, contact email and a google map so the users can easly locate them |
+| As a user I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email adresses for the different allotments displayed in a clear manner and linked  |
 
 `Returning Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a returning visitor I want to find images and videos of the allotments | abc |
-| As a returning visitor I want to be able to easily contact City Gardens with further questions I might have | abc |
+| As a returning visitor I want to find images and videos of the allotments | In the home page there are different videos with users explaining about their experiences |
+| As a returning visitor I want to be able to easily contact City Gardens with further questions I might have | The users can find a contact form page where they can ask questions or suggest improvements |
 
 `Frequent Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a frequent visitor I want to see images of the people that participate in City Gardens| abc |
+| As a frequent visitor I want to see images of the people that participate in City Gardens| The user can see imagery in all pages, there is also a dedicated gallery page that showcases images from participants and the allotments |
 
 ### Full Testing
 
@@ -109,7 +109,7 @@ Each device tested the site using the following browsers:
 `Locations page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Imaages of the locations | abc | abc | abc | Pass |
+| Images of the locations | abc | abc | abc | Pass |
 | Map and address | abc | abc | abc | Pass |
 
 `Contact us page`
