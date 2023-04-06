@@ -97,27 +97,35 @@ Each device tested the site using the following browsers:
 - Firefox
 
 ## Test Cases
+`All pages`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Nav bar | Clicking any of the links directs the user to the relevant page | Clicked all pages in nav menu | Directs the user to the relevant page | Pass |
+| The Sites title | Clicking on the logo link directs the user back to the home page | Clicked title | Home page reloads | Pass |
+| Footer | Clicking any of the social media links directs the user to the relevant social media page | Clicked all social media icons in the footer | Directs the user to the relevant social media page | Pass |
 
 `Home page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| The Sites title | Clicking on the logo link directs the user back to the home page | Clicked title | Home page reloads | Pass |
-| Hero section | abc | abc | abc | Pass |
-| About us section | abc | abc | abc | Pass |
-| Video section | abc | abc | abc | Pass |
+| Hero section | Image and banner fully responsive | Resized to diferent screen sizes using dev tools plus different devices and the image and banner adjust | Fully responsive | Pass |
+| About us section | Click on contact form directs the user to contact page where the form is located | Clicked link | The user gets redirected to contact page | Pass |
+| Video section | When clicking a video the user is directed to youtube and the video plays  | Clicked all videos | User directed to youtube and video play | Pass |
 
 `Locations page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Images of the locations | abc | abc | abc | Pass |
-| Map and address | abc | abc | abc | Pass |
+| Images of the locations | Images and map are fully responsive taking 3 columns for larger screens, 2 columns for medium screens and 1 column for small screens | Resized to diferent screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
+| Map and address | Clicking the map link directs the user to google maps exact location | Clicked link | The user gets redirected to the location in google maps | Pass |
 
 `Contact us page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
-| Form | abc | abc | abc | Pass |
+| Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
+| Email validation | Entering incorrect details ask the user to enter the appropiate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
+| Phone validation | Entering incorrect details ask the user to enter the appropiate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct phone number | Pass |
+| Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the stablished and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
-| Mesage to the user | abc | abc | abc | Pass |
+| Mesage to the user | After hiting submit in the contact form the user gets prompted with the thank you page message, the user has the appropiate time to read it and then it isredirected to the home page | Submited the form correctly | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
