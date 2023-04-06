@@ -101,7 +101,7 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                     <h2><span class="highlight-green">My fruit & veg</span></h2>
-                    <hr />
+                    <hr>
                     <p>A visit to my allotment</p>
                 </div>
                 <div id="right-video-container">
@@ -110,7 +110,7 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                     <h2><span class="highlight-green">Allotment tour</span></h2>
-                    <hr />
+                    <hr>
                     <p>Relaxing walk day</p>
                 </div>
 
@@ -120,7 +120,7 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                         allowfullscreen></iframe>
                     <h2><span class="highlight-green">Harvest time</span></h2>
-                    <hr />
+                    <hr>
                     <p>My beautiful garden</p>
                 </div>
             </section>
@@ -161,8 +161,9 @@
     <svg version="1.1" class="svg-filters" style="display: none">
         <defs>
             <filter id="marker-shape">
-                <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp" />
-                <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp" />
+                <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp">
+                    <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic"
+                        in2="warp">
             </filter>
         </defs>
     </svg>
