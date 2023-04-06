@@ -29,7 +29,7 @@ HTML - No errors were returned when passing through the official W3C validator o
 [W3C Validator](https://validator.w3.org/)
 
 ![index.html](testing/html-validator-home.png) 
-![locations.html]() 
+![locations.html](testing/html-validator-locations.png) 
 ![contact-us.html]()
 ![thank-you.html]() 
 
