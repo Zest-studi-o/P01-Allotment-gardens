@@ -214,27 +214,45 @@ iframe {
     border-radius: 10px;
 }
 
-#videos {
+
+.flex-container-videos {
     text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /*the videos go to column automatically when decreasing screen size*/
 }
 
-#left-video-container {
-    padding: 30px 0px 20px 0px;
-    width: 33%;
-    float: left;
+.flex-videos {
+/*flex: 1;
+flex-basis: 33%;*/
+padding: 3em 0em;
+
 }
 
-#right-video-container {
-    padding: 30px 0px 20px 0px;
-    width: 33%;
-    float: right;
+/*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
+@media screen and (max-width: 1300px) {
+    
+.flex-video{
+    top: 0;
+    left: 0;
+    height: 100%;
+    justify-content: center;
 }
 
-#center-video-container {
-    padding: 30px 0px 20px 0px;
-    width: 33%;
-    margin: 0 auto;
+
+.flex-video iframe{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+padding-top: 6.5rem;
 }
+}
+
+
+
+
 
 /* Form */
 .form-section {
@@ -531,41 +549,13 @@ footer {
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
 
-    #left-video-container,
-    #right-video-container,
-    #center-video-container {
-        position: relative;
-        overflow: hidden;
-        width: 100%;
-    }
-
-    #left-video-container::after,
-    #right-video-container::after,
-    #center-video-container::after {
-        display: block;
-        content: "";
-        padding-top: 56.25%;
-    }
-
-    #left-video-container iframe,
-    #right-video-container iframe,
-    #center-video-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        padding-top: 6.5rem;
-        /*spacing inbetween videos*/
-    }
+    
 
     #grid-box {
         grid-template-columns: 1fr 1fr;
     }
 
-    #videos  {
-        border-radius: 10px !important; 
-    }
+   
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
