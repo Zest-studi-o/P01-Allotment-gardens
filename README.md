@@ -50,19 +50,19 @@ Add optional [shields.io](https://shields.io) badges to README.
 
 ### Initial Discussion
 
-City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particuraly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
+City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particularly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
 
 People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
-They is a small fee to be able to join and members need to optimally mantain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people recieve a free starter pack including a gardening and horticulture book to make the best use of the land.
+They is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
 
-The websites purpose is to highlight the avilability of the service, where the alotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The alotments are available for people of all ages and skillsets.
+The websites purpose is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The allotments are available for people of all ages and skill sets.
 
 #### Key information for the site
 
 - What is City Gardens and what does it offer.
 - What is currently going on in the community garden.
-- How to take part in the inititative and become a member.
+- How to take part in the initiative and become a member.
 - A way of contacting City Gardens and enquire or provide suggestions.
 - Where to find the locations for the allotment.
 
@@ -77,11 +77,11 @@ The websites purpose is to highlight the avilability of the service, where the a
 
 #### First Time Visitor Goals
 
-- As a fisrt time visitor I want to know what City Gardens is and how to participate.
-- As a fisrt time visitor I want to find the locations of the allotments.
-- As a fisrt time visitor I want to be able to find their contact details.
-- As a fisrt time visitor I want to navigate the site easily on all my devices.
-- As a fisrt time visitor I want to see the results of the produce with videos and photos.
+- As a first time visitor I want to know what City Gardens is and how to participate.
+- As a first time visitor I want to find the locations of the allotments.
+- As a first time visitor I want to be able to find their contact details.
+- As a first time visitor I want to navigate the site easily on all my devices.
+- As a first time visitor I want to see the results of the produce with videos and photos.
 
 #### Returning Visitor Goals
 
@@ -118,7 +118,7 @@ The fonts were taken from Google Fonts:
 
 - Monstserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web.
 
-- Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awsome and combined with this font.
+- Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awesome and combined with this font.
 
 ### Imagery
 
@@ -168,7 +168,7 @@ This website has three pages that can be accessed from the navigation menu (home
     This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
 - Thank you page.
-  - Once the form is succesfully submited the page thanks and redirects the user to the home page in 10s
+  - Once the form is successfully submitted the page thanks and redirects the user to the home page in 10s
 
 ### Features Left to Implement
 
@@ -176,12 +176,12 @@ Add some animations.
 
 ### Accessibility
 
-It is important to have a website that is accessibility friendly, this objective was achivieved by:
+It is important to have a website that is accessibility friendly, this objective was achieved by:
 
-- Ensuring that images have an alt atribute.
+- Ensuring that images have an alt attribute.
 - Using aria labels.
 - Using semantic html.
-- Making sure that background and foreground colours have high contracts, after an error returned in the nav bar by the lighthouse validator the darkness background colour was inscreased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
+- Making sure that background and foreground colours have high contracts, after an error returned in the nav bar by the lighthouse validator the darkness background colour was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
 - Using a sans serif font recommended for web which are easy to read.
 - Adding titles to iframes.
 
@@ -203,7 +203,7 @@ Github - To save and store the files for the website.
 
 Gitpod - To write, edit and save code.
 
-Google Fonts - To import fonts for the wesite.
+Google Fonts - To import fonts for the website.
 
 Font Awesome - To add icons to the website.
 
@@ -259,18 +259,18 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 | ID  | CLASS | FEATURE          | DESCRIPTION                                                                          | STEPS TO REPRODUCE                                                                                                                                                           | ACTUAL RESULT                                                                                                                                  | EXPECTED RESULT                                                            | ACTION                                                                                                        | STATUS |
 | --- | ----- | ---------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------ |
 | 1   | A     | Footer           | Footer not aligning at the bottom                                                    | Go to the website > click on home> Observe the issue with the white space in the footer                                                                                      | Footer correctly positioned                                                                                                                    | Position absolute and work with padding bottom                             | Position absolute and work with padding bottom                                                                | FIXED  |
-| 2   | A     | Video section    | Text going to the back of the videos and being unreadable                            | The text is hidden behind the videos                                                                                                                                         | Go to the website> click on home> Reduce screensize to table or mobile version> Observe the issue with the text being hidden behind the videos | Videos and text correctly distributed and centered for all screen sizes    | Add pagging to the videos when they stack one on top of the other for medium and small screen sizes           | FIXED  |
+| 2   | A     | Video section    | Text going to the back of the videos and being unreadable                            | The text is hidden behind the videos                                                                                                                                         | Go to the website> click on home> Reduce screen size to table or mobile version> Observe the issue with the text being hidden behind the videos | Videos and text correctly distributed and centered for all screen sizes    | Add padding to the videos when they stack one on top of the other for medium and small screen sizes           | FIXED  |
 | 3   | A     | Video section    | Issue with media queries; the right video does not accept the style.                 | Go to the website > click on home> Scroll to the video section> Observe the issue with video right not being responsive                                                      | All videos fully responsive                                                                                                                    | Video on the right not responsive                                          | Fixed the typo on "right"                                                                                     | FIXED  |
 | 4   | A     | Nav bar          | Nav bar background not taking the grey background colour and floating on a white gap | The nav bar does not display correctly and some content is cropped or with a white gap in certain screen sizes                                                               | The nav bar does not display correctly and some content is cropped or with a white gap in certain screen sizes                                 | The nav bar displays correctly                                             | Fixed by adjusting specified heights, margin and padding on the header element                                | FIXED  |
 | 5   | A     | Hero image       | Issue with hero image not centered when reducing screen size                         | Go to the website > click on home> Open dev tools> Select a small screen eg. IPhone12 Pro> Observe the issue with the hero image alignment                                   | The hero image is not aligned                                                                                                                  | The hero image should be correctly aligned for all screen sizes            | Edit image size and add adjusted ones with media queries                                                      | FIXED  |
-| 6   | B     | Footer           | Footer after a long gap for small screens                                            | Go to the website > click on contact> Open dev tools> Select a small screen eg. IPhone12 Pro> Observe the issue with the gap not filled with content after the submit button | Some negative spacing after the submit button                                                                                                  | All the content is centered with no extra negative spacing at the bottom   | Delete especified height in one of the media queries                                                          | FIXED  |
-| 8   | C     | About us section | Misalignment of the bulleted list in about us section                                | Go to the website > click on home> Swap to different screen sizes with dev tools> Observe the issue with the bulleted list misalligned                                       | The list is not correctly aligned for certain screen sizes                                                                                     | The list is correctly aligned for all screen sizes                         | Worked with padding for the section and added font awsome for bullet points                                   | FIXED  |
-| 9   | C     | Locations        | Slight misalignment of the cards group in location page                              | Go to the website > click on locations in desktop view> Observe the issue with the alignment                                                                                 | The cards are not correctly aligned for destop screen sizes                                                                                    | The cards appear aligned and centered                                      | Use of the row css property                                                                                   | FIXED  |
+| 6   | B     | Footer           | Footer after a long gap for small screens                                            | Go to the website > click on contact> Open dev tools> Select a small screen eg. IPhone12 Pro> Observe the issue with the gap not filled with content after the submit button | Some negative spacing after the submit button                                                                                                  | All the content is centered with no extra negative spacing at the bottom   | Delete specified height in one of the media queries                                                          | FIXED  |
+| 8   | C     | About us section | Misalignment of the bulleted list in about us section                                | Go to the website > click on home> Swap to different screen sizes with dev tools> Observe the issue with the bulleted list misaligned                                       | The list is not correctly aligned for certain screen sizes                                                                                     | The list is correctly aligned for all screen sizes                         | Worked with padding for the section and added font awesome for bullet points                                   | FIXED  |
+| 9   | C     | Locations        | Slight misalignment of the cards group in location page                              | Go to the website > click on locations in desktop view> Observe the issue with the alignment                                                                                 | The cards are not correctly aligned for desktop screen sizes                                                                                    | The cards appear aligned and centered                                      | Use of the row css property                                                                                   | FIXED  |
 | 10  | A     | Locations        | Issue when reducing the screen to achieve 2 rows centered in locations tab           | Go to the website > click on locations> Open dev tools and select a tablet size> Observe the issue with one of the cards floating down and leaving a white space instead     | Three column cards for desktop, two column cards for tablet, one column card for phone                                                         | Use of the row css property                                                | Use of the row css property                                                                                   | FIXED  |
-| 11  | B     | Nav bar          | Active link on the nav menu not working                                              | Go to the website > click on any page eg. home> Observe the issue with the active style not taking effect                                                                    | The active page is not highlighted                                                                                                             | The active page is higlighted to indicate the user what page are they on   | Added !important tab to the css                                                                               | FIXED  |
-| 12  | A     | Nav bar          | Wrong order of the listed items when seeing the page in small screens                | Go to the webise> Click on dev tools and select a small mobile screen size> Observe the issue with the listed items in the nav bar being in the wrong order                  | The nav bar displays the items in a not user friendly manner contact, locations, home                                                          | The nav bar will display home, locations and contact                       | Change order in html of the elements, then float left menu li and float right menu for larger screens         | FIXED  |
+| 11  | B     | Nav bar          | Active link on the nav menu not working                                              | Go to the website > click on any page eg. home> Observe the issue with the active style not taking effect                                                                    | The active page is not highlighted                                                                                                             | The active page is highlighted to indicate the user what page are they on   | Added !important tab to the css                                                                               | FIXED  |
+| 12  | A     | Nav bar          | Wrong order of the listed items when seeing the page in small screens                | Go to the website> Click on dev tools and select a small mobile screen size> Observe the issue with the listed items in the nav bar being in the wrong order                  | The nav bar displays the items in a not user friendly manner contact, locations, home                                                          | The nav bar will display home, locations and contact                       | Change order in html of the elements, then float left menu li and float right menu for larger screens         | FIXED  |
 | 13  | A     | Form             | Some of the radio buttons float to the next line if the screen size it is small      | Go to the website> click on the form page> open dev tools> select a small screen e.g. Pixel 5> Observe the issue with the radio button input not being beside its label      | The radio button input and its label it is not aligned in small screens                                                                        | Ensure that radio button labels and input are aligned for all screen sizes | Add a span to the label and radio button, assign a class and then apply display block for small screens to it | FIXED  |
-| 14  | A     | Video             | The rounded border radius is not taking effect after the media query is applied      | Go to the website> click on the form page> open dev tools> select a small screen e.g. Pixel 5> Observe the issue with the videos lacking the border radius style applied      | The border radius is not applied and the videos have an akward positioning when looking at them with the dev tools                                                                        | Ensure that the videos and positioning is correct for all screen sizes | Swap the floats for the flex-box model as they were causing issues with styles displaying and positioning. | FIXED  |
+| 14  | A     | Video             | The rounded border radius is not taking effect after the media query is applied      | Go to the website> click on the form page> open dev tools> select a small screen e.g. Pixel 5> Observe the issue with the videos lacking the border radius style applied      | The border radius is not applied and the videos have an awkward positioning when looking at them with the dev tools                                                                        | Ensure that the videos and positioning is correct for all screen sizes | Swap the floats for the flex-box model as they were causing issues with styles displaying and positioning. | FIXED  |
 
 ### known Bugs
 
@@ -329,12 +329,12 @@ There are no remaining known bugs, all of them have been fixed.
 - [Flexbox](https://flexbox.malven.co/)
 - [Grids](https://grid.malven.co/)
 - [Get started with grid WITHOUT being overwhelmed](https://www.youtube.com/watch?v=8QSqwbSztnA&t=1s&ab_channel=KevinPowell)
-- [How to hightligh text in CSS](https://alvarotrigo.com/blog/css-highlight-text/)
+- [How to highlight text in CSS](https://alvarotrigo.com/blog/css-highlight-text/)
 - [Highlight Text CSS: 7 Cool CSS Highlight Text Effects](https://www.coding-dude.com/wp/css/highlight-text-css/)
 - [How to Add Phone Number Validation in HTML: The Essential Guide](https://www.youtube.com/watch?v=fb4QcrpQKUM)
 - [Regex: Validate an Irish mobile phone number](https://stackoverflow.com/questions/33061964/validate-an-irish-mobile-phone-number)
-- [Bullet points using font awsome](https://hollypryce.com/font-awesome-bullet-points/)
-- [Stackoverflow - Font awsome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
+- [Bullet points using font awesome](https://hollypryce.com/font-awesome-bullet-points/)
+- [Stackoverflow - Font awesome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 - [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
   https://www.birme.net/?auto_height=true&image_format=webp
 - [Grid Gallery - Free code camp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
@@ -347,4 +347,4 @@ There are no remaining known bugs, all of them have been fixed.
 - Tutor support at Code Institute.
 - Alan, course facilitator, for the advice.
 - Jarek Bonk, cohort colleague, for his help with the grid when I ran out of tutor hours.
-- Paul Treggiden, project-millestone-1 slack member, for his help with fixing bug 12.
+- Paul Treggiden, project-milestone-1 slack member, for his help with fixing bug 12.
