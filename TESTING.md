@@ -30,6 +30,7 @@ HTML - No errors were returned when passing through the official W3C validator o
 
 ![index.html](testing/html-validator-home.png) 
 ![locations.html](testing/html-validator-locations.png) 
+![gallery.html](testing/html-validator-gallery.png)
 ![contact-us.html]()
 ![thank-you.html]() 
 
