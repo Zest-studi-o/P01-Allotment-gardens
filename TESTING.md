@@ -31,7 +31,7 @@ HTML - No errors were returned when passing through the official W3C validator o
 ![index.html](testing/html-validator-home.png) 
 ![locations.html](testing/html-validator-locations.png) 
 ![gallery.html](testing/html-validator-gallery.png)
-![contact-us.html]()
+![contact-us.html](testing/html-validator-contact.png)
 ![thank-you.html](testing/html-validator-thank-you.png) 
 
 ### Jigsaw Validator
