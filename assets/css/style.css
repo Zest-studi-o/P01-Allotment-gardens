@@ -595,8 +595,18 @@ footer {
         top: 5%;
     }
 
-    .radio-block {
-        display: block;
+    .gallery-container {
+        width: 80%;
+        margin: 1rem auto;
+    }
+
+    .radio-block, 
+    .gallery {
+        display: block;   
+    }
+    
+    .gallery__item {
+    padding: 0.5em;
     }
 }
 
@@ -771,13 +781,6 @@ footer {
         }
 }
 
-
-
-/*    @media screen and (max-width: 533px)
-.enquiry-form {
-    margin: 0%;
-    background-color: rgb(47, 41, 50, 0.9);
-}*/
 
 
 
