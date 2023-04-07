@@ -270,6 +270,7 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 | 11  | B     | Nav bar          | Active link on the nav menu not working                                              | Go to the website > click on any page eg. home> Observe the issue with the active style not taking effect                                                                    | The active page is not highlighted                                                                                                             | The active page is higlighted to indicate the user what page are they on   | Added !important tab to the css                                                                               | FIXED  |
 | 12  | A     | Nav bar          | Wrong order of the listed items when seeing the page in small screens                | Go to the webise> Click on dev tools and select a small mobile screen size> Observe the issue with the listed items in the nav bar being in the wrong order                  | The nav bar displays the items in a not user friendly manner contact, locations, home                                                          | The nav bar will display home, locations and contact                       | Change order in html of the elements, then float left menu li and float right menu for larger screens         | FIXED  |
 | 13  | A     | Form             | Some of the radio buttons float to the next line if the screen size it is small      | Go to the website> click on the form page> open dev tools> select a small screen e.g. Pixel 5> Observe the issue with the radio button input not being beside its label      | The radio button input and its label it is not aligned in small screens                                                                        | Ensure that radio button labels and input are aligned for all screen sizes | Add a span to the label and radio button, assign a class and then apply display block for small screens to it | FIXED  |
+| 14  | A     | Video             | The rounded border radius is not taking effect after the media query is applied      | Go to the website> click on the form page> open dev tools> select a small screen e.g. Pixel 5> Observe the issue with the videos lacking the border radius style applied      | The border radius is not applied and the videos have an akward positioning when looking at them with the dev tools                                                                        | Ensure that the videos and positioning is correct for all screen sizes | Swap the floats for the flex-box model as they were causing issues with styles displaying and positioning. | FIXED  |
 
 ### known Bugs
 
@@ -313,7 +314,6 @@ There are no remaining known bugs, all of them have been fixed.
 - [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#)
 - [Stackoverflow: create table of contents](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
-- [Responsive iframe](https://techstacker.com/how-to-responsive-youtube-videos/)
 - [Correct embed url](https://total.wpexplorer.com/docs/get-embed-urllink-youtube-video/)
 - [Header image sizing guide](https://www.lauraleeflores.com/blog/header-image-sizing-guide)
 - [Ultimate Guide to Hero Images](https://blog.hubspot.com/marketing/hero-image#:~:text=The%20ideal%20size%20for%20a,size%20up%20to%201%2C800%20pixels.)
@@ -339,6 +339,7 @@ There are no remaining known bugs, all of them have been fixed.
   https://www.birme.net/?auto_height=true&image_format=webp
 - [Grid Gallery - Free code camp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Acknowledgments
 
