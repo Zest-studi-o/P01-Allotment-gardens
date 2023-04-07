@@ -211,6 +211,8 @@ Font Awesome - To add icons to the website.
 
 [Convertio](https://convertio.co/) To convert to webp format.
 
+[Birme]( https://www.birme.net/?auto_height=true&image_format=webp) To convert to webp format.
+
 [Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize, crop to size and web optimise imagery.
 
 ---
@@ -336,7 +338,6 @@ There are no remaining known bugs, all of them have been fixed.
 - [Bullet points using font awesome](https://hollypryce.com/font-awesome-bullet-points/)
 - [Stackoverflow - Font awesome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 - [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
-  https://www.birme.net/?auto_height=true&image_format=webp
 - [Grid Gallery - Free code camp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

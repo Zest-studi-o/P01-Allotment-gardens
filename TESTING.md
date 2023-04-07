@@ -17,7 +17,7 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
 
 Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and placed in a table to tackle.
 At the same time of building each page the site was tested in different screen sizes using the developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
-Automated testing was carried at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this a test case table was created to test the webiste using different devices and screen sizes.
+Automated testing was carried at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this a test case table was created to test the website using different devices and screen sizes.
 
 ---
 
@@ -47,7 +47,7 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 This test was run thorough different devices which returned different results.
-For this project I focused on achieving 100% in accesibility as instructed. This is achieved in all pages.
+For this project I focused on achieving 100% in accessibility as instructed. This is achieved in all pages.
 
 ### Desktop Results
 
@@ -66,8 +66,8 @@ For this project I focused on achieving 100% in accesibility as instructed. This
 | :--- | :--- |
 | As a user I want to have the site displayed clearly in different devices | I have developed this site to be fully responsive in all device sizes |
 | As a user I want to find information on what is City Gardens and how to participate | The information is clearly displayed in the home page and a link to the contact form is provided to easy access to more information |
-| As a user I want to show exactly where the gardens are located | I have created a locations page in which the allotmets are shown with their name and image, contact email and a google map so the users can easly locate them |
-| As a user I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email adresses for the different allotments displayed in a clear manner and linked  |
+| As a user I want to show exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a google map so the users can easily locate them |
+| As a user I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email addresses for the different allotments displayed in a clear manner and linked  |
 
 `Returning Visitors`
 | Goals | How are they achieved? |
@@ -84,7 +84,7 @@ For this project I focused on achieving 100% in accesibility as instructed. This
 
 Full testing was performed on the following devices:
 
-- Destop:
+- Desktop:
   - Custom Gaming computer with 2 screens set-up 24 inches and Windows OS
 - Laptop:
   - Macbook Pro 2023 14 inch screen
@@ -108,25 +108,25 @@ Each device tested the site using the following browsers:
 `Home page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Hero section | Image and banner fully responsive | Resized to diferent screen sizes using dev tools plus different devices and the image and banner adjust | Fully responsive | Pass |
+| Hero section | Image and banner fully responsive | Resized to different screen sizes using dev tools plus different devices and the image and banner adjust | Fully responsive | Pass |
 | About us section | Click on contact form directs the user to contact page where the form is located | Clicked link | The user gets redirected to contact page | Pass |
 | Video section | When clicking a video the user is directed to youtube and the video plays  | Clicked all videos | User directed to youtube and video play | Pass |
 
 `Locations page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Images of the locations | Images and map are fully responsive taking 3 columns for larger screens, 2 columns for medium screens and 1 column for small screens | Resized to diferent screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
+| Images of the locations | Images and map are fully responsive taking 3 columns for larger screens, 2 columns for medium screens and 1 column for small screens | Resized to different screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
 | Map and address | Clicking the map link directs the user to google maps exact location | Clicked link | The user gets redirected to the location in google maps | Pass |
 
 `Contact us page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
 | Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
-| Email validation | Entering incorrect details ask the user to enter the appropiate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
-| Phone validation | Entering incorrect details ask the user to enter the appropiate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct phone number | Pass |
+| Email validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
+| Phone validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct phone number | Pass |
 | Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the stablished and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
-| Mesage to the user | After hiting submit in the contact form the user gets prompted with the thank you page message, the user has the appropiate time to read it and then it isredirected to the home page | Submited the form correctly | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
+| Message to the user | After hitting submit in the contact form the user gets prompted with the thank you page message, the user has the appropriate time to read it and then it redirected to the home page | Submitted the form correctly | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
