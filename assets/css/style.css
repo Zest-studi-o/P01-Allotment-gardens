@@ -649,6 +649,13 @@ footer {
     }
 }
 
+@media screen and (max-width: 535px) {
+    #menu {
+        font-size: 90%;
+        letter-spacing: 2px;
+    }
+}
+
 /*small screen */
 @media screen and (max-width: 415px) {
     header {
