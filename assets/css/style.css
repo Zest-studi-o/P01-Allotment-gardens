@@ -656,8 +656,7 @@ footer {
     }
 }
 
-/*small screen */
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 450px) {
     header {
         /* height: 190px; remove this after adding another page*/
         height: 15em;
@@ -676,6 +675,13 @@ footer {
     #menu li {
         padding: 0.3em;
     }
+
+}
+
+/*small screen */
+@media screen and (max-width: 415px) {
+   
+
 
     .enquiry-form {
         margin: 0%;
@@ -746,7 +752,7 @@ footer {
         }
 }
 
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 295px) {
     #menu {
         font-size: 90%;
     }
@@ -775,8 +781,7 @@ footer {
     }
 
     #hero-image {
-        background: url("../images/woman-in-blue-280x656px.png") no-repeat center center;
-        height: 656px;
+        height: 610px;
     }
 
     .container a {
@@ -787,7 +792,46 @@ footer {
         width: 90%;
         height: 65%;
         }
+
+    #hero-image {
+    height: 610px;
+    width: 350px;
+        }
+        
 }
+
+
+@media screen and (max-width: 210px) {
+
+
+    #menu {
+        font-size: 70%;
+    }
+
+    #logo {
+        font-size: 160%;
+    }
+}
+
+
+@media screen and (max-width: 195px) {
+    
+    #menu {
+        font-size: 70%;
+    }
+
+    #logo {
+        font-size: 160%;
+    }
+
+    header {
+        height: 20em;
+        padding: 0em 0em 1em 0.7em;
+    }
+}
+
+
+
 
 
 
