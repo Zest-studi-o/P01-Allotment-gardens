@@ -550,13 +550,10 @@ footer {
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
 @media screen and (max-width: 1300px) {
 
-    
-
     #grid-box {
         grid-template-columns: 1fr 1fr;
     }
 
-   
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
@@ -604,6 +601,7 @@ footer {
     .enquiry-form {
         width: 100%;
         margin: 15%;
+        background-color: rgb(66, 100, 115, 0.9);
     }
 
     .thank-you-content {
@@ -793,8 +791,12 @@ footer {
         width: 90%;
         height: 65%;
         }
-
 }
+
+
+
+
+
 
 
 
