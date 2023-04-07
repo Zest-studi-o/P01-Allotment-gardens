@@ -51,14 +51,15 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 
 ### Desktop Results
 
-![Home Page](testing/Lighthouse-home-phone.png)
-![Locations Page](testing/Lighthouse-locations-phone.png)
-![Contact Page](testing/Lighthouse-contact-phone.png)
-
-### Mobile Results
 ![Home Page](testing/Lighthouse-home-desktop.png)
 ![Locations Page](testing/Lighthouse-locations-desktop.png)
 ![Contact Page](testing/Lighthouse-contact-desktop.png)
+
+### Mobile Results
+
+![Home Page](testing/Lighthouse-home-mobile.png)
+![Locations Page](testing/Lighthouse-locations-mobile.png)
+![Contact Page](testing/Lighthouse-contact-mobile.png)
 ---
 
 ## MANUAL TESTING
