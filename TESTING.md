@@ -51,12 +51,14 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 
 ### Desktop Results
 
-![Home Page](testing/Lighthouse-home.png)
-![Locations Page](testing/Lighthouse-locations.png)
-![Contact Page](testing/Lighthouse-contact.png)
+![Home Page](testing/Lighthouse-home-phone.png)
+![Locations Page](testing/Lighthouse-locations-phone.png)
+![Contact Page](testing/Lighthouse-contact-phone.png)
 
 ### Mobile Results
-
+![Home Page](testing/Lighthouse-home-desktop.png)
+![Locations Page](testing/Lighthouse-locations-desktop.png)
+![Contact Page](testing/Lighthouse-contact-desktop.png)
 ---
 
 ## MANUAL TESTING
@@ -124,7 +126,7 @@ Each device tested the site using the following browsers:
 | Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
 | Email validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
 | Phone validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct phone number | Pass |
-| Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the stablished and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
+| Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
