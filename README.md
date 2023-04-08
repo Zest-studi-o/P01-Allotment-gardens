@@ -312,21 +312,24 @@ There are no remaining known bugs, all of them have been fixed.
 
 ### Imagery, vectors & videos
 
-- [Pexels - Andrea Piacquadio - woman in blue planting veg](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
-- [Pexels - Andrea Piacquadio - woman in blue and wheelbarrow](https://www.pexels.com/es-es/foto/foto-de-mujer-sosteniendo-carretilla-1023404/)
-- [Freepik - Cookie Studio](https://www.freepik.com/free-photo/rural-morning-close-up-beautiful-bearded-caucasian-male-farmer-blue-t-shirt-black-pants-smiling-working-farm-picking-crop-doing-favorite-job_9696954.htm#from_view=detail_alsolike)
+- [Pexels - Andrea Piacquadio - Woman in blue planting veg](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
+- [Pexels - Andrea Piacquadio - Woman in blue and wheelbarrow](https://www.pexels.com/es-es/foto/foto-de-mujer-sosteniendo-carretilla-1023404/)
+- [Freepik - Cookie Studio - Handsome man in the garden](https://www.freepik.com/free-photo/rural-morning-close-up-beautiful-bearded-caucasian-male-farmer-blue-t-shirt-black-pants-smiling-working-farm-picking-crop-doing-favorite-job_9696954.htm#from_view=detail_alsolike)
 - [Freepik - Prostooleh - Woman working in the garden](https://www.freepik.com/free-photo/woman-hat-working-garden_9659554.htm)
 - [Freepik - Prostooleh - Senior holding veg basket](https://www.freepik.com/free-photo/close-up-old-farmer-holding-basket-vegetables-man-is-standing-garden-senior-black-apron_10065490.htm)
+- [Freepik - Prostooleh - Beautiful couple works in the garden](https://www.freepik.com/free-photo/beautiful-couple-works-garden_5557123.htm#query=beautiful%20couple%20works%20in%20a%20garden&position=35&from_view=search&track=ais)
 - [Freepik - Couple working in the garden](https://www.freepik.com/free-photo/overhead-view-male-female-gardener-working-vegetable-garden_4636256.htm)
 - [Unsplash - Elias Morr - Green and purple veg in a bowl](https://unsplash.com/es/fotos/0bA5dqPyLgg)
 - [Freepik - Veggies with eggplant](https://www.freepik.com/free-photo/top-view-veggies-with-eggplant_9402961.htm)
-- [Pexels - Mariam Antadze](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
+- [Freepik - Woman holding tomatoes and basil](https://www.freepik.com/free-photo/portrait-female-farmer-working-alone-her-greenhouse_17622274.htm#&position=11&from_view=collections)
+- [Unsplash - Jonathan kemper - Close up gardeners hand and a plant](https://unsplash.com/es/fotos/0bA5dqPyLgg)
+- [Pexels - Mariam Antadze - Ptatoes on veil](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
+- [Pixabay -Allotment garden](https://pixabay.com/photos/allotment-garden-garden-flower-beds-1059/)
+- [Freepik - Organic Aubergines](https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais)
 - [Youtube - Growing My Own Fruit and Veg - A Visit to my Allotment](https://www.youtube.com/watch?v=Aku-AGbwejw)
 - [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
 - [Pexels - July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
 - [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
-- [Allotment garden](https://pixabay.com/photos/allotment-garden-garden-flower-beds-1059/)
-- [Organic Aubergines](https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais)
 
 ### Reference material. Tutorials & articles
 
