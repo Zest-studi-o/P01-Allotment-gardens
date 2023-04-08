@@ -90,9 +90,10 @@ Full testing was performed on the following devices:
 - Desktop:
   - Custom Gaming computer with 2 screens set-up 24 inches and Windows OS
 - Laptop:
-  - Macbook Pro 2023 14 inch screen
-- Mobile Devices:
-  - Samsung Galaxy
+  - Macbook Pro 2023 14 inch screen and Mac OS
+- Android Mobile Devices:
+  - Samsung Galaxy S20 
+  - Samsung Galaxy A50 
 
 Each device tested the site using the following browsers:
 
