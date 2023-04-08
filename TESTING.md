@@ -39,7 +39,7 @@ HTML - No errors were returned when passing through the official W3C validator o
 CSS - No errors were found when passing through the official (Jigsaw) validator.
 [Jigsaw Validator](https://jigsaw.w3.org/css-validator/)
 
-![style.css](testing/CSS-Jigsaw-validator.png) 
+![style.css](testing/css-jigsaw-validator.png) 
 
 ---
 
@@ -51,15 +51,15 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 
 ### Desktop Results
 
-![Home Page](testing/Lighthouse-home-desktop.png)
-![Locations Page](testing/Lighthouse-locations-desktop.png)
-![Contact Page](testing/Lighthouse-contact-desktop.png)
+![Home Page](testing/lighthouse-home-desktop.png)
+![Locations Page](testing/lighthouse-locations-desktop.png)
+![Contact Page](testing/lighthouse-contact-desktop.png)
 
 ### Mobile Results
 
-![Home Page](testing/Lighthouse-home-mobile.png)
-![Locations Page](testing/Lighthouse-locations-mobile.png)
-![Contact Page](testing/Lighthouse-contact-mobile.png)
+![Home Page](testing/lighthouse-home-mobile.png)
+![Locations Page](testing/lighthouse-locations-mobile.png)
+![Contact Page](testing/lighthouse-contact-mobile.png)
 ---
 
 ## MANUAL TESTING
