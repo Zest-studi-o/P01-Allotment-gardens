@@ -186,7 +186,7 @@ This website has three pages that can be accessed from the navigation menu (home
   - Form.
     This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
-    ![Contact us](ddocs/contact-page.png)
+    ![Contact us](docs/contact-page.png)
 
 - Thank you page.
   - Once the form is successfully submitted the page thanks and redirects the user to the home page in 10s.
