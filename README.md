@@ -128,11 +128,11 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
-![Home Page Wireframe](docs/home.png)
+![Home Page Wireframe](docs/wf-home.png)
 
-![Locations Wireframe](docs/locations.png)
+![Locations Wireframe](docs/wf-locations.png)
 
-![Contact Us Wireframe](docs/contact.png)
+![Contact Us Wireframe](docs/wf-contact.png)
 
 ### Features
 
@@ -141,15 +141,18 @@ Wireframes for desktop, tablet and mobile versions as follows:
 This website has three pages that can be accessed from the navigation menu (home page, locations page, and contact us page) it also has a thank you page that can be accessed when sending a form.
 
 - All pages have:
+ - The Sites title.
+    This redirects the user to the home page by clicking on the logo.
 - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
+    ![Nav bar desktop](docs/nav-bar-desktop.png)
 - A footer with links to social media.
 
 - Home Page.
-
-  - The Sites title.
-    This redirects the user to the home page by clicking on the logo.
   - Hero section.
-    This shows an image of a member of City Gardens in the allotments.
+    This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
+
+   ![Hero image](docs/hero-image.webp)
+   
   - About us section.
     This explains briefly to the user what is City Gardens, and the reasons to have an allotment
   - Video section.
@@ -307,6 +310,7 @@ There are no remaining known bugs, all of them have been fixed.
 
 ### Reference material. Tutorials & articles
 
+- [Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
 - [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 - [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
 - [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
