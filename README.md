@@ -144,7 +144,9 @@ This website has three pages that can be accessed from the navigation menu (home
  - The Sites title.
     This redirects the user to the home page by clicking on the logo.
 - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
+
     ![Nav bar desktop](docs/nav-bar-desktop.png)
+
 - A footer with links to social media.
 
 - Home Page.
@@ -155,23 +157,36 @@ This website has three pages that can be accessed from the navigation menu (home
    
   - About us section.
     This explains briefly to the user what is City Gardens, and the reasons to have an allotment
+
+    ![About us](docs/about-us.png)
+
   - Video section.
     This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
+
+    ![Videos](docs/videos.png)
 
 - Locations page.
   - Cards with images of the locations.
   - Information with address and contact details and link to a map.
 
+   ![Locations](docs/locations.png)
+
 - Gallery.
   - Image gallery.
     This section has a gallery of images from participants and the allotments themselves.
+
+    ![Gallery](docs/gallery.png)
 
 - Contact us page.
   - Form.
     This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
 
+    ![Contact us](ddocs/contact-page.png)
+
 - Thank you page.
-  - Once the form is successfully submitted the page thanks and redirects the user to the home page in 10s
+  - Once the form is successfully submitted the page thanks and redirects the user to the home page in 10s.
+
+    ![Thank you](docs/thank-you.png)
 
 ### Features Left to Implement
 
