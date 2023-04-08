@@ -143,11 +143,16 @@ This website has three pages that can be accessed from the navigation menu (home
 - All pages have:
  - The Sites title.
     This redirects the user to the home page by clicking on the logo.
-- A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
+
+    ![Logo](docs/logo.png)
+
+ - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
 
     ![Nav bar desktop](docs/nav-bar-desktop.png)
 
 - A footer with links to social media.
+
+    ![Footer](docs/footer.png)
 
 - Home Page.
   - Hero section.
