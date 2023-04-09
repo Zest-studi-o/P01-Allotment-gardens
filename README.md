@@ -138,7 +138,7 @@ Wireframes for desktop, tablet and mobile versions as follows:
 
 #### Existing Features
 
-This website has three pages that can be accessed from the navigation menu (home page, locations page, and contact us page) it also has a thank you page that can be accessed when sending a form.
+This website has four pages that can be accessed from the navigation menu (home page, locations page, gallery and contact us page) it also has a thank you page that can be accessed when sending a form.
 
 - All pages have:
  - The Sites title.
@@ -161,7 +161,7 @@ This website has three pages that can be accessed from the navigation menu (home
    ![Hero image](docs/hero-image.webp)
    
   - About us section.
-    This explains briefly to the user what is City Gardens, and the reasons to have an allotment
+    This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
 
     ![About us](docs/about-us.png)
 
