@@ -6,7 +6,9 @@ City Gardens is a website designed to connect potential and active users of the 
 
 Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 
-Add optional [shields.io](https://shields.io) badges to README.
+![GitHub contributors](https://img.shields.io/github/contributors/Zest-studi-o/P01-Allotment-gardens?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/Zest-studi-o/P01-Allotment-gardens?color=purple)
+![W3C validated](https://img.shields.io/badge/W3C-validated-brightgreen)
 
 # Table of contents
 
@@ -37,7 +39,7 @@ Add optional [shields.io](https://shields.io) badges to README.
     - [How to Clone](#How-to-Clone)
 
 - [Testing](#Testing)
-  - [Bugs](#Bugs)
+  - [Solved Bugs](#Bugs)
   - [Known Bugs](#known-Bugs)
 - [Credits](#Credits)
   - [Content](#Content)
@@ -279,7 +281,7 @@ To clone the P01-Allotment-gardens repository:
 
 Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 
-### Bugs
+### Solved Bugs
 
 | ID  | CLASS | FEATURE          | DESCRIPTION                                                                          | STEPS TO REPRODUCE                                                                                                                                                           | ACTUAL RESULT                                                                                                                                  | EXPECTED RESULT                                                            | ACTION                                                                                                        | STATUS |
 | --- | ----- | ---------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------ |
