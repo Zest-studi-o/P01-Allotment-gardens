@@ -46,7 +46,8 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
   - [Known Bugs](#known-Bugs)
 - [Credits](#Credits)
   - [Content](#Content)
-  - [Media](#Media)
+  - [Imagery, vectors & videos](#Imagery,-vectors-&-videos)
+  - [Reference material. Tutorials & articles](#Reference-material.-Tutorials-&-articles)
   - [Acknowledgments](#Acknowledgments)
 
 ---
