@@ -32,9 +32,9 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 - [Technologies Used](#Technologies-Used)
 
   - [Languages Used](#Languages-Used)
-  - [Frameworks, Libraries and Programs Used](#Frameworks,-Libraries-and-Programs-Used)
+  - [Programs Used](#Programs-Used)
 
-- [Deployment and Local Development](#DDeployment-and-Local-Development)
+- [Deployment and Local Development](#Deployment-and-Local-Development)
 
   - [Deployment](#Deployment)
   - [Local Development](#Local-Development)
@@ -46,8 +46,8 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
   - [Known Bugs](#known-Bugs)
 - [Credits](#Credits)
   - [Content](#Content)
-  - [Imagery, vectors & videos](#Imagery,-vectors-&-videos)
-  - [Reference material. Tutorials & articles](#Reference-material.-Tutorials-&-articles)
+  - [Media](#Media)
+  - [Reference material](#Reference-material)
   - [Acknowledgments](#Acknowledgments)
 
 ---
@@ -329,7 +329,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [Sdcc](https://www.sdcc.ie/en/services/sport-and-recreation/allotments/#:~:text=The%20annual%20rent%20ranges%20from,on%20the%20size%20of%20plot.)
 - [Dublin City Council](https://www.dublincity.ie/residential/improving-my-community/allotments-and-community-gardens)
 
-### Imagery, vectors & videos
+### Media
 
 - [Pexels - Andrea Piacquadio - Woman in blue planting veg](https://www.pexels.com/es-es/foto/foto-de-mujer-plantando-verduras-1023397/)
 - [Pexels - Andrea Piacquadio - Woman in blue and wheelbarrow](https://www.pexels.com/es-es/foto/foto-de-mujer-sosteniendo-carretilla-1023404/)
@@ -350,7 +350,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [Youtube - July Allotment Tour - Relaxed walk round the fruit and veg](https://youtu.be/dlxsQxmwV5k)
 - [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
 
-### Reference material. Tutorials & articles
+### Reference material
 
 - [Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
 - [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
