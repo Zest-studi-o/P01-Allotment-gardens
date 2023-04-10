@@ -39,7 +39,7 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
     - [How to Clone](#How-to-Clone)
 
 - [Testing](#Testing)
-  - [Solved Bugs](#Bugs)
+  - [Solved Bugs](#Solved-Bugs)
   - [Known Bugs](#known-Bugs)
 - [Credits](#Credits)
   - [Content](#Content)
@@ -135,6 +135,8 @@ Wireframes for desktop, tablet and mobile versions as follows:
 ![Locations Wireframe](docs/wf-locations.png)
 
 ![Contact Us Wireframe](docs/wf-contact.png)
+
+![Gallery Wireframe](docs/wf-gallery.png)
 
 ### Features
 
