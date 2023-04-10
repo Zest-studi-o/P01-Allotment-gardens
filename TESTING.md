@@ -122,12 +122,17 @@ Each device tested the site using the following browsers:
 | Images of the locations | Images and map are fully responsive taking 3 columns for larger screens, 2 columns for medium screens and 1 column for small screens | Resized to different screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
 | Map and address | Clicking the map link directs the user to google maps exact location | Clicked link | The user gets redirected to the location in google maps | Pass |
 
+`Gallery page`
+| Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
+| --- | --- | --- | --- | --- |
+| Images in the gallery | Images  are fully responsive being displayed in a grid for desktop version and taking 1 column for smaller screens such as tablet or phone | Resized to different screen sizes using dev tools plus different devices and the gallery displays as expected with margins and no clipping | The user can navigate the location section using different screen sizes and devices  | Pass |
+
 `Contact us page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
 | Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
 | Email validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
-| Phone validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct phone number | Pass |
+| Radio button validation | The user needs to select a radio button to continue | Attempt to send the form without selecting a radio button option | The user gets prompted with a message asking to select an option | Pass |
 | Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
