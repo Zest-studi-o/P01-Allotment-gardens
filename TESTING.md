@@ -17,7 +17,7 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
 
 Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and placed in a table to tackle.
 At the same time of building each page the site was tested in different screen sizes using the developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
-Automated testing was carried at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this a test case table was created to test the website using different devices and screen sizes.
+Automated testing was carried at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this a test case table was created to test the website using different devices and screen sizes. To finish, the project was shared in slack for peer review.
 
 ---
 
