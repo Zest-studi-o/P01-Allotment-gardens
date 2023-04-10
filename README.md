@@ -9,6 +9,9 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 ![GitHub contributors](https://img.shields.io/github/contributors/Zest-studi-o/P01-Allotment-gardens?color=green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Zest-studi-o/P01-Allotment-gardens?color=purple)
 ![W3C validated](https://img.shields.io/badge/W3C-validated-brightgreen)
+![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fzest-studi-o.github.io%2FP01-Allotment-gardens%2F)
+![GitHub language count](https://img.shields.io/github/languages/count/Zest-studi-o/P01-Allotment-gardens)
+![GitHub top language](https://img.shields.io/github/languages/top/Zest-studi-o/P01-Allotment-gardens)
 
 # Table of contents
 
@@ -242,13 +245,15 @@ Google Fonts - To import fonts for the website.
 
 Font Awesome - To add icons to the website.
 
-[Tiny PNG](https://tinypng.com/) To quickly compress imagery.
+[Tiny PNG](https://tinypng.com/) - To quickly compress imagery.
 
-[Convertio](https://convertio.co/) To convert to webp format.
+[Convertio](https://convertio.co/) - To convert to webp format.
 
-[Birme]( https://www.birme.net/?auto_height=true&image_format=webp) To convert to webp format.
+[Birme]( https://www.birme.net/?auto_height=true&image_format=webp) - To convert to webp format.
 
-[Photoshop](https://www.adobe.com/ie/creativecloud/) To edit, resize, crop to size and web optimise imagery.
+[Photoshop](https://www.adobe.com/ie/creativecloud/) - To edit, resize, crop to size and web optimise imagery.
+
+[Shields](https://shields.io/) - To add badges to readme.
 
 ---
 
