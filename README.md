@@ -130,13 +130,21 @@ The images are taken from the royalty free sites credited [here](#Credits).
 
 Wireframes for desktop, tablet and mobile versions as follows:
 
+- Home page
+
 ![Home Page Wireframe](docs/wf-home.png)
+
+- Locations page
 
 ![Locations Wireframe](docs/wf-locations.png)
 
-![Contact Us Wireframe](docs/wf-contact.png)
+- Gallery page
 
 ![Gallery Wireframe](docs/wf-gallery.png)
+
+- Contact us page
+
+![Contact Us Wireframe](docs/wf-contact.png)
 
 ### Features
 
