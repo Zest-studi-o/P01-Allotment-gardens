@@ -32,7 +32,7 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 - [Technologies Used](#Technologies-Used)
 
   - [Languages Used](#Languages-Used)
-  - [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
+  - [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-Programs-Used)
 
 - [Deployment & Local Development](#Deployment-&-Local-Development)
 
