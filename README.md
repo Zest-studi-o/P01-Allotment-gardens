@@ -234,17 +234,17 @@ HTML and CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
-Balsamiq - Used to create wireframes.
+[Balsamiq](https://balsamiq.com/wireframes/) - Used to create wireframes.
 
-Git - For version control.
+[Git](https://git-scm.com/) - For version control.
 
-Github - To save and store the files for the website.
+[Github](https://github.com/) - To save and store the files for the website.
 
-Gitpod - To write, edit and save code.
+[Gitpod](https://www.gitpod.io/) - To write, edit and save code.
 
-Google Fonts - To import fonts for the website.
+[Google Fonts](https://fonts.google.com/) - To import fonts for the website.
 
-Font Awesome - To add icons to the website.
+[Font Awesome](https://fontawesome.com/icons) - To add icons to the website.
 
 [Tiny PNG](https://tinypng.com/) - To quickly compress imagery.
 
@@ -347,7 +347,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [Freepik - Organic Aubergines](https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais)
 - [Youtube - Growing My Own Fruit and Veg - A Visit to my Allotment](https://www.youtube.com/watch?v=Aku-AGbwejw)
 - [Youtube - September Allotment Harvest - Homegrown Garden](https://www.youtube.com/watch?v=FbbfeHShIk0)
-- [Pexels - July Allotment Tour - Relaxed walk round the fruit and veg](https://www.youtube.com/watch?v=dlxsQxmwV5k)
+- [Youtube - July Allotment Tour - Relaxed walk round the fruit and veg](https://youtu.be/dlxsQxmwV5k)
 - [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
 
 ### Reference material. Tutorials & articles
