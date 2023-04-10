@@ -32,9 +32,9 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 - [Technologies Used](#Technologies-Used)
 
   - [Languages Used](#Languages-Used)
-  - [Frameworks, Libraries & Programs Used](#Frameworks-Libraries-Programs-Used)
+  - [Frameworks, Libraries and Programs Used](#Frameworks,-Libraries-and-Programs-Used)
 
-- [Deployment & Local Development](#Deployment-&-Local-Development)
+- [Deployment and Local Development](#DDeployment-and-Local-Development)
 
   - [Deployment](#Deployment)
   - [Local Development](#Local-Development)
@@ -232,7 +232,7 @@ It is important to have a website that is accessibility friendly, this objective
 
 HTML and CSS were used to create this website.
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries and Programs Used
 
 [Balsamiq](https://balsamiq.com/wireframes/) - Used to create wireframes.
 
@@ -258,7 +258,7 @@ HTML and CSS were used to create this website.
 
 ---
 
-## Deployment & Local Development
+## Deployment and Local Development
 
 ### Deployment
 
