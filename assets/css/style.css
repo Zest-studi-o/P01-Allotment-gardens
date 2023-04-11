@@ -637,7 +637,7 @@ footer {
   #hero-image {
     background: url("../images/woman-in-blue-900x1400.webp") no-repeat center
       center;
-    height: 800px;
+    height: 1100px;
     background-size: cover;
   }
 
@@ -650,10 +650,19 @@ footer {
   }
 }
 
+@media screen and (max-width: 635px) {
+#hero-image {
+  height: 900px;
+}
+}
 @media screen and (max-width: 535px) {
   #menu {
     font-size: 90%;
     letter-spacing: 2px;
+  }
+
+  #hero-image {
+    height: 800px;
   }
 }
 
