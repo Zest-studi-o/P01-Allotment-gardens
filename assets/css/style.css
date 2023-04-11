@@ -516,6 +516,10 @@ footer {
   #grid-box {
     grid-template-columns: 1fr 1fr;
   }
+  .flex-videos iframe {
+    width: 854px;
+    height: 460px; 
+}
 }
 
 /*For larger to medium screens size from 1200px wide and down (checked reducing the screen with the developer tools), for hero image and about us*/
@@ -592,6 +596,11 @@ footer {
   .gallery__item {
     padding: 0.5em;
   }
+
+  .flex-videos iframe {
+    width: 640px;
+    height: 360px; 
+  }
 }
 
 /*medium-small screen ipad mini*/
@@ -616,6 +625,10 @@ footer {
   #menu {
     font-size: 100%;
     padding-top: 0.5em;
+  }
+  .flex-videos iframe {
+    width: 400px;
+    height: 220px; 
   }
 }
 
@@ -730,10 +743,22 @@ footer {
     margin: 0.3em;
   }
   .flex-videos iframe {
-    width: 95%;
-    height: 75%;
+    width: 90%;
+    height: 70%;
   }
 }
+
+@media screen and (max-width: 350px) {
+.highlight-green {
+  font-size: 85%;
+}
+}
+
+@media screen and (max-width: 306px) {
+  .highlight-green {
+    font-size: 75%;
+  }
+  }
 
 @media screen and (max-width: 295px) {
   #menu {
@@ -780,6 +805,29 @@ footer {
     height: 610px;
     width: 350px;
   }
+}
+
+@media screen and (max-width: 275px) {
+  .flex-videos iframe {
+    width: 80%;
+    height: 55%;
+  }
+
+  .flex-videos p {
+    font-size: 70%;
+   } 
+
+  .container a {
+    font-size: 60%;
+}
+  }
+
+  @media screen and (max-width: 225px) {
+  .flex-videos iframe {
+    width: 70%;
+    height: 40%;
+  }
+ 
 }
 
 @media screen and (max-width: 210px) {
