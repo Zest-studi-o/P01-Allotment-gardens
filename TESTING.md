@@ -14,6 +14,7 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
 - [MANUAL TESTING](#MANUAL-TESTING)
   - [Testing User Stories](#Testing-User-Stories)
   - [Full Testing](#Full-Testing)
+  - [Test Cases](#Test-Cases)
 
 Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and placed in a table to tackle.
 At the same time of building each page the site was tested in different screen sizes using the developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
@@ -49,13 +50,13 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 This test was run thorough different devices which returned different results.
 For this project I focused on achieving 100% in accessibility as instructed. This is achieved in all pages.
 
-### Desktop Results
+#### Desktop Results
 
 ![Home Page](testing/lighthouse-home-desktop.png)
 ![Locations Page](testing/lighthouse-locations-desktop.png)
 ![Contact Page](testing/lighthouse-contact-desktop.png)
 
-### Mobile Results
+#### Mobile Results
 
 ![Home Page](testing/lighthouse-home-mobile.png)
 ![Locations Page](testing/lighthouse-locations-mobile.png)
@@ -103,7 +104,7 @@ Each device tested the site using the following browsers:
 - Safari
 - Firefox
 
-## Test Cases
+### Test Cases
 `All pages`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
