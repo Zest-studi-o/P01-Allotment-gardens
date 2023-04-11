@@ -380,7 +380,6 @@ There are no remaining known bugs, all of them have been fixed.
 - [How to highlight text in CSS](https://alvarotrigo.com/blog/css-highlight-text/)
 - [Highlight Text CSS: 7 Cool CSS Highlight Text Effects](https://www.coding-dude.com/wp/css/highlight-text-css/)
 - [How to Add Phone Number Validation in HTML: The Essential Guide](https://www.youtube.com/watch?v=fb4QcrpQKUM)
-- [Regex: Validate an Irish mobile phone number](https://stackoverflow.com/questions/33061964/validate-an-irish-mobile-phone-number)
 - [Bullet points using font awesome](https://hollypryce.com/font-awesome-bullet-points/)
 - [Stackoverflow - Font awesome icon bullet points](https://stackoverflow.com/questions/12468359/using-font-awesome-icon-for-bullet-points-with-a-single-list-item-element)
 - [Drop shadow for pngs in CSS](https://www.w3docs.com/snippets/css/how-to-create-a-drop-shadow-for-png-image.html)
@@ -388,6 +387,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Mdn webdocs - HTML attribute: minlength](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/minlength)
+- [Creating a responsive mobile menu with CSS without JavaScript](https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/)
 
 ### Acknowledgments
 
