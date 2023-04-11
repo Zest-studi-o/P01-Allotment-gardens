@@ -64,6 +64,8 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 
 ## MANUAL TESTING
 
+### Testing User Stories
+
 `First Time Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |

@@ -801,6 +801,10 @@ footer {
     height: 65%;
   }
 
+  .flex-videos p {
+    font-size: 90%;
+  }
+
   #hero-image {
     height: 610px;
     width: 350px;
@@ -822,12 +826,28 @@ footer {
 }
   }
 
-  @media screen and (max-width: 225px) {
+  @media screen and (max-width: 250px) {
+  .container a {
+    font-size: 50%;
+} 
+  .flex-videos{
+    margin-bottom: 0em;
+}
+  .flex-videos iframe {
+    width: 75%;
+    height: 45%;
+}
+  }
+
+  @media screen and (max-width: 230px) {
   .flex-videos iframe {
     width: 70%;
     height: 40%;
   }
- 
+
+  .highlight-green {
+    font-size: 70%;
+  }
 }
 
 @media screen and (max-width: 210px) {
