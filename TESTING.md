@@ -54,12 +54,14 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 
 ![Home Page](testing/lighthouse-home-desktop.png)
 ![Locations Page](testing/lighthouse-locations-desktop.png)
+![Gallery Page](testing/lighthouse-gallery-desktop.png)
 ![Contact Page](testing/lighthouse-contact-desktop.png)
 
 #### Mobile Results
 
 ![Home Page](testing/lighthouse-home-mobile.png)
 ![Locations Page](testing/lighthouse-locations-mobile.png)
+![Gallery Page](testing/lighthouse-gallery-mobile.png)
 ![Contact Page](testing/lighthouse-contact-mobile.png)
 ---
 
