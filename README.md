@@ -112,7 +112,7 @@ Some other alternatives and shades based on the selected palette were:
 [Tomato vine palette](docs/palette-tomato-vine.png)
 [Violet field palette](docs/palette-violet-field.png)
 
-The final colour palette was slightly altered after testing validator suggestions of improving the contrast and changed the header and footer for a slightly darker hue colour.
+The final colour palette was slightly altered after testing validator suggestions of improving the contrast and changed the header and footer for a slightly darker hue colour #426473.
 
 There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
 
