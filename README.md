@@ -343,7 +343,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [Unsplash - Elias Morr - Green and purple veg in a bowl](https://unsplash.com/es/fotos/0bA5dqPyLgg)
 - [Freepik - Veggies with eggplant](https://www.freepik.com/free-photo/top-view-veggies-with-eggplant_9402961.htm)
 - [Freepik - Woman holding tomatoes and basil](https://www.freepik.com/free-photo/portrait-female-farmer-working-alone-her-greenhouse_17622274.htm#&position=11&from_view=collections)
-- [Unsplash - Jonathan kemper - Close up gardeners hand and a plant](https://unsplash.com/es/fotos/0bA5dqPyLgg)
+- [Unsplash - Jonathan kemper - Close up gardeners hand and a plant](https://unsplash.com/photos/1HHrdIoLFpU)
 - [Pexels - Mariam Antadze - Potatoes on veil](https://www.pexels.com/es-es/foto/patatas-en-velo-transparente-en-campo-5913196/)
 - [Pixabay -Allotment garden](https://pixabay.com/photos/allotment-garden-garden-flower-beds-1059/)
 - [Freepik - Organic Aubergines](https://www.freepik.com/free-photo/close-up-fresh-organic-eggplant-garden_11176085.htm#query=aubergine%20garden&position=1&from_view=search&track=ais)
