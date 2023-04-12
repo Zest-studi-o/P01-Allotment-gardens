@@ -252,7 +252,9 @@ HTML and CSS were used to create this website.
 
 [Birme]( https://www.birme.net/?auto_height=true&image_format=webp) - To convert to webp format.
 
-[Photoshop](https://www.adobe.com/ie/creativecloud/) - To edit, resize, crop to size and web optimise imagery.
+[Photoshop](https://www.adobe.com/ie/products/photoshop.html) - To edit, resize, crop to size and web optimise imagery.
+
+[Illustrator](https://www.adobe.com/ie/products/illustrator.html) - For the fav icon creation.
 
 [Shields](https://shields.io/) - To add badges to readme.
 
