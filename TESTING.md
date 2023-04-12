@@ -56,6 +56,7 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 ![Locations Page](testing/lighthouse-locations-desktop.png)
 ![Gallery Page](testing/lighthouse-gallery-desktop.png)
 ![Contact Page](testing/lighthouse-contact-desktop.png)
+![Thank You Page](testing/lighthouse-thank-you-desktop.png)
 
 #### Mobile Results
 
@@ -63,6 +64,7 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 ![Locations Page](testing/lighthouse-locations-mobile.png)
 ![Gallery Page](testing/lighthouse-gallery-mobile.png)
 ![Contact Page](testing/lighthouse-contact-mobile.png)
+![Thank You Page](testing/lighthouse-thank-you-mobile.png)
 ---
 
 ## MANUAL TESTING
