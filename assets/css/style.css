@@ -376,7 +376,6 @@ label {
 ::placeholder {
   color: #ece2e2;
   font-size: 90%;
-  padding-left: 1%;
 }
 
 .form-section hr {
@@ -385,6 +384,7 @@ label {
 
 .text-input {
   outline: 0;
+  padding-left: 1%;
 }
 
 .text-input:valid {
