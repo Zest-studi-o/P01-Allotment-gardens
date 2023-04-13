@@ -196,7 +196,7 @@ header {
   font-size: 120%;
   font-weight: 600;
   line-height: 1.5;
-  margin: 0.5em 0 3rem;
+  margin: 0.5em 0 2rem;
 }
 
 .reasons {
@@ -240,11 +240,8 @@ p {
 }
 
 .info,
-#text {
-  padding-top: 1em;
-}
-
-#text {
+.text {
+  padding-top: 0.5em;
   line-height: 1.5em;
 }
 
@@ -337,6 +334,8 @@ p {
   margin: 5px 0 20px 0;
   border: 1px solid #fbfbfa;
   border-radius: 2px;
+  outline: 0;
+  padding-left: 1%;
 }
 
 label {
@@ -380,11 +379,6 @@ label {
 
 .form-section hr {
   padding: 1.8%;
-}
-
-.text-input {
-  outline: 0;
-  padding-left: 1%;
 }
 
 .text-input:valid {
