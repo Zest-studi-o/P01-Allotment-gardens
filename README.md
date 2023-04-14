@@ -234,7 +234,7 @@ It is important to have a website that is accessibility friendly, this objective
 
 HTML and CSS were used to create this website.
 
-### Frameworks, Libraries and Programs Used
+### Programs Used
 
 [Balsamiq](https://balsamiq.com/wireframes/) - Used to create wireframes.
 
