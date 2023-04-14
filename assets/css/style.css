@@ -266,7 +266,7 @@ p {
 
 .about-img-1,
 .about-img-2 {
-  flex: 0.4;
+  flex: 0.6;
   display: flex;
   filter: drop-shadow(1px 0.5px 1px #a5b1b0);
 }

@@ -330,6 +330,7 @@ There are no remaining known bugs, all of them have been fixed.
 
 - [Sdcc](https://www.sdcc.ie/en/services/sport-and-recreation/allotments/#:~:text=The%20annual%20rent%20ranges%20from,on%20the%20size%20of%20plot.)
 - [Dublin City Council](https://www.dublincity.ie/residential/improving-my-community/allotments-and-community-gardens)
+- [Nsalg](https://www.nsalg.org.uk/allotment-info/benefits-of-allotment-gardening/)
 
 ### Media
 
