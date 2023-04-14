@@ -204,7 +204,7 @@ header {
 }
 
 #reasons-list {
-  line-height: 1.4;
+  line-height: 2.5;
   padding-left: 0.5%;
   list-style-type: none;
 }
@@ -242,18 +242,21 @@ p {
 .info,
 .text {
   padding-top: 0.5em;
-  line-height: 1.5em;
+  line-height: 2em;
 }
 
 #text a {
   color: inherit;
+}
+#how-to {
+  padding-top: 2em;
 }
 
 /*Flex-box images and text about us section*/
 .container-reasons {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 5%;
+  margin-top: 1em;
 }
 .reasons {
   display: flex;
@@ -263,8 +266,18 @@ p {
 
 .about-img-1,
 .about-img-2 {
-  flex: 1;
+  flex: 0.7;
   display: flex;
+}
+
+@media screen and (max-width: 1200px) {
+  .about-img-1,
+  .about-img-2 {
+    flex: auto;
+  }
+  #reasons-list {
+    line-height: 2;
+  }
 }
 
 @media screen and (max-width: 800px) {
