@@ -266,24 +266,9 @@ p {
 
 .about-img-1,
 .about-img-2 {
-  flex: 0.7;
+  flex: 0.4;
   display: flex;
-}
-
-@media screen and (max-width: 1200px) {
-  .about-img-1,
-  .about-img-2 {
-    flex: auto;
-  }
-  #reasons-list {
-    line-height: 2;
-  }
-}
-
-@media screen and (max-width: 800px) {
-  .container-reasons {
-    display: block;
-  }
+  filter: drop-shadow(1px 0.5px 1px #a5b1b0);
 }
 
 /*Highlight effect heading*/
@@ -605,6 +590,11 @@ footer {
   footer {
     padding-bottom: 0.8rem;
   }
+  
+  .about-img-1,
+  .about-img-2 {
+  flex: 0.7;
+  }
 }
 
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
@@ -623,6 +613,13 @@ footer {
   .about-us {
     padding: 40px 70px;
     margin: 0;
+  }
+  .about-img-1,
+  .about-img-2 {
+    flex: auto;
+  }
+  #reasons-list {
+    line-height: 2;
   }
 }
 
@@ -696,6 +693,12 @@ footer {
   .flex-videos iframe {
     width: 640px;
     height: 360px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .container-reasons {
+    display: block;
   }
 }
 

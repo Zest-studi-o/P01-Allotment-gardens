@@ -60,7 +60,7 @@ City Gardens is an initiative created in conjunction with local communities and 
 
 People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
-They is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
+There is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
 
 The websites purpose is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The allotments are available for people of all ages and skill sets.
 
