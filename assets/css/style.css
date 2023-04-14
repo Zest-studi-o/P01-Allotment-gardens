@@ -261,12 +261,12 @@ p {
 .reasons {
   display: flex;
   flex-direction: column;
-  flex: 1;
+  flex: 2;
 }
 
 .about-img-1,
 .about-img-2 {
-  flex: 0.6;
+  flex: auto;
   display: flex;
   filter: drop-shadow(1px 0.5px 1px #a5b1b0);
 }
@@ -595,6 +595,10 @@ footer {
   .about-img-2 {
   flex: 0.7;
   }
+
+  .reasons {
+    flex: 1;
+  }
 }
 
 /*For larger to medium screens size from 1300px wide and down (checked reducing the screen with the developer tools), for youtube videos*/
@@ -614,10 +618,7 @@ footer {
     padding: 40px 70px;
     margin: 0;
   }
-  .about-img-1,
-  .about-img-2 {
-    flex: auto;
-  }
+  
   #reasons-list {
     line-height: 2;
   }
