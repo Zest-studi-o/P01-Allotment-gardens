@@ -249,31 +249,6 @@ p {
   color: inherit;
 }
 
-/*Flex-box images and text about us section*/
-.container-reasons {
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: 5%;
-}
-.reasons {
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
-.about-img-1,
-.about-img-2 {
-  flex: 1;
-  display: flex;
-}
-
-@media screen and (max-width: 800px) {
-  .container-reasons {
-    display: block;
-  }
-}
-
-/*Highlight effect heading*/
 .highlight-green {
   position: relative;
 }
@@ -860,6 +835,10 @@ footer {
 
   #logo {
     font-size: 200%;
+  }
+
+  #cover-icon{
+    width: 3rem;
   }
 }
 
