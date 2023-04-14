@@ -179,7 +179,9 @@ This website has four pages that can be accessed from the navigation menu (home 
   - About us section.
     This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
 
-    ![About us](docs/about-us.png)
+    ![About us](docs/about-us-1.png)
+    
+    ![About us](docs/about-us-2.png)
 
   - Video section.
     This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
