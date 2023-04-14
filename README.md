@@ -352,6 +352,8 @@ There are no remaining known bugs, all of them have been fixed.
 - [Youtube - July Allotment Tour - Relaxed walk round the fruit and veg](https://youtu.be/dlxsQxmwV5k)
 - [Font awesome - Leaf](https://fontawesome.com/icons/pagelines?f=brands&s=solid)
 - [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
+- [Freepik - Storyset - Gardening illustrations - Pana](https://storyset.com/illustration/gardening/pana)
+- [Freepik - Storyset - Gardening illustrations - Cuate](https://storyset.com/illustration/gardening/cuate)
 
 ### Reference material
 
