@@ -56,27 +56,27 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 
 ### Initial Discussion
 
-City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particularly in apartment and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
+City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particularly in apartments and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
 
 People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
 There is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
 
-The websites purpose is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The allotments are available for people of all ages and skill sets.
+The purpose of the website is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The allotments are available for people of all ages and skill sets.
 
 #### Key information for the site
 
 - What is City Gardens and what does it offer.
 - What is currently going on in the community garden.
 - How to take part in the initiative and become a member.
-- A way of contacting City Gardens and enquire or provide suggestions.
+- A way of contacting City Gardens and enquiring or providing suggestions.
 - Where to find the locations for the allotment.
 
 ### User Stories
 
 #### User Goals
 
-- As a user I want to have the site displayed clearly in different devices.
+- As a user I want to have the site displayed clearly on different devices.
 - As a user I want to find information on what is City Gardens and how to participate.
 - As a user I want to show exactly where the gardens are located.
 - As a user I want to be able to contact City Gardens with any queries or suggestions.
@@ -106,15 +106,17 @@ The websites purpose is to highlight the availability of the service, where the 
 
 ![Eggplant palette](docs/palette-eggplant.png)
 
-The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used gainst dark background colours and vice versa.
+There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
+
+The colour palette selected uses a mix of tones based on an eggplant theme, it uses a very trendy bright green colour combined with shades of greys and blacks, to complement the eggplant colour which is used in the imagery. The colours have high contrast and light colours are used against dark background colours and vice versa.
 The final colour palette was created using the [Coolors](https://coolors.co/) website.
 Some other alternatives and shades based on the selected palette were:
 [Tomato vine palette](docs/palette-tomato-vine.png)
 [Violet field palette](docs/palette-violet-field.png)
 
-The final colour palette was slightly altered after testing validator suggestions of improving the contrast and changed the header and footer for a slightly darker hue colour #426473.
+The final colour palette used in the website was slightly altered after testing validator suggestions of improving the contrast and changing the header and footer for a slightly darker hue colour #426473.
 
-There was some colour exploration using [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel) website, some colours were brought to Coolors website extracted from imagery planned to use on the site to further explore the visual possibilities.
+The background colour for the about us section was also changed by a sand colour which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery.
 
 ### Typography
 
@@ -156,64 +158,82 @@ Wireframes for desktop, tablet and mobile versions as follows:
 
 This website has four pages that can be accessed from the navigation menu (home page, locations page, gallery and contact us page) it also has a thank you page that can be accessed when sending a form.
 
-- All pages have:
+- **All pages have:**
  - The Sites title.
-    This redirects the user to the home page by clicking on the logo.
+    - This redirects the user to the home page by clicking on the logo.
+    - The user can simply click on it to come back to the home page at any time, providing an easy user experience.
 
     ![Logo](docs/logo.png)
 
- - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries.
+ - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries. 
+    - This will allow the user to navigate easily from any of the pages.
+    - For desktop screen sizes the navigation bar is on the right-hand side.
 
     ![Nav bar desktop](docs/nav-bar-desktop.png)
 
-- A footer with links to social media.
+    - For tablet screen sizes the navigation bar is under the logo for an optimal display.
+    - For mobile screen sizes the navigation menu is a burger toggler which makes things easier for the user by being able to collapse the content when not needed or clicking on it to expand it.
 
+- A footer with links to social media.
+    - These links open in a new tab for easy navigation.
+    - The user will find value by being encouraged to connect via social media.
     ![Footer](docs/footer.png)
 
-- Home Page.
+- **Home Page.**
   - Hero section.
-    This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
+    - This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
+    - This introduces the user to City Gardens and makes easy to understand what the site is about.
 
    ![Hero image](docs/hero-image.webp)
    
   - About us section.
-    This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
+    - This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
+    - This is valuable to the user as it contains relevant information and answers to the most common questions.
 
     ![About us](docs/about-us-1.png)
     
     ![About us](docs/about-us-2.png)
 
   - Video section.
-    This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
+    - This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
+    - The user finds value in seeing other people with allotments speaking about them and see clearly what to expect.
 
     ![Videos](docs/videos.png)
 
-- Locations page.
+- **Locations page.**
   - Cards with images of the locations.
   - Information with address and contact details and link to a map.
+  - The user can find easily the locations by clicking on google maps, this section also has a contact email address for the particular location.
 
    ![Locations](docs/locations.png)
 
-- Gallery.
+- **Gallery.**
   - Image gallery.
-    This section has a gallery of images from participants and the allotments themselves.
+    - This section has a gallery of images from participants and the allotments themselves.
+    - This is valuable to the user as they can see other members and how the allotments look like, what sort of produce they can obtain, generating a positive response.
 
     ![Gallery](docs/gallery.png)
 
-- Contact us page.
+- **Contact us page.**
   - Form.
-    This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
+    - This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, radio buttons to select the location preferred and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
+    - The user can find an easy way to contact City Gardens to apply for an allotment and also to ask general questions or make suggestions.
 
     ![Contact us](docs/contact-page.png)
 
 - Thank you page.
-  - Once the form is successfully submitted the page thanks and redirects the user to the home page in 10s.
-
+  - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10s.
+  - Thank you pages are known to provide good user experience as they confirm the form submission and thank the users for their time, creating a positive feeling.
     ![Thank you](docs/thank-you.png)
 
 ### Features Left to Implement
 
-Add some animations.
+In the future I would like to:
+
+- Add some animations to the images.
+- Implement further form validations by adding JS.
+- Create individual pages for each location, that the user could easily access by clicking on the cards in the locations section.
+- Create a search bar and a filter for the locations to be able to sort and find.
 
 ### Accessibility
 
@@ -222,7 +242,7 @@ It is important to have a website that is accessibility friendly, this objective
 - Ensuring that images have an alt attribute.
 - Using aria labels.
 - Using semantic html.
-- Making sure that background and foreground colours have high contracts, after an error returned in the nav bar by the lighthouse validator the darkness background colour was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
+- Making sure that background and foreground colours have high contrast, after an error returned in the nav bar by the lighthouse validator the  background colour darkness was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
 - Using a sans serif font recommended for web which are easy to read.
 - Adding titles to iframes.
 
@@ -271,8 +291,8 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 1. Log in (or sign up) to Github.
 2. Find the repository for this project, P01-Allotment-garden.
 3. Click on the Settings link.
-4. Click on the Pages link in the left hand side navigation bar.
-5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+4. Click on the Pages link in the left-hand side navigation bar.
+5. In the Source section, choose main from the drop-down select branch menu. Select Root from the drop-down select folder menu.
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 ### Local Development
