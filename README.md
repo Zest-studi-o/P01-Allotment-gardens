@@ -114,9 +114,9 @@ Some other alternatives and shades based on the selected palette were:
 [Tomato vine palette](docs/palette-tomato-vine.png)
 [Violet field palette](docs/palette-violet-field.png)
 
-The final colour palette used in the website was slightly altered after testing validator suggestions of improving the contrast and changing the header and footer for a slightly darker hue colour #426473.
+The final colour palette used in the website was slightly altered after testing validator suggestions of improving the contrast and changing the header and footer for a darker hue colour #426473.
 
-The background colour for the about us section was also changed by a sand colour #c8bea0 which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery. After testing this background colour makes the text easier to read.
+The background colour for the about us section was also changed for a sand colour #c8bea0 which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery. After testing it was observed that this background colour makes the text easier to read.
 
 ### Typography
 
@@ -199,7 +199,7 @@ This website has four pages that can be accessed from the navigation menu (home 
     
     ![About us](docs/about-us-2-desktop.png)
 
-    - This is valuable to the user as it contains relevant information and answers to the most common questions.
+    - This section is responsive and adjusts using the flex box and also media queries that allow the text and images in a row which allow its optimal visualisation by the user.
 
     ![About us Small Screens](docs/about-us-one-row.png)
 
