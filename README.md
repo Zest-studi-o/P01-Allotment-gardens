@@ -245,7 +245,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     ![Contact us mockup](docs/contact-page-mockup.png)
 
-- Thank you page.
+- **Thank you page.**
   - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10s.
   - Thank you pages are known to provide good user experience as they confirm the form submission and thank the users for their time, creating a positive feeling.
     ![Thank you](docs/thank-you.png)
