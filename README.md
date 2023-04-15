@@ -1,6 +1,6 @@
 # CITY GARDENS
 
-City Gardens is a website designed to connect potential and active users of the community garden allotments available in Dublin city, find their locations, enquire or apply and inform on how to take the best use of them once taking part.
+City Gardens is a website designed to connect potential and active users of the community garden allotments available in Dublin city, find their locations, enquire or apply and be informed on how to take the best use of them once taking part.
 
 ![City Gardens](docs/mockup-white.png)
 
@@ -116,7 +116,7 @@ Some other alternatives and shades based on the selected palette were:
 
 The final colour palette used in the website was slightly altered after testing validator suggestions of improving the contrast and changing the header and footer for a darker hue colour #426473, a drop shadow was also added to the text elements in the header to improve readability.
 
-The background colour for the about us section was also changed for a sand colour #c8bea0 which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery. After testing it was observed that this background colour makes the text easier to read.
+The background colour for the about us section was also changed for a sand colour #c8bea0 which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery. After testing, it was observed that this background colour makes the text easier to read.
 
 ### Typography
 
@@ -199,7 +199,7 @@ This website has four pages that can be accessed from the navigation menu (home 
     
     ![About us](docs/about-us-2-desktop.png)
 
-    - This section is responsive and adjusts using the flex-box and also media queries that allow the text and images in a row which can be optimally visualised by the user.
+    - This section is responsive and adjusts using the flex-box and also media queries, this allows the text and images to adjust and on smaller screens to be displayed in a row which can be optimally visualised by the user.
 
     ![About us Small Screens](docs/about-us-one-row.png)
 
@@ -215,9 +215,9 @@ This website has four pages that can be accessed from the navigation menu (home 
 
 - **Locations page.**
   - Cards with images of the locations.
-  - Information with address and contact details and link to a map.
-  - The user can find easily the locations by clicking on google maps, this section also has a contact email address for the particular location.
-  - The locations page is designed to be fully responsive showing the content in three rows for desktop, two for medium screens and one for smaller screens.
+  - Information with address and contact details and a link to google maps.
+  - The user can find easily the locations by clicking on the map, this section also has a contact email address for the particular location.
+  - The locations page is designed to be fully responsive showing the content in three rows for desktop version, two for medium screens and one for smaller screens.
 
    ![Locations](docs/locations.png)
 
@@ -236,12 +236,12 @@ This website has four pages that can be accessed from the navigation menu (home 
 
 - **Contact us page.**
   - Form.
-    - This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, radio buttons to select the location preferred and a box in which they can include their question, there is a contact us button call to action, the form uses form validation, so the user must fill up all the information to be able to submit.
+    - This section has a contact form in which the user can further enquire about how to join or any other queries they might have. The form has input fields for name, surname, email address, radio buttons to select the location preferred and a box in which they can include their question, there is a contact us button call to action, it uses form validation, so the user must fill up all the information to be able to submit.
     - The user can find an easy way to contact City Gardens to apply for an allotment and also to ask general questions or make suggestions.
 
     ![Contact us](docs/contact-page.png)
 
-    - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and  media queries
+    - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and  media queries.
 
     ![Contact us mockup](docs/contact-page-mockup.png)
 
@@ -259,7 +259,7 @@ In the future, I would like to:
 - Create individual pages for each location, that the user could easily access by clicking on the cards in the locations section.
 - Create a search bar and a filter for the locations to be able to sort and find.
 - Create another web page for social events.
-- Promote the website using banners that encourage the user to sign up and get a free starter pack. 
+- Promote the website using banners that encourage the user to apply and get a free starter pack. 
 
 ### Accessibility
 
