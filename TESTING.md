@@ -76,7 +76,7 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 | :--- | :--- |
 | As a user I want to have the site displayed clearly in different devices | I have developed this site to be fully responsive in all device sizes |
 | As a user I want to find information on what is City Gardens and how to participate | The information is clearly displayed in the home page and a link to the contact form is provided to easy access to more information |
-| As a user I want to show exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a google map so the users can easily locate them |
+| As a user I want to Know exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a google map so the users can easily locate them |
 | As a user I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email addresses for the different allotments displayed in a clear manner and linked  |
 
 `Returning Visitors`
@@ -126,7 +126,7 @@ Each device tested the site using the following browsers:
 `Locations page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Images of the locations | Images and map are fully responsive taking 3 columns for larger screens, 2 columns for medium screens and 1 column for small screens | Resized to different screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
+| Images of the locations | Images and map are fully responsive taking three columns for larger screens, two columns for medium screens and one column for small screens | Resized to different screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
 | Map and address | Clicking the map link directs the user to google maps exact location | Clicked link | The user gets redirected to the location in google maps | Pass |
 
 `Gallery page`
@@ -140,9 +140,9 @@ Each device tested the site using the following browsers:
 | Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
 | Email validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
 | Radio button validation | The user needs to select a radio button to continue | Attempt to send the form without selecting a radio button option | The user gets prompted with a message asking to select an option | Pass |
-| Character number validation | Entering less or more character than required | Fill up the form with less or more characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
+| Character number validation | Entering less or characters than required | Fill up the form with less characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
-| Message to the user | After hitting submit in the contact form the user gets prompted with the thank you page message, the user has the appropriate time to read it and then it redirected to the home page | Submitted the form correctly | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
+| Message to the user | After hitting submit in the contact form the user gets prompted with the thank you page message, the user has the appropriate time to read it and then is redirected to the home page | Submitted the form correctly | The user gets prompted with a thank you message and redirected to the home page in 10 seconds | Pass |
