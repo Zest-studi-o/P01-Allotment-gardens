@@ -124,7 +124,7 @@ The fonts were taken from Google Fonts:
 
 - Karla is used for headings and subheadings on the site. It is a serif font that combines well with the body copy font, which is sans-serif, serif and sans-serif fonts offer good contrast.
 
-- Monstserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web design.
+- Montserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web design.
 
 - Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awesome and combined with this font.
 
@@ -184,7 +184,7 @@ This website has four pages that can be accessed from the navigation menu (home 
   - Hero section.
     - This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
     - This introduces the user to City Gardens and makes easy to understand what the site is about.
-    - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engagig.
+    - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engaging.
     - This hero image with its overlay text banner is responsive for all screen sizes.
 
    ![Hero image desktop](docs/hero-image.webp)

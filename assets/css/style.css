@@ -590,7 +590,7 @@ footer {
 /*For macbook pro 14 inches and bellow*/
 @media screen and (max-width: 1344px) {
   footer {
-    padding-bottom: 0.8rem;
+    padding-bottom: 1rem;
   }
   
   .about-img-1,
@@ -624,6 +624,12 @@ footer {
   #reasons-list {
     line-height: 2;
   }
+}
+
+@media screen and (max-width: 1250px) {
+    footer {
+      padding-bottom: 2rem;
+    }
 }
 
 /*For medium screens size from 1085px wide and down (checked reducing the screen with the developer tools), for white gap in the footer*/
