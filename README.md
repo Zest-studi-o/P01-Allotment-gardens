@@ -223,8 +223,11 @@ This website has four pages that can be accessed from the navigation menu (home 
   - Cards with images of the locations.
   - Information with address and contact details and link to a map.
   - The user can find easily the locations by clicking on google maps, this section also has a contact email address for the particular location.
+  - The locations page is designed to be fully responsive showing the content in three rows for desktop, two for medium screens and one for smaller screens.
 
    ![Locations](docs/locations.png)
+
+   ![Locations](docs/locations-mockup.png)
 
 - **Gallery.**
   - Image gallery.
