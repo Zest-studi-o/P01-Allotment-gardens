@@ -943,6 +943,10 @@ footer {
     height: 610px;
     width: 350px;
   }
+
+  .thank-you-title {
+  font-size: 1.4rem;
+  }
 }
 
 @media screen and (max-width: 275px) {
