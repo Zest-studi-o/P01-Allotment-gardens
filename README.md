@@ -163,27 +163,21 @@ This website has four pages that can be accessed from the navigation menu (home 
     - This redirects the user to the home page by clicking on the logo.
     - The user can simply click on it to come back to the home page at any time, providing an easy user experience.
 
-    ![Logo](docs/logo.png)
-
  - A navigation bar that is responsive and adjusts depending on the screen sizes via media queries. 
+
+    ![Nav desktop](docs/nav-bar-desktop.png)
+
     - This will allow the user to navigate easily from any of the pages.
     - For desktop screen sizes the navigation bar is on the right-hand side.
-
-    ![Nav bar desktop](docs/nav-bar-desktop.png)
-
     - For tablet screen sizes the navigation bar is under the logo for an optimal display.
-
-    ![Nav bar tablet](docs/nav-bar-tablet.png)
-
     - For mobile screen sizes the navigation menu is a burger toggler which makes things easier for the user by being able to collapse the content when not needed or clicking on it to expand it.
 
-    ![Nav bar phone](docs/nav-bar-phone-1.png)
-
-    ![Nav bar phone](docs/nav-bar-phone-2.png)
+    ![Nav bar mockup](docs/responsive-nav-bar.png)
 
 - A footer with links to social media.
     - These links open in a new tab for easy navigation.
     - The user will find value by being encouraged to connect via social media.
+
     ![Footer](docs/footer.png)
 
 - **Home Page.**
@@ -238,7 +232,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     - The gallery section is also responsive taking one row for smaller devices to facilitate viewing the images as they will enlarge in smaller screen sizes so the user can scroll through them.
 
-    [Gallery](docs/gallery-one-row.png)
+     ![Gallery Small Screens](docs/gallery-one-row.png)
 
 - **Contact us page.**
   - Form.
@@ -249,7 +243,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and  media queries
 
-    ![Contact us](docs/contact-page-phone.png)
+    ![Contact us mockup](docs/contact-page-mockup.png)
 
 - Thank you page.
   - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10s.
