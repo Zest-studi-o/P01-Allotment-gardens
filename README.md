@@ -195,9 +195,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
    ![Hero image desktop](docs/hero-image.webp)
 
-   ![Hero image tablet](docs/hero-tablet.png)
-
-   ![Hero image desktop](docs/hero-phone.png)
+   ![Hero image phone](docs/hero-phone.png)
    
   - About us section.
     - This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
@@ -209,9 +207,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     - This is valuable to the user as it contains relevant information and answers to the most common questions.
 
-    ![About us Small Screens](docs/about-us-1-one-row.png)
-    
-    ![About us Small Screens](docs/about-us-2-one-row.png)
+    ![About us Small Screens](docs/about-us-one-row.png)
 
   - Video section.
     - This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
@@ -412,6 +408,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [Flaticon - Gardening](https://www.flaticon.com/free-icon/gardening_1973742?term=garden&page=1&position=1&origin=search&related_id=1973742)
 - [Freepik - Storyset - Gardening illustrations - Pana](https://storyset.com/illustration/gardening/pana)
 - [Freepik - Storyset - Gardening illustrations - Cuate](https://storyset.com/illustration/gardening/cuate)
+- [Freepik - Free Mockup](https://www.freepik.com/free-psd/full-screen-smartphone-mockup-design_3576506.htm#query=mockup%20phone&position=2&from_view=keyword&track=ais)
 
 ### Reference material
 
