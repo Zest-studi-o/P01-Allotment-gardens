@@ -2,7 +2,7 @@
 
 City Gardens is a website designed to connect potential and active users of the community garden allotments available in Dublin city and how to take the best use of them once taking part.
 
-![City Gardens](docs/mockup-white-lg.png)
+![City Gardens](docs/mockup-white.png)
 
 Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens/
 
@@ -58,7 +58,7 @@ Link to the live site here: https://zest-studi-o.github.io/P01-Allotment-gardens
 
 City Gardens is an initiative created in conjunction with local communities and Dublin City Council, the aim of this initiative is to encourage people who live in the inner city, particularly in apartments and flat complexes to spend some time outside gardening and socialising using public lands divided into allotments which can be used by members of the public.
 
-People can take an allotment for the purpose of gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
+People can take an allotment for gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
 There is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
 
@@ -195,9 +195,9 @@ This website has four pages that can be accessed from the navigation menu (home 
 
    ![Hero image desktop](docs/hero-image.webp)
 
-   ![Hero image tablet](docs/hero-tablet.webp)
+   ![Hero image tablet](docs/hero-tablet.png)
 
-   ![Hero image desktop](docs/hero-phone.webp)
+   ![Hero image desktop](docs/hero-phone.png)
    
   - About us section.
     - This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
@@ -211,7 +211,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     ![About us Small Screens](docs/about-us-1-one-row.png)
     
-    ![About us Small Screens](docs/about-us-2-0ne-row.png)
+    ![About us Small Screens](docs/about-us-2-one-row.png)
 
   - Video section.
     - This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
