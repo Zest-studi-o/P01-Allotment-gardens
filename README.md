@@ -273,7 +273,7 @@ It is important to have a website that is accessibility friendly, this objective
 - Ensuring that images have an alt attribute.
 - Using aria labels.
 - Using semantic html.
-- Making sure that background and foreground colours have high contrast, after an error returned in the nav bar by the lighthouse validator the background colour darkness was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
+- Making sure that background and foreground colours have high contrast, after an error returned in the nav bar by the lighthouse validator the background colour darkness was increased to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
 - Using a sans serif font is recommended for web design which is easy to read.
 - Adding titles to iframes.
 
@@ -310,6 +310,10 @@ HTML and CSS were used to create this website.
 [Illustrator](https://www.adobe.com/ie/products/illustrator.html) - For the fav icon creation.
 
 [Shields](https://shields.io/) - To add badges to readme.
+
+[Amiresponsive](https://ui.dev/amiresponsive) - To generate a mockup in different screen sizes.
+
+[Techsini](https://techsini.com/multi-mockup/) - To generate individual mockups.
 
 ---
 
