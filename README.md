@@ -116,7 +116,7 @@ Some other alternatives and shades based on the selected palette were:
 
 The final colour palette used in the website was slightly altered after testing validator suggestions of improving the contrast and changing the header and footer for a slightly darker hue colour #426473.
 
-The background colour for the about us section was also changed by a sand colour which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery.
+The background colour for the about us section was also changed by a sand colour #c8bea0 which conveys nature as it is the colour of soil and goes well with the other colours used in the site and imagery. After testing this background colour makes the text easier to read.
 
 ### Typography
 
@@ -124,7 +124,7 @@ The fonts were taken from Google Fonts:
 
 - Karla is used for headings and subheadings on the site. It is a serif font that combines well with the body copy font, which is sans-serif, serif and sans-serif fonts offer good contrast.
 
-- Monstserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web.
+- Monstserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web design.
 
 - Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awesome and combined with this font.
 
@@ -172,7 +172,14 @@ This website has four pages that can be accessed from the navigation menu (home 
     ![Nav bar desktop](docs/nav-bar-desktop.png)
 
     - For tablet screen sizes the navigation bar is under the logo for an optimal display.
+
+    ![Nav bar tablet](docs/nav-bar-tablet.png)
+
     - For mobile screen sizes the navigation menu is a burger toggler which makes things easier for the user by being able to collapse the content when not needed or clicking on it to expand it.
+
+    ![Nav bar phone](docs/nav-bar-phone-1.png)
+
+    ![Nav bar phone](docs/nav-bar-phone-2.png)
 
 - A footer with links to social media.
     - These links open in a new tab for easy navigation.
@@ -183,22 +190,38 @@ This website has four pages that can be accessed from the navigation menu (home 
   - Hero section.
     - This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
     - This introduces the user to City Gardens and makes easy to understand what the site is about.
+    - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engagig.
+    - This hero image with its overlay text banner is responsive for all screen sizes.
 
-   ![Hero image](docs/hero-image.webp)
+   ![Hero image desktop](docs/hero-image.webp)
+
+   ![Hero image tablet](docs/hero-tablet.webp)
+
+   ![Hero image desktop](docs/hero-phone.webp)
    
   - About us section.
     - This explains to the user what is City Gardens, the reasons to have an allotment and how to take part.
     - This is valuable to the user as it contains relevant information and answers to the most common questions.
 
-    ![About us](docs/about-us-1.png)
+    ![About us](docs/about-us-1-desktop.png)
     
-    ![About us](docs/about-us-2.png)
+    ![About us](docs/about-us-2-desktop.png)
+
+    - This is valuable to the user as it contains relevant information and answers to the most common questions.
+
+    ![About us Small Screens](docs/about-us-1-one-row.png)
+    
+    ![About us Small Screens](docs/about-us-2-0ne-row.png)
 
   - Video section.
     - This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
-    - The user finds value in seeing other people with allotments speaking about them and see clearly what to expect.
+    - The user finds value in seeing other people with allotments speaking about them and clearly see what to expect.
 
-    ![Videos](docs/videos.png)
+    ![Videos Desktop](docs/videos-desktop.png)
+
+    - The videos go in one row for tablet and phone screen sizes to fit better the space and cause an optimal user experience.
+
+    ![Videos Tablet and Phone](docs/videos-one-row.png)
 
 - **Locations page.**
   - Cards with images of the locations.
@@ -212,7 +235,11 @@ This website has four pages that can be accessed from the navigation menu (home 
     - This section has a gallery of images from participants and the allotments themselves.
     - This is valuable to the user as they can see other members and how the allotments look like, what sort of produce they can obtain, generating a positive response.
 
-    ![Gallery](docs/gallery.png)
+    ![Gallery Desktop](docs/gallery-desktop.png)
+
+    - The gallery section is also responsive taking one row for smaller devices to facilitate viewing the images as they will enlarge in smaller screen sizes so the user can scroll through them.
+
+    [Gallery](docs/gallery-one-row.png)
 
 - **Contact us page.**
   - Form.
@@ -220,6 +247,10 @@ This website has four pages that can be accessed from the navigation menu (home 
     - The user can find an easy way to contact City Gardens to apply for an allotment and also to ask general questions or make suggestions.
 
     ![Contact us](docs/contact-page.png)
+
+    - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and  media queries
+
+    ![Contact us](docs/contact-page-phone.png)
 
 - Thank you page.
   - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10s.
@@ -231,7 +262,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 In the future I would like to:
 
 - Add some animations to the images.
-- Implement further form validations by adding JS.
+- Implement further form validations by adding JS to differentiate between numbers from different countries and validate them.
 - Create individual pages for each location, that the user could easily access by clicking on the cards in the locations section.
 - Create a search bar and a filter for the locations to be able to sort and find.
 
@@ -242,8 +273,8 @@ It is important to have a website that is accessibility friendly, this objective
 - Ensuring that images have an alt attribute.
 - Using aria labels.
 - Using semantic html.
-- Making sure that background and foreground colours have high contrast, after an error returned in the nav bar by the lighthouse validator the  background colour darkness was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
-- Using a sans serif font recommended for web which are easy to read.
+- Making sure that background and foreground colours have high contrast, after an error returned in the nav bar by the lighthouse validator the background colour darkness was increased in order to contrast higher with the white color applied to the font, the logo also has a drop shadow to enhance visibility and the clickable menu for mobile screens uses a visible font size.
+- Using a sans serif font is recommended for web design which is easy to read.
 - Adding titles to iframes.
 
 ---
@@ -423,3 +454,4 @@ There are no remaining known bugs, all of them have been fixed.
 - Alan, course facilitator, for the advice.
 - Jarek Bonk, cohort colleague, for his help with the grid when I ran out of tutor hours.
 - Paul Treggiden, project-milestone-1 slack member, for his help with fixing bug 12.
+- Carl Murray, peer-code-review slack member, for his feedback.
