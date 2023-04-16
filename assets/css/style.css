@@ -304,7 +304,7 @@ p {
 
 .flex-container-videos {
   display: flex;
-  flex-wrap: wrap; /* The videos go to column automatically when decreasing screen size */
+  flex-wrap: wrap; /* The videos change to a column automatically when decreasing screen size */
 
   text-align: center;
   justify-content: space-evenly;
@@ -588,7 +588,7 @@ footer {
 }
 
 /* Media queries */
-/* For macbook pro 14 inches and bellow */
+/* For MacBook Pro 14 inches and below */
 @media screen and (max-width: 1344px) {
   footer {
     padding-bottom: 1rem;
@@ -633,7 +633,7 @@ footer {
   }
 }
 
-/* For medium screens size from 1085px wide and down (checked reducing the screen with the developer tools), for white gap in the footer */
+/* For medium screens size from 1085px wide and down (checked by reducing the screen with the developer tools), for the white gap in the footer */
 @media screen and (max-width: 1085px) {
   footer {
     padding-bottom: 4rem;

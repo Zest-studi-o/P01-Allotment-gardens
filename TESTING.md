@@ -16,9 +16,9 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
   - [Full Testing](#Full-Testing)
   - [Test Cases](#Test-Cases)
 
-Manual testing was carried as soon as the project started using exploratory testing techniques and a list of bugs were identified and placed in a table to tackle.
-At the same time of building each page the site was tested in different screen sizes using the developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
-Automated testing was carried at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this a test case table was created to test the website using different devices and screen sizes. To finish, the project was shared in slack for peer review.
+Manual testing was carried out as soon as the project started using exploratory testing techniques and a list of bugs was identified and placed in a table to tackle.
+At the same time as building each page, the site was tested in different screen sizes using developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
+Automated testing was carried out at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this, a test case table was created to test the website using different devices and screen sizes. To finish, the project was shared in Slack for peer review.
 
 ---
 
@@ -47,8 +47,8 @@ CSS - No errors were found when passing through the official (Jigsaw) validator.
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
-This test was run thorough different devices which returned different results.
-For this project I focused on achieving 100% in accessibility as instructed. This is achieved in all pages.
+This test was run through different devices which returned different results.
+For this project, I focused on achieving 100% accessibility scores as instructed. This is achieved on all pages.
 
 #### Desktop Results
 
@@ -74,30 +74,30 @@ For this project I focused on achieving 100% in accessibility as instructed. Thi
 `First Time Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a user I want to have the site displayed clearly in different devices | I have developed this site to be fully responsive in all device sizes |
-| As a user I want to find information on what is City Gardens and how to participate | The information is clearly displayed in the home page and a link to the contact form is provided to easy access to more information |
-| As a user I want to Know exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a google map so the users can easily locate them |
-| As a user I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email addresses for the different allotments displayed in a clear manner and linked  |
+| As a user, I want to have the site displayed clearly on different devices | I have developed this site to be fully responsive in all device sizes |
+| As a user, I want to find information on what is City Gardens and how to participate | The information is displayed on the home page and a link to the contact form is provided for easy access to more information |
+| As a user, I want to know exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a Google map so the users can easily locate them |
+| As a user, I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email addresses for the different allotments are displayed clearly and linked  |
 
 `Returning Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a returning visitor I want to find images and videos of the allotments | In the home page there are different videos with users explaining about their experiences |
-| As a returning visitor I want to be able to easily contact City Gardens with further questions I might have | The users can find a contact form page where they can ask questions or suggest improvements |
+| As a returning visitor, I want to find images and videos of the allotments | On the home page, there are different videos with users explaining their experiences |
+| As a returning visitor, I want to be able to easily contact City Gardens with further questions I might have | The users can find a contact form page where they can ask questions or suggest improvements |
 
 `Frequent Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a frequent visitor I want to see images of the people that participate in City Gardens| The user can see imagery in all pages, there is also a dedicated gallery page that showcases images from participants and the allotments |
+| As a frequent visitor, I want to see images of the people that participate in City Gardens| The user can see imagery on all pages, there is also a dedicated gallery page that showcases images from participants and the allotments |
 
 ### Full Testing
 
 Full testing was performed on the following devices:
 
 - Desktop:
-  - Custom Gaming computer with 2 screens set-up 24 inches and Windows OS
+  - Custom Gaming computer with 2 screens set up 24 inches and Windows OS
 - Laptop:
-  - Macbook Pro 2023 14 inch screen and Mac OS
+  - Macbook Pro 2023 14 inches screen and Mac OS
 - Android Mobile Devices:
   - Samsung Galaxy S20 
   - Samsung Galaxy A50 
@@ -120,8 +120,8 @@ Each device tested the site using the following browsers:
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | Hero section | Image and banner fully responsive | Resized to different screen sizes using dev tools plus different devices and the image and banner adjust | Fully responsive | Pass |
-| About us section | Click on contact form directs the user to contact page where the form is located | Clicked link | The user gets redirected to contact page | Pass |
-| Video section | When clicking a video the user is directed to youtube and the video plays  | Clicked all videos | User directed to youtube and video play | Pass |
+| About us section | Click on contact form directs the user to the contact page where the form is located | Clicked link | The user gets redirected to the contact page | Pass |
+| Video section | When clicking a video the user is directed to youtube and the video plays  | Clicked all videos | User directed to youtube and video plays | Pass |
 
 `Locations page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
@@ -132,15 +132,15 @@ Each device tested the site using the following browsers:
 `Gallery page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Images in the gallery | Images  are fully responsive being displayed in a grid for desktop version and taking 1 column for smaller screens such as tablet or phone | Resized to different screen sizes using dev tools plus different devices and the gallery displays as expected with margins and no clipping | The user can navigate the location section using different screen sizes and devices  | Pass |
+| Images in the gallery | Images are fully responsive being displayed in a grid for desktop version and taking 1 column for smaller screens such as tablet or phone | Resized to different screen sizes using dev tools plus different devices and the gallery displays as expected with margins and no clipping | The user can navigate the location section using different screen sizes and devices  | Pass |
 
 `Contact us page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 --- | --- | --- | --- | --- |
-| Form submission | Entering correct details and click submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to home page in 10 seconds | Pass |
+| Form submission | Entering the correct details and clicking submit directs the user to the thank you page | Fill up the form correctly and hit submit button | The user gets prompted with a thank you message and redirected to the home page in 10 seconds | Pass |
 | Email validation | Entering incorrect details ask the user to enter the appropriate format | Fill up the form incorrectly and attempt to submit | The user gets prompted with a message asking to enter a correct email address | Pass |
 | Radio button validation | The user needs to select a radio button to continue | Attempt to send the form without selecting a radio button option | The user gets prompted with a message asking to select an option | Pass |
-| Character number validation | Entering less or characters than required | Fill up the form with less characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
+| Character number validation | Entering fewer characters than the required | Fill up the form with fewer characters than the established and attempt to submit | The user gets prompted with a message asking to enter the correct number of characters | Pass |
 
 `Thank you page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
