@@ -60,9 +60,9 @@ City Gardens is an initiative created in conjunction with local communities and 
 
 People can take an allotment for gardening and producing fruit and vegetables, these are located in different parts of Dublin city, to allow people from different suburbs to participate in the initiative.
 
-There is a small fee to be able to join and members need to optimally maintain the plot, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events, core funding is provided by Dublin City Hall and the fees. When first signing up people receive a free starter pack including a gardening and horticulture book to make the best use of the land.
+There is a small fee to be able to join and members need to optimally maintain the plot, core funding is provided by Dublin City Hall and the fees.
 
-The purpose of the website is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details, growing guides and gardening tips. The allotments are available for people of all ages and skill sets.
+The purpose of the website is to highlight the availability of the service, where the allotments are located and offer a facility for users to find information such as contact details or gardening tips. The allotments are available for people of all ages and skill sets.
 
 #### Key information for the site
 
@@ -76,27 +76,27 @@ The purpose of the website is to highlight the availability of the service, wher
 
 #### User Goals
 
-- As a user I want to have the site displayed clearly on different devices.
-- As a user I want to find information on what is City Gardens and how to participate.
-- As a user I want to know exactly where the gardens are located.
-- As a user I want to be able to contact City Gardens with any queries or suggestions.
+- As a user, I want to have the site displayed clearly on different devices.
+- As a user, I want to find information on what is City Gardens and how to participate.
+- As a user, I want to know exactly where the gardens are located.
+- As a user, I want to be able to contact City Gardens with any queries or suggestions.
 
-#### First Time Visitor Goals
+#### First-Time Visitor Goals
 
-- As a first time visitor I want to know what City Gardens is and how to participate.
-- As a first time visitor I want to find the locations of the allotments.
-- As a first time visitor I want to be able to find their contact details.
-- As a first time visitor I want to navigate the site easily on all my devices.
-- As a first time visitor I want to see the results of the produce with videos and photos.
+- As a first-time visitor, I want to know what City Gardens is and how to participate.
+- As a first-time visitor, I want to find the locations of the allotments.
+- As a first-time visitor, I want to be able to find their contact details.
+- As a first-time visitor, I want to navigate the site easily on all my devices.
+- As a first-time visitor, I want to see the results of the produce with videos and photos.
 
 #### Returning Visitor Goals
 
-- As a returning visitor I want to find images and videos of the allotments.
-- As a returning visitor I want to be able to easily contact City Gardens with further questions I might have.
+- As a returning visitor, I want to find images and videos of the allotments.
+- As a returning visitor, I want to be able to easily contact City Gardens with further questions I might have.
 
 #### Frequent Visitor Goals
 
-- As a frequent visitor I want to see images of the people that participate in City Gardens.
+- As a frequent visitor, I want to see images of the people that participate in City Gardens.
 
 ---
 
@@ -126,15 +126,15 @@ The fonts were taken from Google Fonts:
 
 - Montserrat is used for the body text on the site. It is a sans-serif font with good readability optimal to use for web design.
 
-- Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font awesome and combined with this font.
+- Lobster is used on the logo with a slight drop shadow for better visibility. It is a display cursive font. The logo leaf icon was taken from font Awesome and combined with this font.
 
 ### Imagery
 
-The images are taken from the royalty free sites credited [here](#Credits).
+The images are taken from the royalty-free sites credited [here](#Credits).
 
 ### Wireframes
 
-Wireframes for desktop, tablet and mobile versions as follows:
+Wireframes for desktop, tablet and mobile versions are as follows:
 
 - Home page
 
@@ -170,7 +170,7 @@ This website has four pages that can be accessed from the navigation menu (home 
     - This will allow the user to navigate easily from any of the pages.
     - For desktop screen sizes the navigation bar is on the right-hand side.
     - For tablet screen sizes the navigation bar is under the logo for an optimal display.
-    - For mobile screen sizes the navigation menu is a burger toggler which makes things easier for the user by being able to collapse the content when not needed or clicking on it to expand it.
+    - For mobile screen sizes the navigation bar is a burger toggler which makes things easier for the user by being able to collapse the content when not needed or clicking on it to expand it.
 
     ![Nav bar mockup](docs/responsive-nav-bar.png)
 
@@ -184,7 +184,7 @@ This website has four pages that can be accessed from the navigation menu (home 
   - Hero section.
     - This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
     - This introduces the user to City Gardens and makes it easy to understand what the site is about.
-    - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engage.
+    - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engage with it.
     - This hero image with its overlay text banner is responsive for all screen sizes.
 
    ![Hero image desktop](docs/hero-image.webp)
@@ -205,7 +205,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
   - Video section.
     - This links to videos on relevant content such as how is it having an allotment, or harvesting the produce.
-    - The user finds value in seeing other people with allotments speaking about them and see what to expect.
+    - The user finds value in seeing other people with allotments speaking about them and knowing what to expect.
 
     ![Videos Desktop](docs/videos-desktop.png)
 
@@ -217,7 +217,7 @@ This website has four pages that can be accessed from the navigation menu (home 
   - Cards with images of the locations.
   - Information with address and contact details and a link to google maps.
   - The user can find easily the locations by clicking on the map, this section also has a contact email address for the particular location.
-  - The locations page is designed to be fully responsive showing the content in three rows for desktop version, two for medium screens and one for smaller screens.
+  - The locations page is designed to be fully responsive showing the content in three rows for the desktop version, two for medium screens and one for smaller screens.
 
    ![Locations](docs/locations.png)
 
@@ -241,7 +241,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     ![Contact us](docs/contact-page.png)
 
-    - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and  media queries.
+    - This form page is designed to be responsive in all screen sizes and adjusts to tablets and phones using the flex-box model and media queries.
 
     ![Contact us mockup](docs/contact-page-mockup.png)
 
@@ -258,8 +258,10 @@ In the future, I would like to:
 - Implement further form validations by adding JS to differentiate between numbers from different countries and validate them.
 - Create individual pages for each location, that the user could easily access by clicking on the cards in the locations section.
 - Create a search bar and a filter for the locations to be able to sort and find.
-- Create another web page for social events.
-- Promote the website using banners that encourage the user to apply and get a free starter pack. 
+- Create another web page for social events: when getting assigned an allotment people would receive a free starter pack including a gardening and horticulture book to make the best use of the land, optionally fruit and veg can be produced, and 10% of this produce can be sold at local markets so the community gardens can have further social events. This feature will encourage users to participate in events and be active in the community.
+- Connect to local markets where produce can be sold to promote social events. Showcase local markets and what the users get from participating, helping with finding where are located.
+- Create a page with growing guides and downloadable content.
+- Promote the website using banners that encourage the user to apply and get some downloadable gardening tips. 
 
 ### Accessibility
 
@@ -304,7 +306,7 @@ HTML and CSS were used to create this website.
 
 [Illustrator](https://www.adobe.com/ie/products/illustrator.html) - For the fav icon creation.
 
-[Shields](https://shields.io/) - To add badges to readme.
+[Shields](https://shields.io/) - To add badges to the readme file.
 
 [Amiresponsive](https://ui.dev/amiresponsive) - To generate a mockup in different screen sizes.
 
@@ -414,9 +416,9 @@ There are no remaining known bugs, all of them have been fixed.
 - [Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
 - [Love Running Walkthrough project readme template](https://github.com/Code-Institute-Solutions/readme-template)
 - [Bully Book Club readme example](https://github.com/kera-cudmore/Bully-Book-Club/blob/main/README.md)
-- [kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
-- [kera Cudmore readme template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
-- [kera Cudmore - The Quiz Arms](https://github.com/kera-cudmore/TheQuizArms)
+- [Kera Cudmore readme examples](https://github.com/kera-cudmore/readme-examples)
+- [Kera Cudmore readme template](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md)
+- [Kera Cudmore - The Quiz Arms](https://github.com/kera-cudmore/TheQuizArms)
 - [Creating your first readme](https://www.youtube.com/watch?v=XbYJ4VlhSnY&ab_channel=CodeInstitute)
 - [How to create a table of contents in markdown](https://www.youtube.com/watch?v=6V5yaVhK_hE&ab_channel=LinuxWorkshop)
 - [Markdown table generator](https://www.tablesgenerator.com/markdown_tables#)
@@ -428,7 +430,7 @@ There are no remaining known bugs, all of them have been fixed.
 - [W3 schools](https://www.w3schools.com/)
 - [How to keep your footer where it belongs?](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 - [Remove white space from the footer](https://stackoverflow.com/questions/34188161/remove-white-space-below-footer)
-- [Color hexa](https://www.colorhexa.com/)
+- [Color Hexa](https://www.colorhexa.com/)
 - [Styling Placeholder Text with CSS](https://www.samanthaming.com/tidbits/57-styling-css-placeholder/)
 - [How to center a HTML form in CSS](https://devpractical.com/center-form-in-html-css/)
 - [CSS cards](https://www.w3schools.com/howto/howto_css_cards.asp)
