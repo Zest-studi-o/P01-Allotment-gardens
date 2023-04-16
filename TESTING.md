@@ -18,7 +18,7 @@ Link to the live site here: [City Gardens](https://zest-studi-o.github.io/P01-Al
 
 Manual testing was carried out as soon as the project started using exploratory testing techniques and a list of bugs was identified and placed in a table to tackle.
 At the same time as building each page, the site was tested in different screen sizes using developer tools to better adjust the design and make sure that it is responsive in all screen sizes.
-Automated testing was carried out at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this, a test case table was created to test the website using different devices and screen sizes. To finish, the project was shared in Slack for peer review.
+Automated testing was carried out at a later stage using validators and all errors were fixed, it was checked that all user goals are met and after this, a test case table was created to test the website using different devices and screen sizes. To finish, the project was shared in Slack for peer review where the use of a different form of validation was suggested to allow other numbers other than Irish.
 
 ---
 
@@ -127,7 +127,7 @@ Each device tested the site using the following browsers:
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
 | Images of the locations | Images and map are fully responsive taking three columns for larger screens, two columns for medium screens and one column for small screens | Resized to different screen sizes using dev tools plus different devices and the columns and map display as expected | The user can navigate the location section using different screen sizes and devices  | Pass |
-| Map and address | Clicking the map link directs the user to google maps exact location | Clicked link | The user gets redirected to the location in google maps | Pass |
+| Map and address | Clicking the map link directs the user to Google maps exact location | Clicked link | The user gets redirected to the location in Google maps | Pass |
 
 `Gallery page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
