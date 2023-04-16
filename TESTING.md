@@ -71,12 +71,12 @@ For this project, I focused on achieving 100% accessibility scores as instructed
 
 ### Testing User Stories
 
-`First Time Visitors`
+`First-Time Visitors`
 | Goals | How are they achieved? |
 | :--- | :--- |
-| As a user, I want to have the site displayed clearly on different devices | I have developed this site to be fully responsive in all device sizes |
+| As a user, I want to have the site displayed clearly on different devices | I have developed this site to be fully responsive on all device sizes |
 | As a user, I want to find information on what is City Gardens and how to participate | The information is displayed on the home page and a link to the contact form is provided for easy access to more information |
-| As a user, I want to know exactly where the gardens are located | I have created a locations page in which the allotments are shown with their name and image, contact email and a Google map so the users can easily locate them |
+| As a user, I want to know exactly where the gardens are located | I have created a locations page on which the allotments are shown with their name and image, contact email and a Google map so the users can easily locate them |
 | As a user, I want to be able to contact City Gardens with any queries or suggestions | There is a contact form to apply or for general enquiries and some other email addresses for the different allotments are displayed clearly and linked  |
 
 `Returning Visitors`
@@ -112,9 +112,9 @@ Each device tested the site using the following browsers:
 `All pages`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |
 | --- | --- | --- | --- | --- |
-| Nav bar | Clicking any of the links directs the user to the relevant page | Clicked all pages in nav menu | Directs the user to the relevant page | Pass |
+| Nav bar | Clicking any of the links directs the user to the relevant page | Clicked all pages on the nav bar | Directs the user to the relevant page | Pass |
 | The Sites title | Clicking on the logo link directs the user back to the home page | Clicked title | Home page reloads | Pass |
-| Footer | Clicking any of the social media links directs the user to the relevant social media page | Clicked all social media icons in the footer | Directs the user to the relevant social media page | Pass |
+| Footer | Clicking any of the social media links directs the user to the relevant social media page | Clicked all social media icons on the footer | Directs the user to the relevant social media page | Pass |
 
 `Home page`
 | Feature | Expected Result | Testing Performed | Actual Result | Pass/Fail |

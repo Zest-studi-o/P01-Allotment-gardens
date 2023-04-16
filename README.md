@@ -182,7 +182,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
 - **Home Page.**
   - Hero section.
-    - This shows an image of a member of City Gardens in the allotments with a banner that describes that the page is about allotments in Dublin.
+    - Displays an image of a City Gardens member on her allotment with a banner that reads City Gardens Allotments in Dublin.
     - This introduces the user to City Gardens and makes it easy to understand what the site is about.
     - Having a picture of a City Gardens member connects with the user and helps to create a positive impact and engage with it.
     - This hero image with its overlay text banner is responsive for all screen sizes.
@@ -209,7 +209,7 @@ This website has four pages that can be accessed from the navigation menu (home 
 
     ![Videos Desktop](docs/videos-desktop.png)
 
-    - The videos go in one row for tablet and phone screen sizes to fit better the space and cause an optimal user experience.
+    - The videos go in one row for tablet and phone screen sizes to fit the space better and cause an optimal user experience.
 
     ![Videos Tablet and Phone](docs/videos-one-row.png)
 
@@ -246,7 +246,7 @@ This website has four pages that can be accessed from the navigation menu (home 
     ![Contact us mockup](docs/contact-page-mockup.png)
 
 - **Thank you page.**
-  - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10s.
+  - Once the form is submitted successfully the page thanks and redirects the user to the home page in 10 seconds.
   - Thank you pages are known to provide a good user experience as they confirm the form submission and thank the users for their time, creating a positive feeling.
     ![Thank you](docs/thank-you.png)
 
@@ -372,7 +372,7 @@ Please refer to [TESTING.md](TESTING.md) file for all testing carried out.
 | 14  | A     | Video             | The rounded border-radius is not taking effect after the media query is applied      | Go to the website > Click on the form page > Open dev tools > Select a small screen e.g. Pixel 5 > Observe the issue with the videos lacking the border-radius style applied      | The border-radius is not applied and the videos have an awkward positioning when looking at them with the dev tools                                                                        | Ensure that the videos and their positioning are correct for all screen sizes | Swap the floats for the flex-box model as they were causing issues with styles displaying and positioning. | FIXED  |
 | 15  | A     | Contact form             | The phone number validation does not take Irish numbers starting in 085      | Go to the website > Click on the contact form page > Enter your details > Select phone and attempt to enter digits starting with 085 > Observe the issue with the form not validating those      | The form does not validate numbers starting with 085                                                                        | Ensure that the form validates all numbers | Delete the pattern for Irish numbers after user feedback, as one user reported that could not enter a number starting in 085 and another that would like to enter any other numbers, not only Irish. Changed this for a different pattern that accepts a minimum input of five numbers | FIXED  |
 
-### known Bugs
+### Known Bugs
 
 There are no remaining known bugs, all of them have been fixed.
 
